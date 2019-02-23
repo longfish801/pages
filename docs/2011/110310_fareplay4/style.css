@@ -1,0 +1,138 @@
+body {
+	font-size: 100%;
+	line-height: 160%;
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	background-color: #663300;
+}
+div.body {
+	font-size: 100%;
+	line-height: 160%;
+	margin: 0px 10%;
+	padding: 0px 5px;
+	color: black;
+	background-color: #FFC000;
+}
+a:link {
+	color: #FF6666;
+}
+a:visited {
+	color: #CC3333;
+}
+a:active {
+	color: #FF9999;
+}
+a:hover {
+	color: #9999FF;
+}
+h1 {
+	visibility: hidden;
+}
+h2 {
+	font-size: 150%;
+	line-height: 180%;
+	margin: 2em 0px 0px;
+	padding: 5px;
+	color: #CCCCCC;
+	background-color: #660000;
+}
+h3 {
+	font-size: 105%;
+	line-height: 150%;
+	margin: 2em 0px 0px;
+	padding: 0px;
+}
+p {
+	margin: 1em 0px;
+	padding: 5px;
+}
+div.navi {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 100px 0px 0px;
+	padding: 0px;
+	text-align: right;
+}
+div.copy {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+hr {
+	border-width: 1px;
+	border-color: #CCCCCC;
+	border-style: solid;
+}
+ul {
+	margin: 0.5em 0px;
+	padding: 0px;
+}
+li {
+	margin-left: 30px;
+	list-style-type: square;
+	list-style-position: inside;
+}
+dl {
+	margin: 0.5em 0px;
+	padding: 0px;
+}
+dt {
+	margin: -1em 0px;
+	padding: 5px;
+}
+dd {
+	margin: -1em 20px;
+	padding: 5px;
+}
+div.subhead {
+	font-weight: bold;
+	font-size: 120%;
+	text-align: center;
+}
+.column {
+	margin: 20px 0px;
+	padding: 10px 30px;
+	color: black;
+	background-color: #CCCCFF;
+}
+dd .column {
+	margin: 0px -25px;
+	padding: 10px 30px;
+	color: black;
+	background-color: #CCCCFF;
+}
+blockquote {
+	margin: 20px 0px;
+	padding: 10px 30px;
+	color: black;
+	background-color: #CCCCCC;
+}
+div.bqsrc {
+	font-style: italic;
+	text-align: right;
+}
+div.img {
+	margin: 10px;
+	text-align: center;
+}
+.hidden {
+	color: #333333;
+	background-color: #333333;
+}
+div.end {
+	text-align: right;
+}
+.fyi {
+	font-size: 95%;
+	margin: 10px;
+	padding: 5px;
+	background-color: #FFCCCC;
+}
+#date {
+	font-size: 90%;
+	text-align: right;
+	font-weight: bold;
+}

@@ -1,0 +1,163 @@
+body {
+	font-family: 'ÇlÇr Çoñæí©','ïΩê¨ñæí©',serif;
+	line-height: 140%;
+	color: black;
+	background-color: #CCFFCC;
+	background-attachment: fixed;
+	margin: 0em 10%;
+	background-image: url(img/skel.gif);
+}
+a:link {
+	color: #666666;
+}
+a:visited {
+	color: #333333;
+}
+a:active {
+	color: #993333;
+}
+a:hover {
+	color: #333399;
+}
+p {
+	margin:30px 10px;
+	line-height: 170%;
+}
+h1 {
+	font-weight: bold;
+	font-size: 200%;
+	line-height: 170%;
+	color: #000000;
+	text-align: center;
+	margin: 100px 0px;
+	padding: 10px;
+}
+h2 {
+	font-size: 120%;
+	line-height: 170%;
+	margin: 15px 10px;
+	padding: 0px 5px;
+	border-width: 2px 0px;
+	border-color: #333333;
+	border-style: solid;
+}
+h3 {
+	font-size: 120%;
+	line-height: 170%;
+	margin: 15px 10px;
+	padding: 0px 5px;
+	border-width: 0px 0px 1px 5px;
+	border-color: #006666;
+	border-style: solid;
+}
+dl {
+	margin: 30px 20px;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin: 0px 0px 0px 40px;
+}
+ul {
+	margin: 0px 10px 0px 50px;
+}
+li {
+	list-style-type: square;
+	marker-offset: 50px;
+}
+strong {
+	font-weight: bold;
+	color: #000066;
+}
+big {
+	font-weight: bold;
+	font-size: 140%;
+	color: #000066;
+}
+blockquote {
+	line-height: 160%;
+	margin: 0px 0px 10px;
+	padding: 10px;
+	border-width: 1px;
+	border-color: #999999;
+	border-style: solid;
+}
+div.body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #FFFFFF;
+}
+div.footer {
+	margin: 1em 0px 0px;
+	padding: 0px;
+	background-image: url(img/skel.gif);
+}
+div.navigator {
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+	font-family: Arial,sans-serif;
+	font-size: 90%;
+	line-height: 110%;
+}
+p.ReturnToC {
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+	font-family: Arial,sans-serif;
+	font-size: 90%;
+	line-height: 110%;
+}
+div.hl {
+	margin-top: 5px;
+	padding: 0px;
+	font-weight: bold;
+	text-align: center;
+	border-width: 0px;
+}
+div.fyi {
+	font-family: 'ÇlÇr ÇoÉSÉWÉbÉN','Osaka',sans-serif;
+	font-size: 90%;
+	color: #660000;
+	background-color: #FFFFFF;
+	background-image: url(img/skel2.gif);
+	margin: 10px 20px;
+	padding: 5px;
+	border-width: 1px;
+	border-color: #660000;
+	border-style: solid;
+}
+div.source {
+	font-style: italic;
+	text-align: right;
+	margin: 0px;
+	padding: 2px 5px;
+	border-style: none;
+}
+div.source a:link {
+	color: #CCCCCC;
+}
+div.source a:visited {
+	color: #999999;
+}
+div.source a:active {
+	color: #FF9999;
+}
+div.source a:hover {
+	color: #9999FF;
+}
+dl.bq {
+	font-size: 90%;
+	margin-top: 150px;
+}
+span.abbr {
+	font-weight: bold;
+}
+span.secret {
+	color: #006600;
+	background-color: #006600;
+}
+.diff {
+	background-color: #FFFFCC;
+}

@@ -1,0 +1,78 @@
+body {
+	font-size: 100%;
+	line-height: 180%;
+	color: #CCCCCC;
+	background-color: #111133;
+	background-image: url(bak.gif);
+	text-align: center;
+	margin: 0px 15%;
+	padding: 0px;
+}
+div.header, div.body, div.footer {
+	background-image: url(bak.gif);
+	text-align: left;
+	margin: 0px;
+}
+div.header {
+	background-color: #331111;
+	padding: 30px 20px;
+}
+div.body {
+	background-color: #111111;
+	padding: 1em 20px;
+}
+div.footer {
+	background-color: #331111;
+	padding: 0px 20px;
+}
+p {
+	margin: 0px;
+	padding: 20px 0px;
+}
+a:link {
+	color: #FF9966;
+}
+a:visited {
+	color: #CC6633;
+}
+a:active {
+	color: #3366CC;
+}
+a:hover {
+	color: #6699FF;
+}
+h1 {
+	font-family: 'âÿçNñæí©ëÃ','ÇlÇr Çoñæí©','ïΩê¨ñæí©',serif;
+	font-size: 120%;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	color: white;
+	font-size: 110%;
+	text-align: center;
+}
+div.navi {
+	font-family: Arial,sans-serif;
+	font-size: 90%;
+	line-height: 120%;
+	text-align: right;
+	margin: 0px;
+	padding: 50px 20px 0px;
+}
+div.copy {
+	font-family: Arial,sans-serif;
+	font-size: 90%;
+	line-height: 120%;
+	text-align: right;
+	margin: 0em 0%;
+	padding: 10px 20px 20px;
+}
+#navi {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}

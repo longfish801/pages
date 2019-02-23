@@ -1,0 +1,110 @@
+@charset "utf-8";
+body {
+	font-family: '平成明朝','ＭＳ Ｐ明朝',serif;
+	font-size: 95%;
+	line-height: 160%;
+	color: #666666;
+	background-color: #ffcccc;
+	margin: 1em 10%;
+	padding: 0px;
+}
+a:link {
+	color: #FF6666;
+}
+a:visited {
+	color: #CC3333;
+}
+a:active {
+	color: #FF9999;
+}
+a:hover {
+	color: #9999FF;
+}
+h1 {
+	font-family: '華康明朝体','平成明朝','ＭＳ Ｐ明朝',serif;
+	font-weight: bold;
+	font-size: 200%;
+	color: #999999;
+	line-height: 150%;
+	letter-spacing: 1.3em;
+	text-align: center;
+	margin: 1em 0px;
+	padding: 3em 10px;
+	border-width: 6px;
+	border-color: white;
+	border-style: double;
+}
+h1 small {
+	font-size: 70%;
+	line-height: 150%;
+	letter-spacing: 0.2em;
+	margin: 2em 0px;
+	padding: 0px;
+}
+h2 {
+	font-size: 130%;
+	line-height: 150%;
+	color: #999999;
+	margin: 2em 0px 0px;
+	padding: 2px 5px;
+	border-width: 0px 0px 1px 5px;
+	border-color: #999999;
+	border-style: solid;
+}
+p {
+	margin: 1em 0px;
+	padding: 0px;
+}
+div.navi {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 100px 0px 0px;
+	padding: 0px;
+	text-align: right;
+}
+div.copy {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+hr {
+	border-width: 1px;
+	border-color: #CCCCCC;
+	border-style: solid;
+}
+big {
+	font-weight: bold;
+}
+div.fyi {
+	font-weight: bold;
+	font-size: 120%;
+	color: #ff6666;
+	text-align: center;
+}
+p.fyi {
+	padding: 10px;
+	border-width: 1;
+	border-color: #ff6666;
+	border-style: double;
+}
+.hidden {
+	color: #003333;
+	background-color: #003333;
+}
+table,tr,td,th {
+	font-size: 95%;
+	line-height: 150%;
+	border-width: 1;
+	border-color: #003333;
+	border-style: solid;
+	border-collapse: collapse;
+}
+p.end {
+	text-align: right;
+}
+p.vspace {
+	text-align: center;
+	font-size: 150%;
+}

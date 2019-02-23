@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="shortcut icon" href="/about/ref/favicon.ico">
+<link href="/_style/text.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript" src="/_cgi/prototype.js"></script>
+<script type="text/javascript" src="/_cgi/infobar/script.js"></script>
+<title>LaTeXで小説同人誌を作る</title>
+</head>
+<body>
+<div id="header"><a href="/index.html"><img src="/_style/img/title.png" id="top" alt="*the long fish*" width="217" height="43"></a></div>
+<div id="side"></div>
+<div id="body">
+
+<h1>LaTeXで小説同人誌を作る</h1>
+<div id="date">公開日：2008.11.24</div>
+
+<ul>
+<!--htmlex_CONTENTS H2="" H3="" NOCONTAINER-->
+	<li><a href="#id0001">特徴</a></li>
+	<li><a href="#id0002">キャプチャ</a></li>
+	<li><a href="#id0003">使い方</a></li>
+	<li><a href="#id0004">謝辞</a></li>
+<!--htmlex_CONTENTS_END-->
+</ul>
+
+<p>　11/9の文学フリマで個人誌<a href="/pages/2008/081027_iron/">『鉄錆風味歪夢 自選集』</a>を頒布しました。そのときの原稿を元にした LaTeXサンプルを公開します。</p>
+
+<h2><a name="id0001">特徴</a></h2>
+
+<p>　以下の特徴があります。</p>
+
+<ul>
+<li>A5版の縦書き、二段組みです。</li>
+<li>巻頭歌、タイトルのため、頁中央に文字や画像を表示します。</li>
+<li>目次、章タイトルを tbook既存のデザインとは変えています。</li>
+<li>小口に画像を入れ、頁番号を縦書きの漢数詞にしています。</li>
+<li>奥付も縦書きです。これは以下を参考にしました。<br>
+<blockquote>
+個人出版コミュニティ LaTeXによる書籍製作（１５）
+<a href="http://bookproduction.blog69.fc2.com/blog-entry-68.html">http://bookproduction.blog69.fc2.com/blog-entry-68.html</a>
+</blockquote>
+</li>
+<li>ダッシュ（――）は罫線を利用しています（<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>のアイデア）。なぜか倍角(\scalebox)ではうまくいかない……。</li>
+<li>「！」「？」の後に来る空白を少し縮めています。既存のままだと少し大きすぎるように感じるので。</li>
+</ul>
+
+<h2><a name="id0002">キャプチャ</a></h2>
+
+<p>　出力される PDFの画面キャプチャを以下に示します。</p>
+
+<div class="img"><img src="cap/cap01.jpg" alt="キャプチャ01" width="100%"></div>
+<div class="img"><img src="cap/cap02.jpg" alt="キャプチャ02" width="100%"></div>
+<div class="img"><img src="cap/cap03.jpg" alt="キャプチャ03" width="100%"></div>
+<div class="img"><img src="cap/cap04.jpg" alt="キャプチャ04" width="100%"></div>
+<div class="img"><img src="cap/cap05.jpg" alt="キャプチャ05" width="100%"></div>
+
+<h2><a name="id0003">使い方</a></h2>
+
+<p>　使い方は以下の通りです。<br>
+　前提として、(1)Windows XP上で (2)LaTeXをインストール済（platex, dvipdfmxコマンドが使える状態）とします。<br>
+　なお、タイトルや小口の画像は、サンプルのため低解像度のものを使用しています。実際には印刷所の指定する解像度に合わせる必要があります。</p>
+
+<ol>
+<li><a href="novelbook-latex-sample.zip">novelbook-latex-sample.zip</a>をダウンロードし、適当なフォルダに解凍します。</li>
+
+<li>解凍したフォルダから novelbook.clsを ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーします。</li>
+
+<li>以下のサイトから wallpaper.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。<br>
+
+<blockquote>
+CTAN: directory: /tex-archive/macros/latex/contrib/wallpaper<br>
+<a href="http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/">http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/</a>
+</blockquote>
+
+wallpaper.styは壁紙画像のスタイルファイルです。サンプルでは小口に電線の画像を入れるために使っています。ただし、tbookではうまく動作しないため、novelbook.clsで renewcommandしています。</li>
+
+<li>以下のサイトから tatesuji.sty、furikana.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。<br>
+
+<blockquote>
+Fujita Shinsaku TeX/LaTeX Page<br>
+<a href="http://homepage3.nifty.com/xymtex/fujitas2/texlatex/">http://homepage3.nifty.com/xymtex/fujitas2/texlatex/</a>
+</blockquote>
+
+tatesuji.styは漢数詞のためのスタイルファイルです。サンプルでは頁番号に使っています。furikana.styはルビを振るためのスタイルファイルです。</li>
+
+<li>sample.batをダブルクリックして実行して下さい。<a href="sample.pdf">sample.pdf</a>が出力されます。<br>
+バッチファイルの内容は以下の通りです。platexを目次作成のため二回実行し、dvipdfmxで PDFファイルを作成しています。<br>
+<blockquote>
+platex sample<br>
+platex sample<br>
+dvipdfmx -p a5 sample.dvi<br>
+</blockquote>
+</li>
+</ol>
+
+<h2><a name="id0004">謝辞</a></h2>
+
+<p>　そもそも私を LaTeXの茨道に導いてくれた<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>に感謝。
+
+</div>
+<div id="footer">
+<span id="navi"><a href="/index.html"><img src="/about/ref/banner.gif" alt="*the long fish*" width="88" height="31"></a></span><br>
+<span id="copy">&copy; 2008 Sugimoto@MNU-No10 All rights reserved.</span>
+<hr>
+</div>
+</body>
+</html>

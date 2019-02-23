@@ -1,0 +1,48 @@
+body {
+	font-family: 'ïΩê¨ñæí©','ÇlÇr Çoñæí©',serif;
+	font-size: 100%;
+	line-height: 170%;
+	color: #CCCCCC;
+	background-color: black;
+	background-image: url(bg.gif);
+	margin: 1em 20%;
+	padding: 0px;
+}
+a:link {
+	color: #666699;
+}
+a:visited {
+	color: #333366;
+}
+a:active {
+	color: #996666;
+}
+a:hover {
+	color: #996699;
+}
+p {
+	margin: 0.5em 0px;
+	padding: 0px;
+}
+h1 {
+	font-size: 200%;
+	margin: 2em 0em;
+	padding: 0px;
+}
+hr {
+	border-width: 1px;
+	border-color: #666666;
+	border-style: solid;
+}
+div.navi {
+	text-align: right;
+	margin: 6em 0px 0px;
+	padding: 0px;
+}
+div.copy {
+	font-family: Arial,sans-serif;
+	font-size: 90%;
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+}

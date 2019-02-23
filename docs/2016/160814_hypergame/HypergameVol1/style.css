@@ -1,0 +1,91 @@
+body {
+	background-color: #FF99CC;
+	background-image: url("../image/bak.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	font-family: 'ïΩê¨ñæí©','ÇlÇr Çoñæí©',serif;
+	font-size: 100%;
+	color: black;
+	line-height: 170%;
+	margin: 1em 10%;
+	padding: 0px;
+}
+a:link {
+	color: #FF6666;
+}
+a:visited {
+	color: #CC3333;
+}
+a:active {
+	color: #FF9999;
+}
+a:hover {
+	color: #9999FF;
+}
+h1 {
+	display:none;
+}
+h2 {
+	font-size: 180%;
+	font-weight: bold;
+	line-height: 150%;
+	margin: 3em 0px;
+	padding: 0px;
+}
+h3 {
+	font-size: 105%;
+	line-height: 150%;
+	margin: 2em 0px 0px;
+	padding: 0px;
+}
+p {
+	margin: 1em 0px;
+	padding: 0px;
+}
+div.basic {
+	font-family: 'ü‡ñæí©','ïΩê¨ñæí©','ÇlÇr Çoñæí©',serif;
+	font-size: 100%;
+	background-image: url("../image/skel.gif");
+	padding: 20px;
+}
+div.navi {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 100px 0px 0px;
+	padding: 0px;
+	text-align: right;
+}
+div.copy {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+hr {
+	border-width: 1px;
+	border-color: #CCCCCC;
+	border-style: solid;
+}
+ul {
+	margin: 0.5em 0px;
+	padding: 0px;
+}
+li {
+	margin-left: 30px;
+	list-style-type: none;
+	list-style-position: inside;
+}
+span.dot {
+	font-weight: bold;
+	border-bottom: dotted 3px black;
+}
+ruby,rb,rp,rt {
+	line-height: 110%;
+}
+rp,rt {
+	font-size: 50%;
+}
+rb {
+	font-size: 100%;
+}
