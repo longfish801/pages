@@ -6,7 +6,7 @@ body {
 	background-image: url('../img/bg.png');
 	color: #003333;
 }
-p, pre {
+p, pre, dt, dd {
 	font-family: 'Noto Serif JP', serif;
 	letter-spacing: 0.1em;
 	line-height: 2.3em;
@@ -26,21 +26,32 @@ a:hover {
 	color: #FF3333;
 }
 h1 {
-	font-size: 150%;
-	margin: 5em 0% 3em;
+	background-color: #003333;
+	color: #EEEEEE;
+	font-size: 300%;
+	padding: 1em 30px 1em;
+	margin: 0em;
 }
 h2 {
-	margin: 1em 0px 1em;
+	margin: 1em 0em;
 	padding: 0.5em 0;
 	border-top: solid 3px #003333;
 	border-bottom: solid 3px #003333;
+}
+article {
+	background-color: #FCFCFC;
+	padding: 1em 30px;
 }
 nav {
 	margin: 3em 0% 2em;
 	text-align: right;
 }
-nav .fas {
-	font-size: 300%;
+blockquote {
+	padding: 1em 3em;
+	background-color: #EEEEFF;
+}
+blockquote p {
+	margin: 1em 0px 1em;
 }
 dl {
 	padding: 0.5em 1em 0.5em 2.3em;
@@ -70,19 +81,22 @@ ul li:before {
 .row {
 	background-image: url("../img/skel.gif")
 }
-article {
-	background-color: #FCFCFC;
-}
-blockquote {
-	padding: 1em 3em;
-	background-color: #EEEEFF;
-}
-blockquote p {
-	font-size: 110%;
-	margin: 1em 0px 0em;
-}
 .bqsrc {
 	font-size: 90%;
 	text-align: right;
 	margin: 0em 0px 2em;
+}
+.list-group {
+	margin: 2em 0px;
+}
+.panel-warning {
+	background-color: #FF9999;
+	padding: 15px 15px 15px 15px;
+}
+.dot {
+	font-weight: bold;
+}
+em {
+	font-style: normal;
+	font-weight: bolder;
 }
