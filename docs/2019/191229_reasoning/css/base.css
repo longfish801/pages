@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+body {
+	font-family: 'Noto Serif JP', serif;
+	background-color: #EEEEEE;
+	background-image: url('../img/bg.png');
+	color: #003333;
+}
+p, pre {
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1em;
+	line-height: 2.3em;
+	text-align: justify;
+	word-wrap: break-word;
+}
+a:link {
+	color: #0099CC;
+}
+a:visited {
+	color: #009999;
+}
+a:active {
+	color: #CCCCCC;
+}
+a:hover {
+	color: #FF3333;
+}
+h1 {
+	font-size: 150%;
+	margin: 5em 0% 3em;
+}
+h2 {
+	margin: 1em 0px 1em;
+	padding: 0.5em 0;
+	border-top: solid 3px #003333;
+	border-bottom: solid 3px #003333;
+}
+nav {
+	margin: 3em 0% 2em;
+	text-align: right;
+}
+nav .fas {
+	font-size: 300%;
+}
+dl {
+	padding: 0.5em 1em 0.5em 2.3em;
+	position: relative;
+	background: #EEEEFF;
+}
+dd {
+	padding: 0em 0em 0em 2em;
+}
+ul {
+	padding: 0.5em 1em 0.5em 2.3em;
+	position: relative;
+	background: #EEEEFF;
+}
+ul li {
+	line-height: 1.5;
+	padding: 0.5em 0;
+	list-style-type: none!important;
+}
+ul li:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f0da";
+	position: absolute;
+	left : 1em; /*左端からのアイコンまで*/
+	color: gray; /*アイコン色*/
+}
+.row {
+	background-image: url("../img/skel.gif")
+}
+article {
+	background-color: #FCFCFC;
+}
+blockquote {
+	padding: 1em 3em;
+	background-color: #EEEEFF;
+}
+blockquote p {
+	font-size: 110%;
+	margin: 1em 0px 0em;
+}
+.bqsrc {
+	font-size: 90%;
+	text-align: right;
+	margin: 0em 0px 2em;
+}
