@@ -1,22 +1,55 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!doctype html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="/_cgi/amathum/style.css" rel="stylesheet" type="text/css">
-<link href="style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,700&amp;subset=japanese">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 <style type="text/css">
 <!--
 body {
 	background-color: #66CCFF;
+	font-family: 'Helvetica Neue',Arial,'Hiragino Kaku Gothic ProN','Hiragino Sans',Meiryo,sans-serif;
+	letter-spacing: 0.05rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
 }
-div.titleimg {
-	margin : 5em 0px;
-	text-align: center;
+h1 {
+	display:none;
+}
+h2 {
+	margin-top: 2rem;
+}
+div.navi {
+	font-size: 80%;
+	line-height: 120%;
+	margin: 100px 0px 0px;
+	padding: 0px;
+	text-align: right;
+}
+div.copy {
+	font-size: 80%;
+	line-height: 150%;
+	margin: 0px 0px 30px;
+	padding: 0px;
+	text-align: right;
 }
 div.plot {
-	font-family: '游明朝','平成明朝','ＭＳ Ｐ明朝',serif;
-	font-size: 120%;
-	line-height: 180%;
+	font-family: 'Noto Serif JP', serif;
+	font-size: 1.2rem;
+	line-height: 2.3rem;
+	background-image: url("image/skel.gif");
+	padding: 50px;
+}
+div.opening {
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.05rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
 	background-image: url("image/skel.gif");
 	padding: 50px;
 }
@@ -25,9 +58,6 @@ div.basic {
 	font-size: 100%;
 	background-image: url("image/skel.gif");
 	padding: 20px;
-}
-h1 {
-	display:none;
 }
 div.subhead {
 	margin: 0em 15%;
@@ -43,22 +73,43 @@ li {
 	list-style-type: square;
 	list-style-position: inside;
 }
-dt {
-	font-weight: bold;
+.list-group-item {
+	background-color: #EAFEFF;
+}
+.list-group-item:hover {
+	background-color: #EEFFFF;
+}
+#titleimg {
+	text-align: center;
+	margin: 200px 0% 100px;
 }
 -->
 </style>
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<script type="text/javascript" src="/_cgi/prototype.js"></script>
-<script type="text/javascript" src="/_cgi/amathum/script.js"></script>
-<script type="text/javascript" src="/_style/script.js"></script>
 <title>ハィパァゲィム</title>
 </head>
 <body>
 
-<h1>ハィパァゲィム</h1>
+<div class="container">
+<div class="row justify-content-center">
 
-<div class="titleimg"><img src="image/title.png" alt="ハィパァゲィム" width="800" height="470"></div>
+<h1>ハィパァゲィム</h1>
+<div id="titleimg"><img src="image/title.png" alt="ハィパァゲィム" class="img-fluid"></div>
+
+</div>
+</div>
+
+<div class="container">
+<div class="row justify-content-center">
+
+<!-- 目次要素 -->
+<nav class="col-lg-3" class="list-group">
+<a href="#id1" class="list-group-item">あらすじ</a>
+<a href="#id2" class="list-group-item">ご紹介</a>
+<a href="#id3" class="list-group-item">冒頭場面</a>
+</nav><!-- 目次要素ここまで -->
+
+<!-- 本文要素 -->
+<div class="col-lg-9 px-md-5">
 
 <h2><a name="id1">あらすじ</a></h2>
 
@@ -100,65 +151,80 @@ dt {
 <div class="basic">
 
 <div class="amathum" id="Books:ASIN:B01KDC30M4:Medium"><a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01KDC30M4/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01KDC30M4&linkCode=as2&tag=thelongfish-22&linkId=c31298136bfeafca055dae5bb4b63974"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01KDC30M4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thelongfish-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=thelongfish-22&l=am2&o=9&a=B01KDC30M4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
-
 <div class="amathum" id="Books:ASIN:B01KDCI6WS:Medium"><a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01KDCI6WS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01KDCI6WS&linkCode=as2&tag=thelongfish-22&linkId=16f0f1004122e8a37d762d1bb0a91b4f"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01KDCI6WS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thelongfish-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=thelongfish-22&l=am2&o=9&a=B01KDCI6WS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
 
 <p>　東京創元社主催の第23回鮎川哲也賞に応募し、一次選考通過（二次選考にて落選）した長編小説『ハィパァゲィム』を全面的に改稿・加筆しました。</p>
 
-<p>　上巻と下巻があります。<br>
-　上巻は無料で公開しています。下記のリンクを参照してください。<br>
-　Kindleストアからも購入できます。ただし、有料となります（最低価格の設定としています）。</p>
+<p>　ちょっとせつない、ラブコメ風味の学園ミステリです。<br/>
+　一人の女子高生が、雪の日に廃墟から飛び降り自殺をします。なぜ、死を選んでしまったのか？ 学園ミステリならば当然、高校生たちが真相を探ろうとするはずですが、毛色の変わった方向へ物語は進みます。<br/>
+　物語が真の姿を見せるのは第五章の終わりです。運命に呪われてきた少女。偶然からその境遇を知ってしまった少年。不条理な世界でどうすれば幸福になれるのか二人の抵抗が始まります。<br/>
+　青春ミステリとしては捻じれに捻じれた世界観の下、いわば〈幸福論バトルロイヤル〉がくりひろげられます。</p>
 
-<p>　<strong>下巻は有料のみ</strong>（Kindleストアから購入）ですのでご注意ください。</p>
-
-<dl>
-<dt>ハィパァゲィム［上］空呂木冬宇の幸福論</dt>
-	<dd><a href="HypergameVol1_2016-08-14_08-41-42.mobi">mobiファイル</a></dd>
-	<dd><a href="HypergameVol1/">html形式</a></dd>
-	<dd><a href="http://amzn.to/2bgEm5F">Kindleストア</a> ※有料です。</dd>
-<dt>ハィパァゲィム［下］鯨峰不二之の幸福論</dt>
-	<dd><a href="http://amzn.to/2aR7u26">Kindleストア</a> ※有料です。</dd>
-</dl>
-
-<p>　mobiファイルには、対応するアプリケーションが必要です。<br>
-　たとえば Kindle for PC / Kindle for Macを利用することで、パソコン上で読むことができます。</p>
+<p>　上巻と下巻があります。Kindleストアからも購入できます。</p>
 
 <ul>
-<li><a href="https://www.amazon.co.jp/Kindle-for-PC-Windows-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/dp/B011UEHYWQ">Amazon.co.jp： Kindle for PC (Windows) [ダウンロード]: ソフトウェア</a></li>
-<li><a href="https://www.amazon.co.jp/Amazon-com-Intl-Sales-Inc-Kindle/dp/B011UEIO4S">Amazon.co.jp： Kindle for Mac [ダウンロード]: ソフトウェア</a></li>
+<li><a href="http://amzn.to/2bgEm5F">ハィパァゲィム［上］空呂木冬宇の幸福論</a></li>
+<li><a href="http://amzn.to/2aR7u26">ハィパァゲィム［下］鯨峰不二之の幸福論</a></li>
 </ul>
-
-<p>　html形式は、横書きとなるなど表示に一部差異がありますのでご注意ください。</p>
 
 </div>
 
-<h2><a name="id3">Ｑ＆Ａ</a></h2>
+<h2><a name="id3">冒頭場面</a></h2>
 
-<div class="basic">
+<div class="opening">
 
-<p><b>Ｑ．</b>タイトルからすると、どこかの地下室に監禁された人たちが殺し合いを強制される話ですか？<br>
-<b>Ａ．</b>いいえ、ラブコメ風味の学園ミステリです。</p>
-
-<p><b>Ｑ．</b>本当に学園ミステリですか？<br>
-<b>Ａ．</b>はい、もちろんです。高いところから人が落ちてなんやかんやあったり、教室がいつの間にか密室になっていたり、カワイイ男のコが文化祭で女装を強要されたりする、ごく普通の学園ミステリです。</p>
-
-<p><b>Ｑ．</b>途中からホラー展開になったりするんですか？<br>
-<b>Ａ．</b>まさか、そんなことはありません。試しに“血”という文字を数えてみましたが、80個くらいしかありませんでした。わずか0.025%ですから、ぜんぜんホラーじゃないですね！</p>
-
-<p><b>Ｑ．</b>80個で0.025%？ 逆算すると、32万文字ですよね。長くないですか？<br>
-<b>Ａ．</b>た、たいした長さじゃないですよ。薄手のライトノベルを思い浮かべてもらえばいいと思います。それの……<small>三冊分くらい</small>……だったかな……。</p>
-
-<p><b>Ｑ．</b>ややこしい話ですか。<br>
-<b>Ａ．</b>なぜそんな質問をされるのかわかりませんが、ミステリとしても読み応えのある作品にしたいと頑張りましたので、若干の複雑さはあります。感じ方には個人差があります。できれば下巻を読むのは体調の良いときにしてください。</p>
-
-<p><b>Ｑ．</b>ぶっちゃけ、アラフォーにもなってイケメン男子高校生が主人公の話を書くのって、どんな気持ちですか。<br>
-<b>Ａ．</b>泣くぞ！ 赤子のように声をあげて泣くぞ！ この話を構想し始めたときは、まだアラサーだったんだよ！</p>
+<p>　昨夜の雪がまだ残っていた。建築資材の日陰をまだらに白く染めている。長靴の足跡にできた小さな水溜まりを薄氷が蓋していた。霜の降りた地面を枯れ褪せた雑草が長々と這っている。<br/>
+　そっと息をこぼす。曇る吐息が薄れてゆくのをみつめながら、<ruby>空呂木冬宇<rp>［</rp><rt>うつろぎ ふゆう</rt><rp>］</rp></ruby>はあいまいな笑みをこぼした。<br/>
+　幅広の二車線道路の端をゆっくり歩く。斜めに傾いだ柵の向こう、売土地の看板が立っている。どこまでも均一な灰色の雲が<ruby>野辺<rp>［</rp><rt>のべ</rt><rp>］</rp></ruby>町三丁目の空を塞いでいた。<br/>
+　学校指定のコートは布地が薄い。しんしんと寒さが染みこむ。冬宇は喉元に手をやると、普段は緩めているネクタイを絞ってみた。防寒の役には立たず、ただ軽い吐き気に似た息苦しさを覚えただけだった。<br/>
+　赤煉瓦の塀の前を過ぎる。門前にさしかかると、庭木が織りなす暗がりから声がした。いってきますの明るい声、玄関扉の閉まる音。<br/>
+　いつもの仏頂面が脳裏に浮かび、冬宇は迷った。立ち止まって彼女を迎えるべきか、それとも聞こえなかったふりをして歩き去るべきか。<br/>
+　そんな選択肢を意識する頃には、すでに冬宇は門前を通りすぎていた。歩を緩めるでもなく、かといって急ぐでもなく。マフラーの襟元に手をあて、形が崩れていないか確かめる。<br/>
+　背後から足音が聞こえた。往来にでてきたのだろう。冷たく張りつめた空気に彼女のローファーの靴音が響く。テンポが緩やかになり、やがて立ち止まる。それも束の間、せわしい足取りで冬宇を追いかけてくる。<br/>
+　影が、冬宇の横を通り過ぎた。彼女の後ろ姿が視界に入る。跳ね癖のある髪が肩胛骨の間まで伸びている。<br/>
+「&hellip;&hellip;ナーニヨ」<br/>
+　見慣れた顔がふりかえる。眉をひそめ、彼女は唇を尖らせている。右手の指先をシルバーフレームに添え、眼鏡の位置を直す。不機嫌さを隠すつもりもなく、睨むようにレンズの奥で目を細める。<br/>
+　とっさに返事ができず、冬宇はためらいがちに笑みをこぼした。彼女は前を向き、早足で歩きだす。あわてて冬宇は歩調をそろえた。一緒に行こうと誘われたわけではない。かといって、遅れればまた機嫌を損ねるだろう。おはよう。数歩先の背中に声をかける。<br/>
+「おはよ」<br/>
+「寒いね」<br/>
+「うん」<br/>
+　彼女の返事はいつも素っ気ない。話題をふくらませるのに苦労する。灰色のピーコートから、校則どおり膝まで伸ばしたスカートの裾が覗いている。斜め三十度、伏せた視線が気怠げだ。さて、今朝はなんの話をしよう。<br/>
+「早いね」<br/>
+「なに？」<br/>
+「もう、冬休み」<br/>
+「そうね」<br/>
+「早いよ。初詣、どこか行く？」<br/>
+「別に。毎年、地元の神社」<br/>
+「供治神社か。何時頃？」<br/>
+　彼女がふりかえる。相手が闘牛でも噛み殺す自信に満ちた、ブルドッグみたいな目をする。<br/>
+「く・る・な」<br/>
+　やっと追いついた。彼女と肩を並べ、冬宇は慎重に次の言葉を探した。からかいすぎると、意固地になられて本当に断られるかもしれない。クリスマスは家族と過ごすつもりだった。ただのクラスメイトが冬休みに顔を合わせる言い訳がたつイベントといえば、他には初詣くらいしかない。<br/>
+「信仰の自由は、日本国憲法にもある国民の大切な権利だよ？」<br/>
+「一人で行け」<br/>
+「来年は僕ら受験生だからね」<br/>
+「うん」<br/>
+「一緒の大学に行けるよう、お祈りしておこうかなって」<br/>
+「冬宇くんと、誰が？」<br/>
+「誰かな。誰がいいかな」<br/>
+「知るか」<br/>
+「何時頃がいい？」<br/>
+「私、お兄ちゃんと行くから」<br/>
+　知ってるよ。苦笑いしながら冬宇はマフラーに口元を埋めた。息が楽になった気がした。静かに安堵する。昨日と同じ彼女がいること。その幸運に感謝する。冷気に手足は縮こまり、胸と口だけが暖かい。いっそ、この登校路がどこまでも続いていればいい。そんなことさえ思う。<br/>
+　その罪深さに、泣きそうになる。彼女に秘密を作っていること。彼女から未来を奪っていること。自分の不誠実さに押しつぶされそうになる。<br/>
+　名前に冬の字を持つ少年は、自分が残酷な氷の季節を好むことをまだ知らない。肺に冷たい空気を吸いこみながら、冬宇は少しだけ自分に絶望する。</p>
 
 </div>
 
 <div class="navi"><a href="/index.html"><img src="/about/ref/banner.gif" alt="*the long fish*" width="88" height="31" border="0"></a></div>
 <div class="copy">&copy; 2016 ODA MAKIO All rights reserved.</div>
-<hr>
+
+</div><!-- end of col -->
+</div><!-- end of row -->
+</div><!-- end of container -->
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </body>
 </html>
