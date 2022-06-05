@@ -1,0 +1,106 @@
+body {
+	background-color: #FFFFFF;
+	background-image: url("img/bg.png");
+	color: #000000;
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1rem;
+	font-size: 1.0rem;
+	line-height: 2.3rem;
+	word-wrap: break-word;
+	text-align: justify;
+}
+
+div#subtitle {
+	font-size: 1.5rem;
+}
+
+div#author, div#pubdate {
+	line-height: 1.5em;
+}
+
+h1 {
+	display: none;
+}
+
+h2, h3, h4 {
+	padding: 1rem 0;
+}
+
+a:link {
+	color: #333333;
+}
+
+a:visited {
+	color: #333333;
+}
+
+a:active {
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #FFFFFF;
+}
+
+nav#toc {
+	margin-bottom: 1rem;
+}
+
+nav > ul li {
+	background-image: url("img/skel.gif");
+	font-size: 1.2rem;
+	line-height: 2.3rem;
+}
+
+li.toc_h2 {
+	margin-left: 0rem;
+}
+
+li.toc_h3 {
+	margin-left: 2rem;
+}
+
+li.toc_h4 {
+	margin-left: 4rem;
+}
+
+blockquote {
+	padding: 1rem;
+	background-color: #ffffcc;
+}
+
+blockquote > footer {
+	text-align: right;
+}
+
+pre {
+	padding: 0.5rem;
+	line-height: 2.0em;
+	background-color: #f0f0f0;
+}
+
+dl#note {
+	padding: 1rem;
+}
+
+header.alert-heading {
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+main {
+	background-image: url("img/skel.gif");
+}
+
+div.copy {
+	font-size: 0.9rem;
+	line-height: 1.1rem;
+}
+
+span.dot {
+	text-emphasis-style: dot;
+	-webkit-text-emphasis-style: filled;
+	-moz-text-emphasis-style: filled;
+	-ms-text-emphasis-style: filled;
+}

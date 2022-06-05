@@ -1,0 +1,14 @@
+#! clmap:thtml
+
+#> map:format
+#>> data:body
+#-header
+<div class="col-lg-8">
+<h1>${title}</h1>
+<figure><img src="img/title.png" class="img-fluid" alt="${title}"/></figure>
+<% if (subtitle != null){ %><div id="subtitle">${subtitle}</div><% } %>
+</div>
+<% if (pubdate != null || author != null){ %><div class="col-lg-4 text-end">
+<% if (pubdate != null){ %><div id="pubdate">公開日 ${pubdate}</div><% } %>
+<% if (author != null){ %><div id="author">${author}</div><% } %>
+</div><% } %>

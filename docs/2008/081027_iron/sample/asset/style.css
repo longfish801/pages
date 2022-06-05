@@ -1,7 +1,10 @@
 body {
-	font-family: 'ïΩê¨ñæí©','ÇlÇr Çoñæí©',serif;
-	font-size: 100%;
-	line-height: 170%;
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1rem;
+	font-size: 1.0rem;
+	line-height: 2.3rem;
+	word-wrap: break-word;
+	text-align: justify;
 	color: #CCCCCC;
 	background-color: black;
 	background-image: url(bg.gif);
