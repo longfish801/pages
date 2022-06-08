@@ -10,12 +10,6 @@ body {
 	color: #CCCCCC;
 	background-color: black;
 	background-image: url(bg.gif);
-	margin: 1em 20%;
-	padding: 0px;
-}
-p {
-	font-size: 1.0rem;
-	line-height: 2.3rem;
 }
 a:link {
 	color: #666699;
@@ -28,10 +22,6 @@ a:active {
 }
 a:hover {
 	color: #996699;
-}
-p {
-	margin: 0.5em 0px;
-	padding: 0px;
 }
 h1 {
 	font-size: 200%;
