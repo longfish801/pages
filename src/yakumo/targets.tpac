@@ -1,7 +1,4 @@
 #! tpac:targets
-#> year:1996
-#>> doc:960404_blackjoke
-#-script novel
 #> year:2000
 #>> doc:000611_soulbody
 #-script novel
@@ -17,8 +14,16 @@ A-2.html
 A-3.html
 A-4.html
 A-5.html
+#>> doc:000916_upsidedown
+#-script novel
 #!
+
+#> year:1996
+#>> doc:960404_blackjoke
+#-script novel
+#>
 
 #> year:2008
 #>> doc:081027_iron
 #-script original
+#>
