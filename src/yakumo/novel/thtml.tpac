@@ -1,0 +1,169 @@
+#! clmap:thtml
+
+#> map
+#>> closure
+	// metaタグのマップを作成します
+	def bltxt = bltxtMap[resultKey]
+	Map metas = bltxt.grepNodes('meta')
+	Map metaMap = metas.collectEntries { String tag, List nodes ->
+		String html = nodes.collect {
+			clmap.cl('../lowers#htmlize').call(it).join()
+		}.join(System.lineSeparator())
+		return [tag, html]
+	}
+	LOG.info('metaMap={}', metaMap)
+	
+	// テンプレートの埋め込み変数の値を取得します
+	binds = [
+		title: clmap.cl('../bind#title').call(bltxt),
+		bodytext: clmap.cl('../bind#bodytext').call(bltxt),
+		metaMap: metaMap,
+	]
+	
+	// インデックスファイル以外はナビゲーションリンクを取得します
+	if (resultKey != 'index'){
+		binds['navi'] = clmap.cl('../navi#dflt').call(appendMap.order)
+	}
+#>
+
+#> map:navi
+#>> args
+	List order
+#>> return
+	String html
+#>> closure
+	int idx = order.indexOf("${resultKey}.html" as String)
+	if (idx < 0) throw new Exception("変換結果のファイル名がファイル名のリストにありません resultKey=${resultKey}, order=${order}")
+	if (idx == 0){
+		html = clmap.cl('/thtml/template#dflt').call('navi#first', [
+			next: order[idx + 1],
+		])
+	} else if (idx == order.size() - 1){
+		html = clmap.cl('/thtml/template#dflt').call('navi#last', [
+			back: order[idx - 1],
+		])
+	} else {
+		html = clmap.cl('/thtml/template#dflt').call('navi#dflt', [
+			back: order[idx - 1],
+			next: order[idx + 1],
+		])
+	}
+#>
+
+#> map:htmlize
+#>> closure:para
+	switch (node.parent.xmlTag){
+		case 'bltxt':
+			// 最上位にあるならば pタグを付与します
+			html = '<p>' + lowers.join("<br/>" + System.lineSeparator()) + '</p>'
+			break
+		case 'block':	// 上位がブロック要素の場合
+			switch (node.parent.tag){
+				case '見出し':
+				case '画像':
+				case '項目':
+				case '引用元':
+				case '用語':
+				case '説明':
+					html = lowers.join("<br/>" + System.lineSeparator())
+					break
+				case '生データ':
+				case '整形済':
+				case 'コード':
+					html = lowers.join(System.lineSeparator())
+					break
+				default:
+					html = '<p>' + lowers.join("<br/>" + System.lineSeparator()) + '</p>'
+			}
+			break
+		case 'meta':
+			if (node.parent.isSingle()){	// 単一の場合
+				html = lowers.join("<br/>" + System.lineSeparator())
+			} else {
+				html = '<p>' + lowers.join("<br/>" + System.lineSeparator()) + '</p>'
+			}
+			break
+		default:
+			html = lowers.join("<br/>" + System.lineSeparator())
+			break
+	}
+#>> map:block
+#>>> closure:変換済
+	html = (node.attrs[0] == 'html')? clmap.cl('/thtml/plain#dflt').call(node) : ''
+#>>> closure:行範囲
+	html = clmap.cl('/thtml/template#dflt').call(templateKey, [
+		text: lowers.join(lsep),
+		clazz: (node.attrs.size() > 0)? node.attrs[0] : 'base'
+	])
+#>>> closure:用語説明
+	html = clmap.cl('/thtml/template#dflt').call(templateKey, [ text: lowers.join(System.lineSeparator()) ])
+#>>> closure:用語
+	html = clmap.cl('/thtml/template#dflt').call(templateKey, [ text: lowers.join(System.lineSeparator()) ])
+#>>> closure:説明
+	html = clmap.cl('/thtml/template#dflt').call(templateKey, [ text: lowers.join(System.lineSeparator()) ])
+#>
+
+#> map:plain
+#>> args
+	def node
+#>> return
+	String text
+#>> prefix
+	LOG.trace("plain {} tag={}", node.xmlTag, node.tag)
+#>> closure
+	text = clmap.cl("#${node.xmlTag}").call(node)
+#>> closure:line
+	text = clmap.cl('../lowers#plain').call(node).join()
+#>> closure:para
+	text = clmap.cl('../lowers#plain').call(node).join(System.lineSeparator())
+#>> closure:block
+	text = clmap.cl('../lowers#plain').call(node).join(System.lineSeparator())
+#>> closure:inline
+	text = clmap.cl('../lowers#plain').call(node).join()
+#>> closure:text
+	text = node.text
+#>
+
+#> map:lowers
+#>> closure:plain
+	// 下位のノードをテキスト化したリストを返します
+	lowers = node.nodes.findAll {
+		it.xmlTag != 'meta'
+	}.collect {
+		clmap.cl('/thtml/plain#dflt').call(it)
+	}
+#>
+
+#> map:format
+#>> data:block
+#-注意
+<aside class="alert alert-danger" role="alert">
+<% if (title != null){ %><header class="alert-heading">${title}</header><% } %>
+${text}
+</aside>
+#-画像
+<figure class="text-center">
+<a href="${path}"><img src="${path}" class="img-fluid" alt="${alt}"></a>
+<% if (text != null){ %><figcaption>${text}</figcaption><% } %>
+</figure>
+#-行範囲
+<div class="${clazz}">
+${text}
+</div>
+#-用語説明
+<dl>
+${text}
+</dl>
+#-用語 <dt>${text}</dt>
+#-説明 <dd>${text}</dd>
+#>> data:navi
+<a href="${back}">Back</a>
+<a href="index.html#toc">Index</a>
+<a href="${next}">Next</a>
+#-first
+<a href="index.html#toc">Index</a>
+<a href="${next}">Next</a>
+#-last
+<a href="${back}">Back</a>
+<a href="index.html#toc">Index</a>
+#>

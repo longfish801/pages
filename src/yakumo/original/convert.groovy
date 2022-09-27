@@ -1,11 +1,11 @@
 /*
- * htmldoc.groovy
+ * convert.groovy
  *
  * Copyright (C) io.github.longfish801 All Rights Reserved.
  */
 
 // 変換元のテキストファイルを格納したフォルダ
-File inputDir = new File(scriptFile.parentFile, "../../${rpath}")
+File inputDir = new File(scriptFile.parentFile, "../../draft/${rpath}")
 // 変換先のHTMLファイルを格納するフォルダ
 File outputDir = new File("build/docs/${rpath}")
 

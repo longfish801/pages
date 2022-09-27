@@ -1,5 +1,24 @@
 #! tpac:targets
+#> year:1996
+#>> doc:960404_blackjoke
+#-script novel
+#> year:2000
+#>> doc:000611_soulbody
+#-script novel
+#-order
+Q-0.html
+Q-1.html
+Q-2.html
+Q-3.html
+Q-4.html
+A-0.html
+A-1.html
+A-2.html
+A-3.html
+A-4.html
+A-5.html
+#!
+
 #> year:2008
 #>> doc:081027_iron
-#-script htmldoc
-#>
+#-script original

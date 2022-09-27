@@ -7,8 +7,15 @@
 import io.github.longfish801.tpac.TpacServer
 import io.github.longfish801.yakumo.Yakumo
 
-new TpacServer().soak(new File('src/yakumo/targets.tpac')).getAt('tpac:targets').findAll(/^year:.+$/).each { def year ->
+def targets = new TpacServer().soak(new File('src/yakumo/targets.tpac')).getAt('tpac:targets')
+targets.findAll(/^year:.+$/).each { def year ->
+	println "YEAR: ${year.name}"
 	year.findAll(/^doc:.+$/).each { def doc ->
-		new Yakumo().run(new File("src/yakumo/script/${doc.script}/convert.groovy"), [rpath: "${year.name}/${doc.name}"])
+		println "DOC: ${doc.name}"
+		Map vars = [
+			rpath: "${year.name}/${doc.name}",
+			order: doc.order
+		]
+		new Yakumo().run(new File("src/yakumo/${doc.script}/convert.groovy"), vars)
 	}
 }

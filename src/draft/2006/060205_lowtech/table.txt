@@ -1,0 +1,120 @@
+【＃タイトル】カードキーの使用記録と各人の行動表
+
+【－変換済：html】
+<table>
+ <tr>
+  <th colspan="4">カードキーの使用記録</th>
+  <th colspan="4">各人の行動(※１)</th>
+ </tr>
+ <tr>
+  <th>時刻</th>
+  <th>階</th>
+  <th>使用箇所</th>
+  <th>名前(※２)</th>
+  <th>木村</th>
+  <th>黒深</th>
+  <th>八千草</th>
+  <th>小泉</th>
+ </tr>
+ <tr>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+  <td colspan="2">10時前に出社<br>
+    41Fで業務</td>
+  <td>-</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:14</td>
+  <td>1F</td>
+  <td>通用口</td>
+  <td>八千草</td>
+  <td rowspan="6">12時過ぎから<br>
+    41Fで昼寝</td>
+  <td>-</td>
+  <td rowspan="2">出社(1F→41F)</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:15</td>
+  <td>41F</td>
+  <td>オフィス入口</td>
+  <td>八千草</td>
+  <td>-</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:17</td>
+  <td>41F</td>
+  <td>西側非常階段</td>
+  <td>八千草</td>
+  <td colspan="2">西側非常階段にでる<br>
+    黒深が閉め出される</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:20</td>
+  <td>1F</td>
+  <td>通用口</td>
+  <td>小泉</td>
+  <td rowspan="4">非常階段を下りる</td>
+  <td rowspan="3">41Fで業務</td>
+  <td rowspan="2">出社(1F→41F)</td>
+ </tr>
+ <tr>
+  <td>12:22</td>
+  <td>41F</td>
+  <td>オフィス入口</td>
+  <td>小泉</td>
+ </tr>
+ <tr>
+  <td>12:23</td>
+  <td>42F</td>
+  <td>西側非常階段</td>
+  <td>木村</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:35</td>
+  <td>42F</td>
+  <td>オフィス入口</td>
+  <td>黒深</td>
+  <td rowspan="2">トイレに行く<br>
+    (正確な時刻は不明、<br>
+    目覚めたとき八千草の<br>
+    姿はなかった)</td>
+  <td>トイレに行く<br>
+    (正確な時刻は不明)</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>12:37</td>
+  <td>41F</td>
+  <td>オフィス入口</td>
+  <td>八千草</td>
+  <td>ドアのアラーム<br>
+    警備員と共に<br>
+    42Fへ移動<br>
+    小泉の死体を発見</td>
+  <td>トイレから戻る<br>
+    41Fで業務</td>
+  <td>42Fで死体として<br>
+    発見される</td>
+ </tr>
+ <tr>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+  <td>トイレから戻る<br>
+    黒深と一緒に<br>
+    オフィスへ入る</td>
+  <td>41Fに下りる</td>
+  <td>黒深のために<br>
+    ドアを開けてやる</td>
+  <td>-</td>
+ </tr>
+</table>
+【変換済－】
