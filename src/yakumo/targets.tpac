@@ -1,10 +1,7 @@
 #! tpac:targets
-#> year:2002
-#>> doc:020102_oversky
-#-script novel
-#>> doc:020202_cross
-#-script novel
-#>> doc:020206_fiftyyen
+
+#> year:2006
+#>> doc:060205_lowtech
 #-script novel
 #!
 
@@ -29,6 +26,15 @@ A-3.html
 A-4.html
 A-5.html
 #>> doc:000916_upsidedown
+#-script novel
+#>
+
+#> year:2002
+#>> doc:020102_oversky
+#-script novel
+#>> doc:020202_cross
+#-script novel
+#>> doc:020206_fiftyyen
 #-script novel
 #>
 
