@@ -1,15 +1,4 @@
 #! tpac:targets
-
-#> year:2006
-#>> doc:060205_lowtech
-#-script novel
-#!
-
-#> year:1996
-#>> doc:960404_blackjoke
-#-script novel
-#>
-
 #> year:2000
 #>> doc:000611_soulbody
 #-script novel
@@ -26,6 +15,15 @@ A-3.html
 A-4.html
 A-5.html
 #>> doc:000916_upsidedown
+#-script novel
+#>
+#> year:2006
+#>> doc:060205_lowtech
+#-script novel
+#!
+
+#> year:1996
+#>> doc:960404_blackjoke
 #-script novel
 #>
 
