@@ -1,0 +1,85 @@
+@charset "utf-8";
+body {
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+	color: #CCCCCC;
+	background-color: #111133;
+	background-image: url(bg.gif);
+}
+div.row {
+	background-image: url(bg.gif);
+	background-color: #111111;
+}
+header {
+	background-image: url(bg.gif);
+	background-color: #331111;
+}
+a:link {
+	color: #FF9966;
+}
+a:visited {
+	color: #CC6633;
+}
+a:active {
+	color: #3366CC;
+}
+a:hover {
+	color: #6699FF;
+}
+p {
+	padding: 1rem 0;
+}
+h2, h3, h4 {
+	padding: 1rem 0;
+}
+div.about {
+	font-size: 1.2rem;
+}
+div.copy {
+	font-size: 0.8rem;
+}
+blockquote {
+	padding: 1rem;
+	background-color: #333333;
+}
+blockquote > footer {
+	text-align: right;
+}
+header.alert-heading {
+	background-image: none;
+	background-color: #999999;
+	color: #333333;
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+aside.alert {
+	background-color: #333333;
+	color: #CCCCCC;
+	border: none;
+}
+pre {
+	padding: 0.5rem;
+	line-height: 2.0em;
+	background-color: #f0f0f0;
+}
+span.dot {
+	text-emphasis-style: dot;
+	-webkit-text-emphasis-style: filled;
+	-moz-text-emphasis-style: filled;
+	-ms-text-emphasis-style: filled;
+}
+div.appendix {
+	margin-top: 5rem;
+}
+#subtitle {
+	font-size: 1.0rem;
+	line-height: 1.8rem;
+}
+#en-title, #en-subtitle {
+	font-size: 0.8rem;
+	line-height: 1.6rem;
+}

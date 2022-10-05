@@ -1,4 +1,14 @@
 #! tpac:targets
+#> year:2007
+#>> doc:070429_snowwhite
+#-script novel
+#!
+
+#> year:1996
+#>> doc:960404_blackjoke
+#-script novel
+#>
+
 #> year:2000
 #>> doc:000611_soulbody
 #-script novel
@@ -17,15 +27,6 @@ A-5.html
 #>> doc:000916_upsidedown
 #-script novel
 #>
-#> year:2006
-#>> doc:060205_lowtech
-#-script novel
-#!
-
-#> year:1996
-#>> doc:960404_blackjoke
-#-script novel
-#>
 
 #> year:2002
 #>> doc:020102_oversky
@@ -33,6 +34,11 @@ A-5.html
 #>> doc:020202_cross
 #-script novel
 #>> doc:020206_fiftyyen
+#-script novel
+#>
+
+#> year:2006
+#>> doc:060205_lowtech
 #-script novel
 #>
 
