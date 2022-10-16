@@ -101,6 +101,12 @@
 	html = clmap.cl('/thtml/template#dflt').call(templateKey, [ text: lowers.join(System.lineSeparator()) ])
 #>>> closure:説明
 	html = clmap.cl('/thtml/template#dflt').call(templateKey, [ text: lowers.join(System.lineSeparator()) ])
+#>> map:inline
+#>>> closure:範囲
+	html = clmap.cl('/thtml/template#dflt').call(templateKey, [
+		text: text,
+		clazz: node.attrs[0]
+	])
 #>
 
 #> map:plain
@@ -136,6 +142,11 @@
 
 #> map:format
 #>> data:block
+#-コラム
+<aside class="alert alert-success" role="alert">
+<% if (title != null){ %><header class="alert-heading">${title}</header><% } %>
+${text}
+</aside>
 #-注意
 <aside class="alert alert-danger" role="alert">
 <% if (title != null){ %><header class="alert-heading">${title}</header><% } %>
@@ -156,6 +167,9 @@ ${text}
 </dl>
 #-用語 <dt>${text}</dt>
 #-説明 <dd>${text}</dd>
+#>> data:inline
+#-範囲
+<span class="${clazz}">${text}</span>
 #>> data:navi
 <a href="${back}">Back</a>
 <a href="index.html#toc">Index</a>

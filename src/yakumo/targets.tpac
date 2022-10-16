@@ -1,7 +1,38 @@
 #! tpac:targets
-#> year:2007
-#>> doc:070429_snowwhite
+#> year:2009
+#>> doc:090506_monochrome
 #-script novel
+#-order
+Q.html
+Qrule.html
+Qpersons.html
+Q01.html
+Q02.html
+Q03.html
+Q04.html
+Q05.html
+Q06.html
+Q07.html
+Q08.html
+Q09.html
+Q10.html
+Q11.html
+Q12.html
+Q13.html
+Q14.html
+Q15.html
+Q16.html
+Q17.html
+Q18.html
+Q19.html
+A.html
+A01.html
+A02.html
+A03.html
+A04.html
+A05.html
+A06.html
+Aexamination.html
 #!
 
 #> year:1996
@@ -39,6 +70,11 @@ A-5.html
 
 #> year:2006
 #>> doc:060205_lowtech
+#-script novel
+#>
+
+#> year:2007
+#>> doc:070429_snowwhite
 #-script novel
 #>
 
