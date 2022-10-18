@@ -50,3 +50,17 @@ span.dot {
 div.appendix {
 	margin-top: 5rem;
 }
+div.toc {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-size: 1.8rem;
+	font-weight: bold;
+	line-height: 2.8rem;
+}
+div.toc ul {
+	list-style: none;
+}
+div.toc a {
+	text-decoration: none;
+	border-bottom: solid 1px;
+}
