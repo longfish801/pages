@@ -5,5 +5,5 @@
  */
 
 material {
-	clmap new File(convDir, 'thtml.tpac')
+	clmap new File(convDir, 'htmlize.tpac')
 }

@@ -1,14 +1,9 @@
 @charset "utf-8";
 body {
-	font-family: 'Noto Serif JP', serif;
-	letter-spacing: 0.1rem;
-	line-height: 2.3rem;
-	text-align: justify;
-	word-wrap: break-word;
 	color: #CCCCCC;
 	background-color: #000033;
 }
-main {
+div#main {
 	background-color: black;
 	border-width: 0px 4px;
 	border-color: #000033;
@@ -24,45 +19,7 @@ a:active {
 	color: #666666;
 }
 a:hover {
-	color: white;
-}
-p {
-	padding: 1rem 0;
-}
-h2, h3, h4 {
-	padding: 1rem 0;
-}
-div.about {
-	font-size: 1.2rem;
-}
-div.copy {
-	font-size: 0.8rem;
-}
-blockquote {
-	padding: 1rem;
-	background-color: #ffffcc;
-}
-blockquote > footer {
-	text-align: right;
-}
-header.alert-heading {
-	text-align: center;
-	font-size: 1.2rem;
-	font-weight: bold;
-}
-pre {
-	padding: 0.5rem;
-	line-height: 2.0em;
-	background-color: #f0f0f0;
-}
-span.dot {
-	text-emphasis-style: dot;
-	-webkit-text-emphasis-style: filled;
-	-moz-text-emphasis-style: filled;
-	-ms-text-emphasis-style: filled;
-}
-div.appendix {
-	margin-top: 5rem;
+	color: #FFFFFF;
 }
 div.toc {
 	padding-top: 2rem;
@@ -72,15 +29,18 @@ div.toc {
 	font-size: 1.8rem;
 	font-weight: bold;
 }
+div.toc ul {
+	list-style: none;
+}
+div.toc a {
+	text-decoration: none;
+	border-bottom: solid 1px;
+}
 div.appendix {
 	padding-top: 0rem;
 	margin-top: 0rem;
 	text-align: center;
 	font-size: 1.2rem;
-}
-div.toc a {
-	text-decoration: none;
-	border-bottom: solid 1px;
 }
 div.appendix a {
 	text-decoration: none;

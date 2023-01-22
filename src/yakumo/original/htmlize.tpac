@@ -1,0 +1,12 @@
+#! clmap:htmlize
+#>
+
+#> map:block
+#: 画像にリンクを付与しました。
+#>> data:template
+#-画像
+<figure class="text-center">
+<a href="${path}"><img src="${path}" class="img-fluid" alt="${alt}"></a>
+<% if (text != null){ %><figcaption>${text}</figcaption><% } %>
+</figure>
+#>

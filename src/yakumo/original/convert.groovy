@@ -19,6 +19,7 @@ load {
 }
 
 script {
+	// 変換元となる拡張子txtのファイル一覧を作成します
 	def scanner = new AntBuilder().fileScanner {
 		fileset(dir: inputDir.path) { include(name: '*.txt') }
 	}

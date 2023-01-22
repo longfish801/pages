@@ -5,6 +5,5 @@
  */
 
 material {
-	clmap new File(convDir, 'thtml.tpac')
 	template 'default', new File(convDir, 'default.html')
 }
