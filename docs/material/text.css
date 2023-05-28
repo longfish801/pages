@@ -1,27 +1,37 @@
-@charset "utf-8";
+@charset 'utf-8';
+@import 'base.css';
 
 body {
 	background-color: #FFCC00;
 	background-image: url(/img/mat/bg.png);
+	color: #000000;
 }
-#header {
+header#header {
 	background-image: url(/img/mat/skel.gif);
 }
-main {
+main#main {
 	background-image: url(/img/mat/skel.gif);
 	background-color: rgba(255,255,239,0.5);
+}
+nav#sidenav {
+	background-image: url(/img/mat/skel.gif);
+}
+dl#note {
+	background-color: rgba(239,239,255,0.8);
 }
 h2 {
 	background-image: url(/img/mat/bg_header.png);
 	padding: 2rem 0.5rem;
 	margin: 1rem -0.75rem;
 }
-#toc {
-	background-image: url(/img/mat/skel.gif);
+figure > blockquote.blockquote {
+	background-color: #ffffcc;
 }
-div.copy {
-	font-size: 0.9rem;
-	line-height: 1.1rem;
+figure > figcaption.blockquote-footer {
+	background-color: #ffffcc;
+}
+pre.code {
+	background-color: #f0f0f0;
 }
 div.amathum {
 	margin: 10px;

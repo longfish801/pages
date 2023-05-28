@@ -1,0 +1,12 @@
+#! clmap:thtml.htmlize
+#>
+
+#> map:block
+#: 注意について見出しからアイコンを削除しました。
+#>> data:template
+#-注意
+<aside class="alert alert-danger" role="alert">
+<% if (title != null){ %><header class="alert-heading text-center">${title}</header><% } %>
+${text}
+</aside>
+#>

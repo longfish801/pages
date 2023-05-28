@@ -19,8 +19,9 @@ repositories {
 
 dependencies {
 	implementation 'ch.qos.logback:logback-classic:1.2.11'
-	implementation 'io.github.longfish801:yakumo:1.3.00'
+	implementation 'io.github.longfish801:yakumo:1.4.00'
 	implementation 'io.github.longfish801:tpac:1.2.00'
+	implementation 'org.codehaus.gpars:gpars:1.2.1'
 	implementation 'org.codehaus.groovy:groovy-all:3.0.9'
 }
 

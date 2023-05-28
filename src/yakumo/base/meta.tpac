@@ -1,0 +1,14 @@
+#! clmap:thtml.meta
+#>
+
+#> map:onedoc
+#>> data:template
+#-copy &copy; ${text} All rights reserved.
+#>> closure:copy
+#: 著作権のHTMLを生成します。
+	String copy = htmlizerMeta.call('著作権', '')
+	html = (copy.empty)? '' : templater.call(templateKey + 'copy', [text: copy])
+#>> map:need
+#>>> closure:copy
+	judge = (bltxt.grepNodes('meta', '著作権').size() > 0)? true : false
+#>

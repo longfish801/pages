@@ -4,18 +4,21 @@
  * Copyright (C) io.github.longfish801 All Rights Reserved.
  */
 
+import groovyx.gpars.GParsPool
 import io.github.longfish801.tpac.TpacServer
 import io.github.longfish801.yakumo.Yakumo
 
-def targets = new TpacServer().soak(new File('src/yakumo/targets.tpac')).getAt('tpac:targets')
-targets.findAll(/^year:.+$/).each { def year ->
-	println "YEAR: ${year.name}"
-	year.findAll(/^doc:.+$/).each { def doc ->
-		println "DOC: ${doc.name}"
-		Map vars = [
-			rpath: "${year.name}/${doc.name}",
-			order: doc.order
-		]
-		new Yakumo().run(new File("src/yakumo/${doc.script}/convert.groovy"), vars)
+def docs = new TpacServer()
+	.soak(new File('src/yakumo/targets.tpac'))
+	.getAt('tpac:targets')
+	.findAll(/^doc:.+$/)
+	.collect { def doc ->
+		return doc
+	}
+
+GParsPool.withPool {
+	docs.eachParallel { def doc ->
+		println "${doc.mpath} - ${doc.name}"
+		new Yakumo().run(new File("src/yakumo/convert.groovy"), [doc: doc])
 	}
 }

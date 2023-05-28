@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+// ブロック要素
+figure > blockquote.blockquote {
+	background-color: #ffffcc;
+}
+figure > figcaption.blockquote-footer {
+	background-color: #ffffcc;
+}
+pre.code {
+	background-color: #f0f0f0;
+}
+p:first-child {
+	margin-top: 0rem;
+}
+p:not(:first-child) {
+	margin-top: 2.5rem;
+}
+nav#navi {
+	font-size: 2rem;
+	padding: 0.5rem 0rem;
+}
+nav#navi > div#copy {
+	font-size: 0.8rem;
+}
+// 目次
+ul#toc > li.nav-item {
+	line-height: 1.8rem;
+}
+ul#toc > li.toc-h2 {
+	padding-left: 0rem;
+}
+ul#toc > li.toc-h3 {
+	padding-left: 1rem;
+}
+ul#toc > li.toc-h4 {
+	padding-left: 2rem;
+}
+ul#toc > li.toc-h5 {
+	padding-left: 3rem;
+}
+ul#toc > li.toc-h6 {
+	padding-left: 4rem;
+}
+// 総目次
+ul#tocAll > li.toc-h1 {
+	padding-left: 0rem;
+}
+ul#tocAll > li.toc-h2 {
+	padding-left: 1rem;
+}
+ul#tocAll > li.toc-h3 {
+	padding-left: 2rem;
+}
+ul#tocAll > li.toc-h4 {
+	padding-left: 3rem;
+}
+ul#tocAll > li.toc-h5 {
+	padding-left: 4rem;
+}
+ul#tocAll > li.toc-h6 {
+	padding-left: 5rem;
+}
+// インライン要素
+span.attention {
+	font-size: 1.7rem;
+	line-height: 1.7rem;
+}
+span.dot {
+	text-emphasis-style: dot;
+	-webkit-text-emphasis-style: filled;
+	-moz-text-emphasis-style: filled;
+	-ms-text-emphasis-style: filled;
+}

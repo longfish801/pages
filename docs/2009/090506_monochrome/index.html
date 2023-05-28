@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="ja">
 <head>
@@ -5,42 +6,78 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,700&amp;subset=japanese">
-<link href="/pages/material/novel.css" rel="stylesheet" type="text/css">
-<link href="material/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap">
+<link rel="stylesheet" href="/pages/material/novel.css">
+<link rel="stylesheet" href="material/style.css">
+<style type="text/css">
+<!--
+body {
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+-->
+</style>
 <title>玖乃杜モノクローム</title>
 </head>
 <body class="container">
 
-<header class="row mx-2 px-1 py-5">
-<div class="col-lg-8">
+
+
+<!-- ヘッダー -->
+<header id="header" class="row pt-5 pb-3">
+
+<div class="col-lg">
 <h1>玖乃杜モノクローム</h1>
-<div id="subtitle">MYSCON10 犯人当て企画</div>
-<div id="en-title">Kunomori Monochrome</div>
-<div id="en-subtitle">Whodunit Game in MYSCON10</div>
+
+<ul id="subtitle" class="list-unstyled fs-5">
+<li>MYSCON10 犯人当て企画</li>
+<li>Kunomori Monochrome</li>
+<li>Whodunit Game in MYSCON10</li>
+</ul>
+
 </div>
 
 <div class="col-lg-4 text-end">
-<ul id="extra">
-<li>小田牧央</li>
+<ul id="extra" class="list-unstyled fs-6">
 <li>公開日 2009.05.06</li>
+<li>小田牧央</li>
 <li>180枚/四百字詰</li>
 </ul>
 </div>
 
+
 </header>
 
-<div id="main" class="row justify-content-center mx-1">
-<main class="col-lg-8 px-2 py-3">
-<figure class="text-center">
-<a href="material/titlebak.png"><img src="material/titlebak.png" class="img-fluid" alt="玖乃杜モノクローム"></a>
 
-</figure>
+<header id="catchcopy" class="row">
+<div class="col-lg">
+<figure class="text-center"><img src="appendix/titlebak.png" class="img-fluid" alt="玖乃杜モノクローム"></figure>
+</div>
+</header>
 
-<h2><a name="id2_1"></a>お知らせ</h2>
+
+<div id="center" class="row justify-content-center">
+
+<!-- 目次 -->
+
+<nav id="sidenav" class="col-lg-4 py-3">
+<ul id="toc" class="nav flex-column">
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">お知らせ</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">告知</a></li>
+<li class="nav-item toc-h2"><a href="#id2_3" class="nav-link">過去のお知らせ</a></li>
+</ul>
+</nav>
+
+
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
+<h2><a name="id2_1"></a>お知らせ <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.25</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.25</header>
 <p><span class="black">解答編を、公開しました！</span><br/>
 　頂いた応募解答は全７通。<br/>
 　残念ながらMYSCON10夜の部の参加者の方には、正解者はいらっしゃいませんでした。<br/>
@@ -82,13 +119,13 @@
 　<span class="blue">参りました！（ぎゃふん）</span></p>
 </aside>
 
-<h2><a name="id2_2"></a>告知</h2>
+<h2><a name="id2_2"></a>告知 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　<a href="http://myscon.net/">MYSCON10</a>に便乗して、<strong>犯人当て企画</strong>をやります！<br/>
 　みなさまの<strong>熱い挑戦</strong>をお待ちしております！</p>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">問題編</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 問題編</header>
 <p>以下の３種類を用意しました。内容はいずれも同じです。</p>
 <ul>
 <li><a href="Q.html">問題編 (html版)</a></li>
@@ -98,7 +135,7 @@
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">解答編</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 解答編</header>
 <p>以下の３種類を用意しました。内容はいずれも同じです。</p>
 <ul>
 <li><a href="A.html">解答編 (html版)</a></li>
@@ -108,13 +145,13 @@
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">解答応募方法</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 解答応募方法</header>
 <p><span class="blue">解答応募は締め切りました。</span><br/>
 ありがとうございました。</p>
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">内容</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 内容</header>
 <p>県下有数の進学校、玖乃杜高校。<br/>
 新入生の花房律は、クラスメートから奇妙な噂を聞く。<br/>
 この学校には伝説の<span class="blue">&ldquo;美少女探偵&rdquo;</span>がいるというのだ。<br/>
@@ -123,7 +160,7 @@
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">賞品</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 賞品</header>
 <p>ささやかながら、賞品を用意しました。<br/>
 ただし誠に勝手ながら<span class="red">MYSCON10夜の部の参加者の方のみ</span>を対象とさせていただきます。<br/>
 MYSCON10夜の部に参加する方で、かつ、もっともエレガントな解答とこちらで判断した一名様に、以下のＤＶＤを差しあげます。</p>
@@ -134,21 +171,21 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">補足</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 補足</header>
 <p>２年前の<a href="http://myscon.net/archives/2007/04/20070410_2354_112.html">MYSCON8犯人当て企画『ザ・ラスト・トリック』</a>は MYSCON公式企画でしたが、今回は小田牧央の自主的な個人企画です。</p>
 </aside>
 
-<h2><a name="id2_3"></a>過去のお知らせ</h2>
+<h2><a name="id2_3"></a>過去のお知らせ <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.23</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.23</header>
 <p><span class="black">解答受付、締め切りました！</span><br/>
 　７通の応募を頂きました！ ありがとうございます！<br/>
 　犯人当て小説「<a href="/pages/2009/090506_monochrome/">玖乃杜モノクローム</a>」の解答編は、5/23 MYSCON10夜の部にて先行公開、5/25夜 ネット公開です。お楽しみに！</p>
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.16</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.16</header>
 <figure class="text-center">
 <a href="appendix/myscon10.png"><img src="appendix/myscon10.png" class="img-fluid" alt="解答編印刷"></a>
 
@@ -160,7 +197,7 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.11 (その１)</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.11 (その１)</header>
 <p>　サークル<a href="http://d.hatena.ne.jp/anrakuisu_hannin/">安楽椅子犯人さまのブログ</a>に紹介を頂きました！ ありがとうございます！<br/>
 # というか、私のほうから進んで挑戦をお願いしました。(^^;)<br/>
 　昨年の夏に発表された『湖岸の盲点』(<a href="http://hannin-a.sakura.ne.jp/">安楽椅子犯人</a>)は「ノベルゲーム形式」「倒叙形式(犯人のミスを指摘する)」という斬新なスタイルで驚かされました。同時に、ミステリ作家 大山誠一郎さんのコメント通り「考えればきちんと解くことのできる」誠実かつ丁寧な造りの作品でした。<br/>
@@ -168,7 +205,7 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.11 (その２)</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.11 (その２)</header>
 <p>　お待たせしました！<br/>
 <s>解答応募フォーム</s>を用意しました！<br/>
 　解答期限は<span class="blue">「2009年 5月23日 午前05:00」</span>とさせていただきます。<br/>
@@ -176,7 +213,7 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.10 (その１)</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.10 (その１)</header>
 <p>　大変申し訳ありません、<span class="red">問題編に記述漏れが一点ありました。</span><br/>
 　「<a href="Qpersons.html">■登場人物一覧</a>」に名前が一名抜けていました。<br/>
 　「▼美術部関係者」に「姫百合 郷（ひめゆり ごう）」を追記しました。<br/>
@@ -185,7 +222,7 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.10 (その２)</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.10 (その２)</header>
 <figure class="text-center">
 <a href="appendix/bunfree.png"><img src="appendix/bunfree.png" class="img-fluid" alt="問題編頒布"></a>
 
@@ -194,21 +231,30 @@ MYSCON10夜の部に参加する方で、かつ、もっともエレガントな
 </aside>
 
 <aside class="alert alert-success" role="alert">
-<header class="alert-heading">2009.05.09</header>
+<header class="alert-heading text-center"><i class="bi bi-info-circle-fill"></i> 2009.05.09</header>
 <p>　問題編の公開を開始しました！</p>
 </aside>
+<!-- 総目次 -->
+
+<!-- 註記 -->
+
 </main>
+
 </div><!-- end of row -->
 
-<footer class="row justify-content-center mx-2 px-1 my-3 text-end">
-<nav id="navi" class="col-lg-12">
-<a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a>
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3">
+<nav id="navi" class="col-lg-12 text-end">
+
+<div id="banner"><a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a></div>
+<div id="copy">&copy; 2009 ODA MAKIO All rights reserved.</div>
+
 </nav>
-<div class="copy">&copy; 2009 ODA MAKIO All rights reserved.</div>
-</nav>
+<hr/>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
 
 </body>
 </html>

@@ -1,91 +1,115 @@
+
 #! tpac:targets
 
-#> year:1996
-#>> doc:960404_blackjoke
-#-script novel
+#> doc:960404_blackjoke
+#-mpath 1996
+#-design novel
 #>
 
-#> year:2000
-#>> doc:000611_soulbody
-#-script novel
-#-order
-Q-0.html
-Q-1.html
-Q-2.html
-Q-3.html
-Q-4.html
-A-0.html
-A-1.html
-A-2.html
-A-3.html
-A-4.html
-A-5.html
-#>> doc:000916_upsidedown
-#-script novel
+#> doc:000611_soulbody
+#-mpath 2000
+#-design novel
+#-tocAll noNeed
+#-keys
+index
+Q-0
+Q-1
+Q-2
+Q-3
+Q-4
+A-0
+A-1
+A-2
+A-3
+A-4
+A-5
 #>
 
-#> year:2002
-#>> doc:020102_oversky
-#-script novel
-#>> doc:020202_cross
-#-script novel
-#>> doc:020206_fiftyyen
-#-script novel
+#> doc:000916_upsidedown
+#-mpath 2000
+#-design novel
 #>
 
-#> year:2006
-#>> doc:060205_lowtech
-#-script novel
+#> doc:020102_oversky
+#-mpath 2002
+#-design novel
 #>
 
-#> year:2007
-#>> doc:070429_snowwhite
-#-script novel
+#> doc:020202_cross
+#-mpath 2002
+#-design novel
 #>
 
-#> year:2008
-#>> doc:081027_iron
-#-script original
+#> doc:020206_fiftyyen
+#-mpath 2002
+#-design novel
+#-tocAll noNeed
 #>
 
-#> year:2009
-#>> doc:090506_monochrome
-#-script novel
-#-order
-Q.html
-Qrule.html
-Qpersons.html
-Q01.html
-Q02.html
-Q03.html
-Q04.html
-Q05.html
-Q06.html
-Q07.html
-Q08.html
-Q09.html
-Q10.html
-Q11.html
-Q12.html
-Q13.html
-Q14.html
-Q15.html
-Q16.html
-Q17.html
-Q18.html
-Q19.html
-A.html
-A01.html
-A02.html
-A03.html
-A04.html
-A05.html
-A06.html
-Aexamination.html
+#> doc:060205_lowtech
+#-mpath 2006
+#-design novel
+#-tocAll noNeed
 #>
 
-#> year:2023
-#>> doc:230417_contemporary
-#-script original
+#> doc:070429_snowwhite
+#-mpath 2007
+#-design novel
+#-tocAll noNeed
 #>
+
+#> doc:081027_iron
+#-mpath 2008
+#-design original
+#-font serif
+#-titleImage img/title.png
+#-catchImage img/cover.png
+#-catchAlt 表紙
+#>
+
+#> doc:090506_monochrome
+#-mpath 2009
+#-design novel
+#-tocAll noNeed
+#-catchImage appendix/titlebak.png
+#-catchAlt 玖乃杜モノクローム
+#-keys
+index
+Q
+Qrule
+Qpersons
+Q01
+Q02
+Q03
+Q04
+Q05
+Q06
+Q07
+Q08
+Q09
+Q10
+Q11
+Q12
+Q13
+Q14
+Q15
+Q16
+Q17
+Q18
+Q19
+A
+A01
+A02
+A03
+A04
+A05
+A06
+Aexamination
+#>
+
+#> doc:230417_contemporary
+#-mpath 2023
+#-design text
+#>
+
 #!

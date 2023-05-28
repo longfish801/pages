@@ -1,0 +1,14 @@
+#! clmap:thtml.meta
+#>
+
+#> map:onedoc
+#: サブタイトルに英語のタイトル、サブタイトルを追加しました。
+#: 付帯情報に枚数を追加しました。
+#>> config
+subtitle = [ 'サブタイトル', 'title', 'subtitle' ]
+extra = [ '公開日', '著者名', '枚数' ]
+#>> data:template
+#-title <li>${text}</li>
+#-subtitle <li>${text}</li>
+#-枚数 <li>${text}枚/四百字詰</li>
+#>

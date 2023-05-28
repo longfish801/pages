@@ -1,0 +1,19 @@
+@charset 'utf-8';
+
+body {
+	background-color: #ffffff;
+	background-image: url("bg.png");
+	color: #000000;
+}
+header#catchcopy {
+	padding: 3rem 0rem;
+}
+main#main {
+	background-color: rgba(255,255,255,0.7);
+}
+ul#toc {
+	background-color: rgba(255,255,255,0.5);
+}
+h1 {
+	display: none;
+}

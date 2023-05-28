@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="ja">
 <head>
@@ -5,92 +6,80 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
-<link href="material/base.css" rel="stylesheet" type="text/css">
-<link href="material/original.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="/pages/material/text.css">
+
+<style type="text/css">
+<!--
+body {
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+-->
+</style>
 <title>現代ミステリの生存戦略</title>
 </head>
 <body class="container">
 
-<!-- サイトタイトルと広告 -->
-<header id="siteheader" class="row justify-content-center align-items-center">
-	<div class="col-lg-2">
-		<figure>
-			<a href="/"><img src="/img/avatar.png" class="img-fluid" alt="ながいさかなちゃん" /></a>
-		</figure>
-	</div>
-	<div class="col-lg-4 p-3">
-		<figure>
-			<a href="/"><img src="/img/title.png" class="img-fluid" alt="*the long fish*" /></a>
-		</figure>
-	</div>
-	<div class="col-lg-6 p-3">
-		<div id="adBanners" class="carousel slide" data-bs-ride="carousel">
-			<div class="carousel-indicators">
-				<button type="button" data-bs-target="#adBanners" data-bs-slide-to="0" class="active" aria-current="true" aria-label="デデフラ"></button>
-				<button type="button" data-bs-target="#adBanners" data-bs-slide-to="1" aria-label="探偵が推理を殺す"></button>
-				<button type="button" data-bs-target="#adBanners" data-bs-slide-to="2" aria-label="ハィパァゲィム"></button>
-				<button type="button" data-bs-target="#adBanners" data-bs-slide-to="3" aria-label="鉄錆風味歪夢"></button>
-			</div>
-			<div class="carousel-inner">
-				<div class="carousel-item active"><a href="/ddfl/"><img src="/img/banner/ban_ddfr.png" class="d-block w-100" alt="デデフラ"></a></div>
-				<div class="carousel-item"><a href="/pages/2019/191229_reasoning/"><img src="/img/banner/ban_reasoning.png" class="d-block w-100" alt="探偵が推理を殺す"></a></div>
-				<div class="carousel-item"><a href="/pages/2016/160814_hypergame/"><img src="/img/banner/ban_hypergame.png" class="d-block w-100" alt="ハィパァゲィム"></a></div>
-				<div class="carousel-item"><a href="/pages/2008/081027_iron/"><img src="/img/banner/ban_iron.png" class="d-block w-100" alt="鉄錆風味歪夢"></a></div>
-			</div>
-			<button class="carousel-control-prev" type="button" data-bs-target="#adBanners" data-bs-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="visually-hidden">Previous</span>
-			</button>
-			<button class="carousel-control-next" type="button" data-bs-target="#adBanners" data-bs-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="visually-hidden">Next</span>
-			</button>
-		</div>
-		
-		
-	</div>
-</header><!-- end of row -->
 
-<header id="header" class="row justify-content-center px-3 py-5">
-<div class="col-lg-8">
+<!-- サイトヘッダ -->
+<header id="siteHeader" class="row justify-content-center align-items-center"></header>
+
+
+<!-- ヘッダー -->
+<header id="header" class="row pt-5 pb-3">
+
+<div class="col-lg">
 <h1>現代ミステリの生存戦略</h1>
-<div id="subtitle">『現代ミステリとは何か』感想</div>
+
+<ul id="subtitle" class="list-unstyled fs-5">
+<li>『現代ミステリとは何か』感想</li>
+</ul>
+
 </div>
 
 <div class="col-lg-4 text-end">
-<ul id="extra">
+<ul id="extra" class="list-unstyled fs-6">
 <li>公開日 2023.04.17</li>
 </ul>
 </div>
 
+
 </header>
 
-<div class="row justify-content-center">
 
 
-<nav class="col-lg-4">
+<div id="center" class="row justify-content-center">
+
+<!-- 目次 -->
+
+<nav id="sidenav" class="col-lg-4 py-3">
 <ul id="toc" class="nav flex-column">
-<li class="nav-item toc_h2"><a href="#id2_1" class="nav-link">はじめに</a></li>
-<li class="nav-item toc_h2"><a href="#id2_2" class="nav-link">蔓葉信博「二〇一〇年代ミステリの小潮流、あるいは現代ミステリの方程式」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_3" class="nav-link">琳「シャーロック・セミオシス――円居挽論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_4" class="nav-link">孔田多紀「燃ゆる闘魂――森川智喜論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_5" class="nav-link">藤井義允「想像としての「社会派」――深緑野分論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_6" class="nav-link">蔓葉信博「推理と想像のエンターテインメント――青崎有吾論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_7" class="nav-link">宮本道人「特殊設定ミステリプロトタイピングの可能性――白井智之論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_8" class="nav-link">杉田俊介「唯物論的な奇蹟としての推理――井上真偽論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_9" class="nav-link">坂嶋竜「我們の時代――陸秋槎論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_10" class="nav-link">詩舞澤沙衣「作家だって一生推してろ――斜線堂有紀論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_11" class="nav-link">片上平二郎「あらかじめ壊された探偵たちへ――阿津川辰海論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_12" class="nav-link">琳「連帯と推理――今村昌弘論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_13" class="nav-link">竹本竜都「謎を分割せよ――「本格推理ゲーム」とSOMI論」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_14" class="nav-link">蔓葉信博「あとがきに代わる四つのエッセイ、あるいはミステリの未来に向けて」</a></li>
-<li class="nav-item toc_h2"><a href="#id2_15" class="nav-link">おわりに</a></li>
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">はじめに</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">蔓葉信博「二〇一〇年代ミステリの小潮流、あるいは現代ミステリの方程式」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_3" class="nav-link">琳「シャーロック・セミオシス――円居挽論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_4" class="nav-link">孔田多紀「燃ゆる闘魂――森川智喜論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_5" class="nav-link">藤井義允「想像としての「社会派」――深緑野分論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_6" class="nav-link">蔓葉信博「推理と想像のエンターテインメント――青崎有吾論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_7" class="nav-link">宮本道人「特殊設定ミステリプロトタイピングの可能性――白井智之論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_8" class="nav-link">杉田俊介「唯物論的な奇蹟としての推理――井上真偽論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_9" class="nav-link">坂嶋竜「我們の時代――陸秋槎論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_10" class="nav-link">詩舞澤沙衣「作家だって一生推してろ――斜線堂有紀論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_11" class="nav-link">片上平二郎「あらかじめ壊された探偵たちへ――阿津川辰海論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_12" class="nav-link">琳「連帯と推理――今村昌弘論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_13" class="nav-link">竹本竜都「謎を分割せよ――「本格推理ゲーム」とSOMI論」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_14" class="nav-link">蔓葉信博「あとがきに代わる四つのエッセイ、あるいはミステリの未来に向けて」</a></li>
+<li class="nav-item toc-h2"><a href="#id2_15" class="nav-link">おわりに</a></li>
 </ul>
 </nav>
 
 
-<main class="col-lg-8">
-<h2><a name="id2_1"></a>はじめに</h2>
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
+<h2><a name="id2_1"></a>はじめに <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <div class="amathum" id="Books:EAN:978-4523266112:Medium">
 <a href="https://www.amazon.co.jp/%E7%8F%BE%E4%BB%A3%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E9%99%90%E7%95%8C%E7%A0%94/dp/4523266115?&linkCode=li2&tag=longfish80102-22&linkId=2f2bfbe9497112b14b0fa60386a000b7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4523266115&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80102-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4523266115" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -104,7 +93,7 @@
 <p>　まあ、作家論の対象になっている名前からして、広くミステリー全般というよりは国内本格ミステリに重心が偏っている感じがするかな。<br/>
 　以下、各論について内容紹介と私の感想を書き綴っていく。なお、内容紹介については厳密さよりも「私はこう理解しました」というほうを優先する。評論特有の専門用語や引用内容やもったいぶった言い回しを尊重した要約を作っても多くのミステリファンには理解しがたい文章になる。筆者たちに殺意を抱かれかねない程度まで表現を改めてしまっているので、正確なところはぜひ本のほうで確認してほしい。</p>
 
-<h2><a name="id2_2"></a>蔓葉信博「二〇一〇年代ミステリの小潮流、あるいは現代ミステリの方程式」</h2>
+<h2><a name="id2_2"></a>蔓葉信博「二〇一〇年代ミステリの小潮流、あるいは現代ミステリの方程式」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　ミステリならびに新本格ミステリについての説明は割愛。二〇一〇年代のミステリには次の四つの潮流があったという。</p>
 
@@ -154,7 +143,7 @@
 　二〇一〇年代は深水黎一郎『ミステリー・アリーナ』（二〇一五年）、井上真偽〈その可能性はすでに考えた〉シリーズや白井智之の一連の作品といった多重解決／推理バトルものが年度末ミステリランキングをにぎわせた<sup><a id="f4" href="#t4">*4</a></sup>。知的バトルが若者向けサブカルチャーで流行し、それがライトミステリに、そして本格ミステリにも波及した。具体的には探偵と犯人が対決する構図の強調として、多重解決／推理バトルや倒叙ミステリというコードで現れたという理解の仕方をした。<br/>
 　ところが異能バトルミステリについての文章を慎重に読むと、明確には多重解決／推理バトルものが含まれるとは書かれていない（推理バトルものである城平京『虚構推理』や似鳥鶏『推理大戦』が挙がってはいるが）。これはツイッターで蔓葉氏に直接回答を頂けた。結論としては含まないらしい。ただ二〇一〇年代に多重解決／推理バトルが流行したことは蔓葉氏も感じていたとのことで、機会があれば再考したいとのこと<sup><a id="f5" href="#t5">*5</a></sup>。</p>
 
-<h2><a name="id2_3"></a>琳「シャーロック・セミオシス――円居挽論」</h2>
+<h2><a name="id2_3"></a>琳「シャーロック・セミオシス――円居挽論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　これは面白かった。ざっくり私の理解を書くと次のようになる。<br/>
 　井上貴翔「〈拡散〉と〈集中〉をこえて」は、空気を読むという世間の風潮に応答した作品として米澤穂信『インシテミル』（二〇〇七年）と円居挽『丸太町ルヴォワール』（二〇〇九年）を同列に論じた。しかし『インシテミル』は空気に毒され思考を放棄するリアルな光景を描いたのに対し『丸太町～』は精緻な推理を以て世間の風潮に抗ってみせたという質の違いがあると指摘する<sup><a id="f6" href="#t6">*6</a></sup>。<br/>
@@ -169,21 +158,25 @@
 <p>　<strong>［4/18 追記］申し訳ありません、以下の指摘は私のほうの誤解でした。キングレオ＝探偵の意味で記述していないとのこと。琳氏から<a href="https://twitter.com/quantumspin/status/1647944212271472640">ツイッターで指摘</a>を頂きました。</strong><br/>
 　蛇足だが、次の箇所は恐らく誤解されているかと思うので指摘しておこう（四八頁）。</p>
 
-<blockquote>
+<figure>
+<blockquote class="blockquote p-3">
 <p>　［中略］こうした探偵の推理が、キングレオのリアリティを高め彼を読者の記憶の中に生き永らえさせる事は明らかであって、本編は「探偵の、精緻きわまりない推理という第二の光輪」が、キャラクターを「無意味の荒野」から解き放つ、笠井のいう「探偵小説」としか言いようのない物語なのだ。</p>
 </blockquote>
+</figure>
 
 <p>　いやいや、光輪は被害者に捧げるものであって、探偵（キングレオ）のためのものではない。<br/>
 　笠井潔は一九二〇年代から三〇年代にかけて英米で探偵小説が黄金期を迎えたのは第一次世界大戦という大量死の経験にあるとする大戦間探偵小説論を唱えた。探偵小説に描かれる被害者は、犯人の狡知をつくした犯行計画、そして探偵の精緻きわまりない推理という二重の光輪によって、戦場での死という匿名性から救われることができる。念のため『探偵小説論』からも引用しておこう（二五頁）<sup><a id="f8" href="#t8">*8</a></sup>。</p>
 
-<blockquote>
+<figure>
+<blockquote class="blockquote p-3">
 <p>　探偵小説は死者に、二重の光輪を意図的に授けようとする。探偵小説の被害者は、機関銃で泥人形さながらに撃ち倒された塹壕の死者とは比較にならないほど、栄光ある特権的な存在である。なぜなら犯人は、狡知をつくして犯行計画を練りあげ、それを周到に実行するのだから。探偵小説における死者は、大量死をとげた戦場の死者とは異なる固有の死者、意味ある死者、ようするに名前のある死者である。<br/>
 　しかも、犯人が死者に与えた第一の光輪に加えて、さらに探偵は事件の被害者に、第二の光輪をもたらす。狡知をつくした犯罪の真相を、探偵が精緻きわまりない推理で暴露する結末において、被害者の存在はさらに特権化されるのだ。このようにしてポオの創造になる、「謎―解明」を物語的骨格とした奇妙な小説形式は、第一次大戦後に到来した群衆の時代において、急速に発展するための条件が与えられた。</p>
 </blockquote>
+</figure>
 
 <p>　要するに大戦間探偵小説論は、探偵小説の精神とは死者の哀悼にあるという主張だ<sup><a id="f9" href="#t9">*9</a></sup>。生者である探偵の実存など、笠井にとっての探偵小説にしてみればどうもよいものでしかないだろう。</p>
 
-<h2><a name="id2_4"></a>孔田多紀「燃ゆる闘魂――森川智喜論」</h2>
+<h2><a name="id2_4"></a>孔田多紀「燃ゆる闘魂――森川智喜論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　ゴメン、これはよくわからなった。評論特有の難しい言葉をほとんど使わず、文章は読みやすい。それでいて論の筋道がよくわからないところがある。<br/>
 　まず全体的な趣旨については〝そうした「特殊設定ミステリ」の観点から、二〇一〇年代におけるそのフロントランナーともいうべき森川智喜の諸作を読み、彼の新規性の秘密を覗いてみようというのが、本稿の趣旨〟（五五頁）という記述がある。なるほど、森川智喜作品のどこが目新しいのか教えてくれるらしい。<br/>
@@ -199,7 +192,7 @@
 　ここを読んで私は「なるほど、ルールを二種類にわけたことが森川智喜の新規性、すなわちこの稿全体の主張なのか」と思いこみ、それが『スノーホワイト』『踊る人形』ではむしろ人工的ルールなど無いほうが良い、自然的なルールに絞ってバトルを描くことに絞ったので良くなったという話に進んだため、すっかり混乱してしまった。孔田としては「独自性こそあったものの、後になってふりかえるとむしろ邪魔だったね」くらいの軽い気持ちで書いただけだったのか、それとも私がなにか理解を誤っているのか。<br/>
 　いずれにせよ、ジャンル外にも広く視野を向けて本格ミステリを捉え直し、多様な読者を想定して丁寧に論を進めていく姿勢には好感を抱いた。「ジャンルの定義なんてどうでもいい。面白いかどうかが問題だ」という意見をみかけると、私は「面白いかどうかが問題だからこそ、ジャンルの定義が重要なのでは」と疑問を覚える。作者や出版社から読者へ、読者から読者へ、なにが面白いか伝えるには言葉が必要になり、言葉についての共通理解が必要になる。共通理解は自然に生じるものではなく、言葉を交わすことでしか醸成されない。理解しあっているふりをして慣れあうよりは、無理解を悲しみながら手探りで言葉を紡いでいきたい。</p>
 
-<h2><a name="id2_5"></a>藤井義允「想像としての「社会派」――深緑野分論」</h2>
+<h2><a name="id2_5"></a>藤井義允「想像としての「社会派」――深緑野分論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　深緑野分はどのように社会を描いているのか。『オーブランの少女』『戦場のコックたち』『ベルリンは晴れているか』の内容を紹介し、異国の地の戦争というモチーフを志向していることを示す。二十一世紀の日本を生きる深緑野分にそれらの戦争について当事者としての経験があるはずもない。膨大な資料や映像、小説、ドキュメンタリーを享受し、そこから作品世界を築きあげている。<br/>
 　深緑は当事者ではないがゆえに、史実には配慮していても加工が入り、独特な距離感がそこに生じる。現代を生きる私たちも戦争の当事者ではない。だからこそ深緑が歴史的事実を押さえ私感を排した上で創造した過去にリアリティを感じる。<br/>
@@ -210,10 +203,10 @@
 　まあ常識的に考えれば良くないよな、ゾーニングすべきか、でもあまり潔癖すぎるのもむしろ考えものでは。などと賛成と反対それぞれの立場でぐだぐだと考え続け、けっきょくどちらにも結論できず「まあ自分には関係ないか」「下手なことを口にして火の粉がかかってくるのも馬鹿らしい」「専門家や詳しい人に任せればいい」と思考放棄で終わる。そんな自分が未熟者であるかのような気分を覚えていた。<br/>
 　そんな鬱屈が『ベルリンは～』を読んだことで楽になった。どうしてそうなったのかについては『ベルリンは～』を読んでほしい。七十年以上も昔の遠い異国の地を舞台とした物語のはずなのに「東京は晴れているか」と問う作者の声を耳にしたように感じた。</p>
 
-<h2><a name="id2_6"></a>蔓葉信博「推理と想像のエンターテインメント――青崎有吾論」</h2>
+<h2><a name="id2_6"></a>蔓葉信博「推理と想像のエンターテインメント――青崎有吾論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <aside class="alert alert-danger" role="alert">
-<header class="alert-heading"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
+<header class="alert-heading text-center"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
 <p>　以下、青崎有吾『図書館の殺人』について核心的な内容には触れないよう留意するが、事前に読了しておくことを推奨する。</p>
 </aside>
 
@@ -233,7 +226,7 @@
 　ところが推理を進めた裏染はダイイングメッセージの謎に正面から向き合わざるを得なくなる。つまり、これまで蓋然性の推理に依拠してきた裏染が、人の心を推し量るという苦手な領域に挑むのがこの物語の核心だ<sup><a id="f11" href="#t11">*11</a></sup>。袴田柚乃が裏染の過去を探ってよいのか悩むという傍流のエピソードも、この作品が人の心をテーマとしていることを窺わせる。<br/>
 　蔓葉の論では三節で『鍵の国星』を巡る推理については作中に推理の内容が語られず、想像を必要とされる旨の記述があり、私の読解と同じ方向に至るのかと感じた。ところが四節になると確かなエビデンスに基づいて考えることの重要さといった話になり、どうも上記のような私の解釈は視野に入っていないように感じられる。</p>
 
-<h2><a name="id2_7"></a>宮本道人「特殊設定ミステリプロトタイピングの可能性――白井智之論」</h2>
+<h2><a name="id2_7"></a>宮本道人「特殊設定ミステリプロトタイピングの可能性――白井智之論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　まず先にＳＦプロトタイピングを先に説明しなければならない。〝未来を考える際にフィクション作成を土台にする手法〟（一四九頁）とのこと。註記によれば『ＳＦプロトタイピング　ＳＦからイノベーションを生み出す新戦略』（早川書房）が詳しいそうだが、あいにく私はそれを読んでいない。後述の内容や〝日本では特に二〇二〇年代に入ってからビジネス業界で注目を集めるようになり、様々な企業が事業開発や新人研修などに取り入れるようになった〟（一四九頁）という記述からして、作品読解をただ教養だけに終わらせずビジネス価値につなげようとする実用主義的な試みらしい。<br/>
 　今回はそれの特殊設定ミステリ版として白井智之作品を題材にする。以下の四つの要素を分析していく。</p>
@@ -248,10 +241,10 @@
 <p>　この要素を抽出してみせたのが見事で、ちょっと考えてみたが私には五番目の要素は思い浮かばなかった。最後の節ではこれらの分析結果を踏まえて企業がどのように活用できるか考察している。<br/>
 　白井智之の作品はエログロや猟奇趣味が注目されがちだが、こうして整理してみるとサブカルチャーの台頭で空想じみた発想がごく身近なものになった現代における社会派の新しい在り方なのかもしれないとさえ思わされる。と言いつつ、最後の節の〝もちろん白井作品的なものは、企業で使うにはあまりに露悪的すぎて、「そのままでは」使えないだろう〟（一六四頁）という文章には思わず吹きだした。</p>
 
-<h2><a name="id2_8"></a>杉田俊介「唯物論的な奇蹟としての推理――井上真偽論」</h2>
+<h2><a name="id2_8"></a>杉田俊介「唯物論的な奇蹟としての推理――井上真偽論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <aside class="alert alert-danger" role="alert">
-<header class="alert-heading"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
+<header class="alert-heading text-center"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
 <p>　以下、井上真偽『その可能性はすでに考えた』の核心的な内容に触れるため、事前に読んでおくことを推奨する。</p>
 </aside>
 
@@ -271,7 +264,7 @@
 　一方で杉田はそうではないと言う。フェイクニュースをまき散らす人々と検証家とが、たとえ敵同士であっても最低限の論理や公正さをわきまえコミュニケーションすることで善意や愛に到達することができる。そんな主張を耳にしたら恐らく大半の人が首を傾げるだろう。理想としては実現可能かもしれないが現実的ではない。<br/>
 　けれど私は面白いと思う。大切なのは杉田はあくまでフィクションの話をしているということだ。上苙とその敵対者たちのような推理バトルを誰もができるわけではない。だが、けっして起こりえないとは断言できない。もしかしたらそれを為し遂げるのはこれを読んでいるあなたかもしれない。巧みな技巧に裏打ちされた絵空事は現実に対する認識をほんの束の間ではあっても変えることができる。琳の円居挽論にも書いたとおり物語はただ現実を鏡のように反映するだけではない。一般論に頭が凝り固まった人に個別具体例を突きつけ心を揺るがせることができる。</p>
 
-<h2><a name="id2_9"></a>坂嶋竜「<ruby>我們<rp>［</rp><rt>ウォーメン</rt><rp>］</rp></ruby>の時代――陸秋槎論」</h2>
+<h2><a name="id2_9"></a>坂嶋竜「<ruby>我們<rp>［</rp><rt>ウォーメン</rt><rp>］</rp></ruby>の時代――陸秋槎論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　陸秋槎は中国生まれだが、日本のミステリ作品に影響を受けたことを公言している。日本のミステリがどのように中国へ届き、逆に近年の日本で華文ミステリのブームが起こるまでになったか説明する。これはなかなか勉強になったので、かいつまんで箇条書きで書いておこう。</p>
 
@@ -309,7 +302,7 @@
 　翻って陸秋槎の作品を眺めてみると『元年春之祭』や『雪が白いとき、かつそのときに限り』に顕著だが少女たちの闘争が描かれる。少女同士の感情のぶつけ合いがあり、そして息苦しい世間や激動する世界との闘いがあり、少なくとも自閉する若者たちを描いたとは思えない。<br/>
 　いまや新本格という言葉はあまりにも長い期間を指し、人によって意見も分かれる。新本格との影響関係という観点だけではとりこぼしてしまった細部があるのではないか。</p>
 
-<h2><a name="id2_10"></a>詩舞澤沙衣「作家だって一生推してろ――斜線堂有紀論」</h2>
+<h2><a name="id2_10"></a>詩舞澤沙衣「作家だって一生推してろ――斜線堂有紀論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　斜線堂有紀はオタクらしい作家であり、それゆえに成功している。<br/>
 　箇条書きにすると、こんな感じ。</p>
@@ -345,7 +338,7 @@
 
 <p>　あいにく私は斜線堂の小説を『キネマ探偵カレイドミステリー』と『楽園とは探偵の不在なり』の二冊しか読んでおらず「最近の若い小説家はそんなことまでしているのか、大変だなあ」というオッサン臭い感想しか頭に浮かばない。</p>
 
-<h2><a name="id2_11"></a>片上平二郎「あらかじめ壊された探偵たちへ――阿津川辰海論」</h2>
+<h2><a name="id2_11"></a>片上平二郎「あらかじめ壊された探偵たちへ――阿津川辰海論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　阿津川辰海の作品はどのような形で登場人物の苦悩を描いているのか。<br/>
 　新本格ムーブメントの初期、八〇年代から二〇〇〇年代初頭にかけては自閉的な若者たちの屈折した自意識を描く青春ミステリが数多く著された。それは後期クイーン的問題によって真実を確実には見抜くことができなくなった苦悩と並行してもいた。世の中の潮流はコミュニケーション消費やゲーム的世界観へ移ったが、近年は新本格的な匂いのある小説が再び勢いを取り戻してきており阿津川辰海もその一人となる。<br/>
@@ -357,24 +350,28 @@
 　要するに阿津川辰海はある種の強迫観念に取り憑かれていて、それが細部だけ形を変えてさまざまな作品として結実しているのではないか。その強迫観念を一言で表すと「苦悩」ということになる。苦悩する作家はスランプに陥って書けなくなってしまうイメージがあるが、阿津川にとってはむしろガソリンみたいなものなんだということ。<br/>
 　あまり作者本人と作品を重ねすぎるのも良くないとは思うが、たまたま並行して読んでいた『阿津川辰海　読書日記　かくしてミステリー作家は語る〈新鋭奮闘編〉』（光文社）にこんな記述があった（一六〇頁）。ときおり読書スランプに陥ることがあり、そんなときにどうするかという文脈だ。</p>
 
-<blockquote>
+<figure>
+<blockquote class="blockquote p-3">
 <p>　そういう時は大抵気分も落ち込んでいることが多いので、読書を起点に生活が崩れ始めます。では、そういう時にはどうするか？　色々気分転換の方法はあると思いますが、私の場合は「一旦底まで沈む」ことをよくします。無理矢理元気になろうと思っても出来ないんですよね。陰鬱な話、暗い話、主人公がボロボロになるまで悩んで苦しむ話、不安を掻き立てられる話&hellip;&hellip;そういうものを読んでいくと、ようやく、この世界に一人じゃないと思えるようになるのです。</p>
 </blockquote>
+</figure>
 
 <p>　すでに『読書日記』を読んだ方なら承知のとおり、阿津川辰海という作家には全速力のブルドーザーで突っこんでくるような勢いと暑苦しさがある。だからこそ上記のような弱音を意外に感じた。<br/>
 　だが、これはむしろ自我の強さの裏返しなのかもしれない。短編集『入れ子細工の夜』（二〇二二年）について私はツイッター上で<a href="https://twitter.com/longfish801/status/1535933851674898432">こんな感想</a>を書いたことがある。</p>
 
-<blockquote>
+<figure>
+<blockquote class="blockquote p-3">
 <p>　現実と虚構の綱渡りを愉しむ私立探偵、たやすく周囲の環境に染まる若者、どこまでも変転する二人芝居、覆面で正体を隠すことが常識の小世界。さまざまな形のアイデンティティの揺らぎが描かれるが、不安はなく状況を愉しんでいるかのよう。夢野的な実存の危機ではなく、乱歩的な自己変容の戯れ。</p>
 </blockquote>
+</figure>
 
 <p>　阿津川辰海は強靭な自我を持ちあわせているからこそ、不安を感じさせられる物語に魅了されるのではないか。喩えは悪いが、腕に覚えのある剣豪が自分と同等の力がある者との真剣勝負を待ち望むようなものだ。もちろん人間だから阿津川の精神もときとして不調に陥る。あえて気分が落ちこむ小説を読んで、自分は独りぼっちではないと確認するときもある。<br/>
 　そこにこそ本格ミステリ作家としての阿津川辰海の才能の秘密があるのではないか。あまりにも自我が強靭すぎればマッドサイエンティストのごとく傲慢になり、論理以外のすべてをかなぐり捨てた狂気の世界に安住してしまう。不安と苦悩を通じて自己を省みる、この世界にはさまざまな人間がひしめいて助けあったりいがみあったりしているんだと思いを馳せる時期があるからこそ、その論理は血の通ったものになるのではないか。</p>
 
-<h2><a name="id2_12"></a>琳「連帯と推理――今村昌弘論」</h2>
+<h2><a name="id2_12"></a>琳「連帯と推理――今村昌弘論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <aside class="alert alert-danger" role="alert">
-<header class="alert-heading"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
+<header class="alert-heading text-center"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
 <p>　以下、今村昌弘『屍人荘の殺人』について一般的なレビューと比べて作品内容に踏みこんだ記述をするため既読であることが望ましい。</p>
 </aside>
 
@@ -389,7 +386,7 @@
 　これが推理法にも表れる。剣崎は密室殺人が起きても、それをどうやって成し遂げたかハウダニットには興味を示さない。犯人がなにを望んだのか、どうしたいのかホワイの側面を敏感に捉える（一四一頁）。つまり剣崎は犯人がどのような魂胆を秘めているのか、事件全体の絵図を真っ先に読み解こうとする。犯人の奸計から逃れ、生き延びるための戦略として剣崎はそのような推理法を鍛えてきたのではないか。<br/>
 　シャーロック・ホームズであれば科学的知識と冒険心。エラリー・クイーンであれば高度な論理操作。時代の要請に応じて名探偵たちは、読者にこれなら現実を曇りなくみつめることができるだろうと信頼されるための武器を携えてきた。東日本大震災の影響が色濃い映画『君の名は。』や『シン・ゴジラ』が上映されたのは二〇一六年、今村が『屍人荘の殺人』でデビューする前年だった。かつては千年に一度の大地震によって原子力発電所がメルトダウンするなど、ゾンビが襲ってきたり奇怪な事件を引き寄せる呪いと同等の虚構に過ぎなかった。一寸先は闇の時代に剣崎はサバイバル精神という新しい武器を携えて現れた名探偵ではなかったか。</p>
 
-<h2><a name="id2_13"></a>竹本竜都「謎を分割せよ――「本格推理ゲーム」とSOMI論」</h2>
+<h2><a name="id2_13"></a>竹本竜都「謎を分割せよ――「本格推理ゲーム」とSOMI論」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　デジタルゲームにおけるミステリゲームの名作として『ポートピア連続殺人事件』『かまいたちの夜』『逆転裁判』『ダンガンロンパ』を紹介する。<br/>
 　これらは本格推理小説のようでいて、小説をただそのままゲーム化したものではない。ゲーム操作による問題の解決の連続、すなわち攻略という形に落としこんでいる。<br/>
@@ -402,7 +399,7 @@
 　蔓葉の序文にあるとおり二〇一〇年代にはライトな作風のミステリが流行した。仮説検討や謎解きだけで何十ページも必要になる大事件ではライトと言えない。小さな事件を重ねながら登場人物同士の関係性が少しずつ変わっていくというスタイルが採られるようになったと推察される。<br/>
 　もちろん謎を小出しにする特徴は同じでも、そうなった事情はゲームと連作短編とでは大きく異なる。ライトミステリの場合は、情報技術の発達と浸透にともないＳＮＳやネット動画、ゲームといった数多くのメディアと可処分時間の奪い合いをしなければならない現代に重厚長大な作品は敬遠されるという事情なのかもしれない。</p>
 
-<h2><a name="id2_14"></a>蔓葉信博「あとがきに代わる四つのエッセイ、あるいはミステリの未来に向けて」</h2>
+<h2><a name="id2_14"></a>蔓葉信博「あとがきに代わる四つのエッセイ、あるいはミステリの未来に向けて」 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　あとがきから読む人を想定しているとのことなので、ここを先に読んでも大丈夫。<br/>
 　箇条書きで書くと次のとおり。</p>
@@ -414,15 +411,21 @@
 <li>道案内としてミステリ評論を五冊、広い意味での創作論を五冊紹介。</li>
 </ul>
 
-<h2><a name="id2_15"></a>おわりに</h2>
+<h2><a name="id2_15"></a>おわりに <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　こうしてふりかえってみるとやはり十年という歳月は長いと感じる。<br/>
 　二〇一一年には東日本大震災があった。あまり安易に世の中の大きな不幸と創作行為を結びつけるのは不謹慎のそしりを逃れられない。けれど、上述のとおり今村昌弘『屍人荘の殺人』が映画『君の名は。』や『シン・ゴジラ』とほぼ同じ頃に世にでたこと、ライトミステリから前衛的な試みへ読者が求める潮流が変化したことは偶然ではないのかもしれないと考えてしまう。<br/>
 　くわえて二〇一〇年代といえば人々の分断が進んだことが挙げられるだろう。政治と社会、二つの分断がある。政治のほうは二〇一六年のアメリカ大統領選にてドナルド・トランプが勝利したことに象徴されるポスト・トゥルース時代の幕開けがある。客観的真偽が省みられず感情を動員した者が政治的勝利を収めるという風潮がどれだけミステリに影響を与えたかは上述のとおり。<br/>
 　社会のほうは二〇一六年に相模原市の障害者施設で起きた連続殺傷事件や、二〇一九年に池袋で乗用車を暴走させ過失運転致死傷の罪に問われた人物が「上級国民」呼ばわりされた事件を思いだす。ＩＴ分野の立ち遅れや賃金水準といった形で国力の衰えが誰の目にも明らかになっていった時期でもあった。新社会派はもちろん異能バトルミステリも、無理解な人々が争いあい生き残るため必死にならなければならない世の中の非情な雰囲気を反映しているのかもしれない。<br/>
 　その一方でただ世の中の移ろいを反映するだけでなく、絵空事は絵空事なりの責任を果たしてきた。人々が分断され客観的真偽など誰も気にかけない時代に、本格ミステリは説得力のある巧妙な嘘を探してきた。それは本格ミステリが自身の形を問い直し、変容していく過程でもあったと思う。実存とコミュニケーション、エビデンスと心理的洞察、リアリズムと空想的設定。さまざまな手段を弄して本格ミステリもまた生き残っていくことを願う。</p>
-<aside>
-<dl id="note">
+<!-- 総目次 -->
+
+
+
+<!-- 註記 -->
+
+<aside id="appendix">
+<dl id="note" class="px-3">
 <dt><a name="t1" href="#f1">[*1]</a></dt>
 <dd>　メフィスト評論賞の受賞作は<a href="https://amzn.to/41vx2LF">『メフィスト』2019 VOL.3（講談社）</a>にて読むことができる。</dd>
 <dt><a name="t2" href="#f2">[*2]</a></dt>
@@ -460,18 +463,24 @@
 <dd>　そもそも東京創元社の名物編集者として知られる戸川安宣がこのフォーマットをさまざまな作家に薦めたという事情がある。ではなぜ戸川はこのフォーマットを選んだのか『ぼくのミステリ・クロニクル』（著者 戸川安宣／編者 空犬太郎／国書刊行会／二〇一六年十一月）をめくってみたが記述はみあたらなかった。というわけで、ここに書いたのはあくまで私の想像となる。</dd>
 </dl>
 </aside>
+
 </main>
 
 </div><!-- end of row -->
 
-<footer class="row justify-content-center p-3">
-	<nav id="navi" class="col-lg-12 text-end">
-		<nav><a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a></nav>
-		<div class="copy">&copy; 2023 ODA MAKIO All rights reserved.</div>
-	</nav>
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3">
+<nav id="navi" class="col-lg-12 text-end">
+
+<div id="banner"><a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a></div>
+<div id="copy">&copy; 2023 Sugimoto@MNU-No10 All rights reserved.</div>
+
+</nav>
+<hr/>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
 
 </body>
 </html>
