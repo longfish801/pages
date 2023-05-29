@@ -1,6 +1,4 @@
 
-#! tpac:targets
-
 #> doc:960404_blackjoke
 #-mpath 1996
 #-design novel
@@ -110,6 +108,14 @@ Aexamination
 #> doc:230417_contemporary
 #-mpath 2023
 #-design text
+#>
+
+#! tpac:targets
+
+#> doc:060424_door
+#-mpath 2006
+#-design original
+#-font serif
 #>
 
 #!

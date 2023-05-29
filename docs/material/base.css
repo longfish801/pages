@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-// ブロック要素
+/* ブロック要素 */
 figure > blockquote.blockquote {
 	background-color: #ffffcc;
 }
@@ -23,7 +23,7 @@ nav#navi {
 nav#navi > div#copy {
 	font-size: 0.8rem;
 }
-// 目次
+/* 目次 */
 ul#toc > li.nav-item {
 	line-height: 1.8rem;
 }
@@ -42,7 +42,7 @@ ul#toc > li.toc-h5 {
 ul#toc > li.toc-h6 {
 	padding-left: 4rem;
 }
-// 総目次
+/* 総目次 */
 ul#tocAll > li.toc-h1 {
 	padding-left: 0rem;
 }
@@ -61,9 +61,15 @@ ul#tocAll > li.toc-h5 {
 ul#tocAll > li.toc-h6 {
 	padding-left: 5rem;
 }
-// インライン要素
+/* インライン要素 */
 span.attention {
 	font-size: 1.7rem;
+	font-weight: bold;
+	line-height: 1.7rem;
+}
+strong {
+	font-size: 1.2rem;
+	font-weight: bold;
 	line-height: 1.7rem;
 }
 span.dot {
@@ -71,4 +77,9 @@ span.dot {
 	-webkit-text-emphasis-style: filled;
 	-moz-text-emphasis-style: filled;
 	-ms-text-emphasis-style: filled;
+}
+div.amathum {
+	margin: 10px;
+	float: right;
+	clear:right;
 }
