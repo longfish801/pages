@@ -2,10 +2,10 @@
 #>
 
 #> map:onedoc
+#: 著作権タグを追加します。
 #>> data:template
 #-copy &copy; ${text} All rights reserved.
 #>> closure:copy
-#: 著作権のHTMLを生成します。
 	String copy = htmlizerMeta.call('著作権', '')
 	html = (copy.empty)? '' : templater.call(templateKey + 'copy', [text: copy])
 #>> map:need

@@ -29,7 +29,7 @@
 		? 'https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap'
 		: null
 	if (doc.tocAll == null) doc.tocAll = 'need'
-	String headerYSpace = (resultKey == 'index')? 'pt-5 pb-3': 'py-3'
+	String headerYSpace = (resultKey == 'index')? 'py-5': 'py-3'
 %>
 <!doctype html>
 <html lang="ja">
@@ -50,6 +50,12 @@ body {
 	text-align: justify;
 	word-wrap: break-word;
 }
+<% if (resultKey == 'index' && doc.titleImage != null){ %>
+h1 {
+	display: none;
+}
+<% } %>
+
 -->
 </style>
 <title><%= clmap.cl('/thtml.textize#meta').call(bltxt, 'タイトル', '（無題）') %></title>
@@ -87,6 +93,15 @@ body {
 <% } %>
 </header>
 
+<% if (resultKey != 'index'){ %>
+<!-- ページ移動ナビゲーション -->
+<header id="header-navi" class="row py-3 text-end">
+<nav class="pagenavi col-lg-12">
+<%= clmap.cl("/thtml.crosscut/navi#").call(resultKey) %>
+</nav>
+</header>
+<% } %>
+
 <% if (resultKey == 'index' && doc.catchImage != null){ %>
 <header id="catchcopy" class="row">
 <div class="col-lg">
@@ -97,8 +112,8 @@ body {
 
 <div id="center" class="row justify-content-center">
 
-<!-- 目次 -->
 <% if (onedoc.cl('need#toc').call(bltxt)){ %>
+<!-- 目次 -->
 <nav id="sidenav" class="col-lg-4 py-3">
 <ul id="toc" class="nav flex-column">
 <%= onedoc.cl('#toc').call(bltxt) %>
@@ -109,16 +124,16 @@ body {
 <main id="main" class="col-lg-8 py-3">
 <!-- 本文 -->
 <%= clmap.cl('/thtml.htmlize').call(bltxt.root) %>
-<!-- 総目次 -->
 <% if (resultKey == 'index' && doc.tocAll == 'need'){ %>
 <% if (clmap.cl("/thtml.crosscut/toc/need#").call(bltxtMap)){ %>
+<!-- 総目次 -->
 <ul id="tocAll" class="list-unstyled">
 <%= clmap.cl("/thtml.crosscut/toc#").call(bltxtMap) %>
 </ul>
 <% } %>
 <% } %>
-<!-- 註記 -->
 <% if (onedoc.cl('need#note').call(bltxt)){ %>
+<!-- 註記 -->
 <aside id="appendix">
 <dl id="note" class="px-3">
 <%= onedoc.cl('#note').call(bltxt) %>
@@ -130,15 +145,16 @@ body {
 </div><!-- end of row -->
 
 <!-- フッター -->
-<footer id="footer" class="row justify-content-center py-3">
-<nav id="navi" class="col-lg-12 text-end">
+<footer id="footer" class="row justify-content-center py-3 text-end">
 <% if (resultKey == 'index'){ %>
 <div id="banner"><a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a></div>
 <div id="copy"><%= onedoc.cl('#copy').call(bltxt) %></div>
 <% } else { %>
+<!-- ページ移動ナビゲーション -->
+<nav class="pagenavi col-lg-12">
 <%= clmap.cl("/thtml.crosscut/navi#").call(resultKey) %>
-<% } %>
 </nav>
+<% } %>
 <hr/>
 </footer>
 

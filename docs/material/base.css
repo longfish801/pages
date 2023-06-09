@@ -3,6 +3,7 @@
 /* ブロック要素 */
 figure > blockquote.blockquote {
 	background-color: #ffffcc;
+	font-size: 1rem;
 }
 figure > figcaption.blockquote-footer {
 	background-color: #ffffcc;
@@ -10,17 +11,17 @@ figure > figcaption.blockquote-footer {
 pre.code {
 	background-color: #f0f0f0;
 }
-p:first-child {
-	margin-top: 0rem;
+p {
+	margin: 1rem 0rem;
 }
-p:not(:first-child) {
-	margin-top: 2.5rem;
+p:only-of-type {
+	margin: 0rem 0rem;
 }
-nav#navi {
+nav.pagenavi {
 	font-size: 2rem;
 	padding: 0.5rem 0rem;
 }
-nav#navi > div#copy {
+div#copy {
 	font-size: 0.8rem;
 }
 /* 目次 */
@@ -68,7 +69,7 @@ span.attention {
 	line-height: 1.7rem;
 }
 strong {
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	font-weight: bold;
 	line-height: 1.7rem;
 }
@@ -77,6 +78,10 @@ span.dot {
 	-webkit-text-emphasis-style: filled;
 	-moz-text-emphasis-style: filled;
 	-ms-text-emphasis-style: filled;
+}
+span.unseen {
+	background-color: #000033;
+	color: #000033;
 }
 div.amathum {
 	margin: 10px;
