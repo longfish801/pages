@@ -3,8 +3,12 @@
 
 #> map:inline
 #: 隠蔽タグを追加します。
+#: 隠蔽解除タグを追加します。
 #>> data:template
-#-隠蔽 <span class="unseen">${text}</span>
+#-隠蔽 <span class="unseen unseen-hide">${text}</span>
+#-隠蔽解除 <button type="button" class="revert-unseen btn btn-primary">ネタバレ解除</button>
 #>> closure:隠蔽
 	html = templater.call(templateKey, [ text: text ])
+#>> closure:隠蔽解除
+	html = templater.call(templateKey, [:])
 #>

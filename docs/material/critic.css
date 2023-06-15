@@ -1,0 +1,19 @@
+@charset 'utf-8';
+@import 'base.css';
+
+h1 {
+	text-align: center;
+	letter-spacing: 2rem;
+}
+div.column {
+	padding: 0.5rem 1rem;
+	margin: 0.5rem 0rem;
+	border-width: 1px;
+	border-style: solid;
+}
+figure > blockquote.blockquote {
+	background-color: #f0f0f0;
+}
+figure > figcaption.blockquote-footer {
+	background-color: #f0f0f0;
+}

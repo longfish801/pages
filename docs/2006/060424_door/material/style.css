@@ -16,11 +16,12 @@ a:hover {
 	color: #9999FF;
 }
 header#header {
-	color: #666666;
+	color: #999999;
 	margin: 3rem 0rem;
-	border-width: 6px;
-	border-color: white;
+	border-width: 30px;
+	border-color: #ffffff;
 	border-style: double;
+	text-align: center;
 }
 h2 {
 	color: #999999;

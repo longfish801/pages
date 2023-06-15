@@ -3,20 +3,19 @@
 	def onedoc = clmap.cl('/thtml.meta/onedoc')
 	def doc = appendMap.doc
 	String commonCss
-	String eachCss
+	String eachCss = doc.eachCss ?: 'material/style.css'
 	switch (doc.design){
 		case 'novel':
 			commonCss = '/pages/material/novel.css'
-			eachCss = 'material/style.css'
 			if (doc.font == null) doc.font = 'serif'
 			break
 		case 'text':
 			commonCss = '/pages/material/text.css'
+			eachCss = null
 			if (doc.font == null) doc.font = 'gothic'
 			break
 		case 'original':
 			commonCss = '/pages/material/base.css'
-			eachCss = 'material/style.css'
 			if (doc.font == null) doc.font = 'gothic'
 			break
 		default:

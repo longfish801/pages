@@ -3,6 +3,7 @@
 
 #> map:onedoc
 #: 著作権タグを追加します。
+#: 隠蔽解除タグを追加します。
 #>> data:template
 #-copy &copy; ${text} All rights reserved.
 #>> closure:copy

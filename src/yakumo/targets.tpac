@@ -65,6 +65,13 @@ A-5
 #-titleImage material/title.png
 #>
 
+#> doc:070415_doubleq
+#-mpath 2007
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
 #> doc:070429_snowwhite
 #-mpath 2007
 #-design novel
