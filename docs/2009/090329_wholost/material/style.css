@@ -1,0 +1,27 @@
+body {
+	background-attachment: fixed;
+	border-width: 0rem 1rem;
+	border-color: #CCFFCC;
+	border-style: solid;
+}
+h2 {
+	border-width: 2px 0px;
+	border-color: #333333;
+	border-style: solid;
+}
+h3 {
+	border-width: 0px 0px 1px 5px;
+	border-color: #006666;
+	border-style: solid;
+}
+span.blink {
+	animation: blinkEffect 1s ease infinite;
+}
+@keyframes blinkEffect {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}

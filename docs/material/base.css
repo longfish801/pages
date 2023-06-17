@@ -24,6 +24,9 @@ nav.pagenavi {
 div#copy {
 	font-size: 0.8rem;
 }
+aside#appendix {
+	padding-top: 3rem;
+}
 /* 目次 */
 ul#toc > li.nav-item {
 	line-height: 1.8rem;
@@ -91,4 +94,17 @@ div.amathum {
 	margin: 10px;
 	float: right;
 	clear:right;
+}
+div.column {
+	padding: 0.5rem;
+	margin: 0.5rem 0rem;
+	border-width: 1px;
+	border-color: #333333;
+	border-style: solid;
+}
+div.center {
+	text-align: center;
+}
+div.right {
+	text-align: right;
 }

@@ -87,6 +87,14 @@ A-5
 #-catchAlt 表紙
 #>
 
+#> doc:090329_wholost
+#-mpath 2009
+#-design original
+#-font serif
+#-titleImage material/title.png
+#-tocAll noNeed
+#>
+
 #> doc:090506_monochrome
 #-mpath 2009
 #-design novel
