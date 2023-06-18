@@ -1,6 +1,10 @@
 @charset "utf-8";
 
 /* ブロック要素 */
+h2 {
+	padding: 2rem 0.5rem;
+	margin: 1rem -0.75rem;
+}
 figure > blockquote.blockquote {
 	background-color: #ffffcc;
 	font-size: 1rem;

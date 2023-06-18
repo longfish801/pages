@@ -21,8 +21,6 @@ dl#note {
 }
 h2 {
 	background-image: url(/img/mat/bg_header.png);
-	padding: 2rem 0.5rem;
-	margin: 1rem -0.75rem;
 }
 figure > blockquote.blockquote {
 	background-color: #ffffcc;

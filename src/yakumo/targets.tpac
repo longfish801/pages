@@ -142,6 +142,13 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:100731_choice
+#-mpath 2010
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
 #> doc:230417_contemporary
 #-mpath 2023
 #-design text
