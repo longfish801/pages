@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+body {
+	background-color: #663300;
+}
+header#header {
+	background-color: #FFC000;
+}
+header#header-navi {
+	background-color: #FFC000;
+}
+main#main {
+	background-color: rgba(255,255,255,0.7);
+}
+div#center {
+	background-color: #FFC000;
+}
+footer#footer {
+	background-color: #FFC000;
+}
+header#header {
+	background-color: #FFC000;
+}
+a:link {
+	color: #FF6666;
+}
+a:visited {
+	color: #CC3333;
+}
+a:active {
+	color: #FF9999;
+}
+a:hover {
+	color: #9999FF;
+}
+h2 {
+	color: #CCCCCC;
+	background-color: #660000;
+}
+figure > blockquote.blockquote {
+	background-color: #f0f0f0;
+}
+figure > figcaption.blockquote-footer {
+	background-color: #f0f0f0;
+}
+div.indent {
+	margin: -1.5rem 0rem;
+}
+div.indent > ul > li {
+	list-style-type: '・';
+}
+div.indent-circlenum {
+	margin: -1.5rem 0rem;
+}
+div.indent-circlenum > ul {
+	list-style: none;
+}
+div.indent-circlenum > ul > li {
+	text-indent: -1rem;
+}

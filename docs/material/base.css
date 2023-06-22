@@ -11,6 +11,7 @@ figure > blockquote.blockquote {
 }
 figure > figcaption.blockquote-footer {
 	background-color: #ffffcc;
+	padding: 0rem 0.5rem;
 }
 pre.code {
 	background-color: #f0f0f0;

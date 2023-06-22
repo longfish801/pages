@@ -149,6 +149,13 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:110310_fareplay4
+#-mpath 2011
+#-design original
+#-font serif
+#-titleImage img/title.png
+#>
+
 #> doc:230417_contemporary
 #-mpath 2023
 #-design text
