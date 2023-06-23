@@ -163,6 +163,13 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:110806_game
+#-mpath 2011
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
 #> doc:230417_contemporary
 #-mpath 2023
 #-design text
