@@ -175,4 +175,46 @@ Aexamination
 #-design text
 #>
 
+#> doc:120729_killed
+#-mpath 2012
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
+#> doc:130728_bigdata
+#-mpath 2013
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
+#> doc:140810_lullaby
+#-mpath 2014
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
+#> doc:150808_monsterlove
+#-mpath 2015
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
+#> doc:161112_casual
+#-mpath 2016
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
+#> doc:170805_violence
+#-mpath 2017
+#-design original
+#-font serif
+#-eachCss /pages/material/critic.css
+#>
+
 #!
