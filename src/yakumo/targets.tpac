@@ -198,6 +198,13 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:160814_hypergame
+#-mpath 2016
+#-design original
+#-font serif
+#-titleImage image/title.png
+#>
+
 #> doc:161112_casual
 #-mpath 2016
 #-design original
