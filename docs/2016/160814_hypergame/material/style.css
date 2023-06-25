@@ -6,12 +6,18 @@ body {
 header#header img {
 	padding: 100px 0rem 100px 0rem;
 }
-main#main {
-	background-color: rgba(255,255,255,0.8);
-}
-nav#sidenav {
+ul#toc {
 	background-color: rgba(255,255,255,0.4);
+	border-radius: 10px;
 }
-h2 {
-	background-color: #66CCFF;
+div.outline {
+	padding: 1rem;
+	font-size: 1.2rem;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 10px;
+}
+div.bodytext {
+	padding: 1rem;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 10px;
 }

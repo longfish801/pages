@@ -5,6 +5,7 @@
 
 ■あらすじ
 
+【－行範囲：outline】
 「ハイパーゲームって、知ってる？」
 
 関東地方のどこかにある、眠っているような町。
@@ -33,9 +34,11 @@
 
 幸せになることを夢みた少女と少年が
 世界の不条理に挑む“途方もない物語”
+【行範囲－】
 
 ■ご紹介
 
+【－行範囲：bodytext】
 【－変換済：html】
 <div class="amathum" id="Books:ASIN:B01KDC30M4:Medium">
  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=longfish80102-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B01KDC30M4&amp;linkId=774d637e3dc0d4a635aaf4a7878a6c75"></iframe>
@@ -59,8 +62,11 @@
 ・【リンク：ハィパァゲィム［上］空呂木冬宇の幸福論：https://amzn.to/3YK1kci】
 ・【リンク：ハィパァゲィム［下］鯨峰不二之の幸福論：https://amzn.to/3YeZss1】
 
+【行範囲－】
+
 ■冒頭場面
 
+【－行範囲：bodytext】
 　昨夜の雪がまだ残っていた。建築資材の日陰をまだらに白く染めている。長靴の足跡にできた小さな水溜まりを薄氷が蓋していた。霜の降りた地面を枯れ褪せた雑草が長々と這っている。
 　そっと息をこぼす。曇る吐息が薄れてゆくのをみつめながら、【ルビ：空呂木冬宇：うつろぎ ふゆう】はあいまいな笑みをこぼした。
 　幅広の二車線道路の端をゆっくり歩く。斜めに傾いだ柵の向こう、売土地の看板が立っている。どこまでも均一な灰色の雲が【ルビ：野辺：のべ】町三丁目の空を塞いでいた。
@@ -100,3 +106,5 @@
 　知ってるよ。苦笑いしながら冬宇はマフラーに口元を埋めた。息が楽になった気がした。静かに安堵する。昨日と同じ彼女がいること。その幸運に感謝する。冷気に手足は縮こまり、胸と口だけが暖かい。いっそ、この登校路がどこまでも続いていればいい。そんなことさえ思う。
 　その罪深さに、泣きそうになる。彼女に秘密を作っていること。彼女から未来を奪っていること。自分の不誠実さに押しつぶされそうになる。
 　名前に冬の字を持つ少年は、自分が残酷な氷の季節を好むことをまだ知らない。肺に冷たい空気を吸いこみながら、冬宇は少しだけ自分に絶望する。
+【行範囲－】
+
