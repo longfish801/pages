@@ -1,80 +1,96 @@
+
 <!doctype html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,700&amp;subset=japanese">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-<link href="css/base.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap">
+<link rel="stylesheet" href="/pages/material/base.css">
+<link rel="stylesheet" href="material/style.css">
 <style type="text/css">
+<!--
+body {
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
 h1 {
 	display: none;
 }
-blockquote p {
-	font-size: 110%;
-	margin: 1em 0px 0em;
-}
-#title {
-	text-align: center;
-	margin: 300px 0% 200px;
-}
-#copy {
-	text-align: center;
-	margin: 100px 0% 200px;
-}
-.amalink {
-	text-align: center;
-	padding: 3em 0px;
-}
-#amathum {
-	text-align: center;
-	padding: 2em 0px;
-}
-.list-group-item {
-	background-color: #EEEEFF;
-}
+
+
+-->
 </style>
 <title>探偵が推理を殺す</title>
 </head>
-<body>
-<div class="container">
+<body class="container">
 
-<!-- begin of row-header -->
-<div class="row">
 
-<!-- ヘッダ要素 -->
-<header class="col-lg">
+
+<!-- ヘッダー -->
+<header id="header" class="row py-5">
+
+<div class="col-lg">
 <h1>探偵が推理を殺す</h1>
-<div id="title"><img src="img/title.png" alt="探偵が推理を殺す" class="img-fluid"></div>
-<!-- キャッチコピー -->
-<div id="copy"><img src="img/copy.png" alt="" class="img-fluid"></div>
-</header><!-- ヘッダ要素ここまで -->
+<figure class="text-center"><img src="img/title.png" class="img-fluid" alt="探偵が推理を殺す"></figure>
+</div>
 
-</div><!-- end of row-header -->
+</header>
 
-<!-- begin of row-body -->
-<div class="row">
 
-<!-- 目次要素 -->
-<nav class="col-lg-3">
-<a href="#id3_1" class="list-group-item">前口上</a>
-<a href="#id3_2" class="list-group-item">序論と結論</a>
-<a href="#id3_3" class="list-group-item">主に論じている作家と作品</a>
-<a href="#id3_4" class="list-group-item">参考リンク</a>
-</nav><!-- 目次要素ここまで -->
 
-<!-- 本文要素 -->
-<article class="col-lg-9 px-md-5">
-<h2><a name="id3_1"></a>前口上</h2>
 
-<blockquote>
+<header id="catchcopy" class="row">
+<div class="col-lg">
+<figure class="text-center"><img src="img/copy.png" class="img-fluid" alt="“終焉”そして“衰退期”。かつて、そう烙印を捺された本格ミステリはその後どうなったか。"></figure>
+</div>
+</header>
+
+
+<div id="center" class="row justify-content-center">
+
+
+<!-- 目次 -->
+<nav id="sidenav" class="col-lg-4 py-3">
+<ul id="toc" class="nav flex-column">
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">前口上</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">序論と結論</a></li>
+<li class="nav-item toc-h2"><a href="#id2_3" class="nav-link">主に論じている作家と作品</a></li>
+<li class="nav-item toc-h2"><a href="#id2_4" class="nav-link">参考リンク</a></li>
+</ul>
+</nav>
+
+
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
+<h2><a name="id2_1"></a>前口上 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<figure>
+<blockquote class="blockquote p-3">
 <p>一九八七年に開始された現代本格ムーヴメント（第三の波）は、筆者の判定するところでは二〇〇六年をもって終焉した。</p>
-<div class="bqsrc">――笠井潔『探偵小説は「セカイ」と遭遇した』（南雲堂／二〇〇八年十一月）の「はじめに」（5頁）から</div>
-
-<p>いま新本格ミステリムーブメントは、衰退期にある。</p>
-<div class="bqsrc">――限界研［編者］『21世紀探偵小説　ポスト新本格と論理の崩壊』（南雲堂／二〇一二年七月）の飯田一史による序論（10頁）から</div>
 </blockquote>
+<figcaption class="blockquote-footer text-end">
+<cite>笠井潔『探偵小説は「セカイ」と遭遇した』（南雲堂／二〇〇八年十一月）の「はじめに」（5頁）から</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote class="blockquote p-3">
+<p>いま新本格ミステリムーブメントは、衰退期にある。</p>
+</blockquote>
+<figcaption class="blockquote-footer text-end">
+<cite>限界研［編者］『21世紀探偵小説　ポスト新本格と論理の崩壊』（南雲堂／二〇一二年七月）の飯田一史による序論（10頁）から</cite>
+</figcaption>
+</figure>
+
+<div class="amathum">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=longfish80102-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B082ZLFY65&linkId=cb527aa56dde7a66170c8951ac84bb44"></iframe>
+</div>
 
 <p>　&ldquo;終焉&rdquo;そして&ldquo;衰退期&rdquo;。<br/>
 　かつて、そう烙印を捺された本格ミステリはその後どうなったか。<br/>
@@ -88,96 +104,88 @@ blockquote p {
 <p>　探偵小説研究会の機関誌『CRITICA』第５号から第12号にかけて寄せた文章に加筆修正し、電子書籍として Amazon Kindleストアから刊行しました。<br/>
 　書き下ろしとして序論および結論を加えています。</p>
 
-<!-- Amazon書影 -->
-<div id="amathum">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=longfish80102-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B082ZLFY65&linkId=cb527aa56dde7a66170c8951ac84bb44"></iframe>
-</div>
-
-<h2><a name="id3_2"></a>序論と結論</h2>
+<h2><a name="id2_2"></a>序論と結論 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　書き下ろしの序論ならびに結論を公開します。<br/>
 　傍点は太字で代用しています。泡坂妻夫の「泡」は、正しくは「己」ではなく「巳」です。</p>
 
 <ul>
-<li><a href="intro.html">序論</a></li>
-<li><a href="conclu.html">結論</a></li>
+<li><a href="01_intro.html">序論</a></li>
+<li><a href="02_conclu.html">結論</a></li>
 </ul>
 
-<h2><a name="id3_3"></a>主に論じている作家と作品</h2>
+<h2><a name="id2_3"></a>主に論じている作家と作品 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>各稿のタイトルならびに主に論じている作家、作品は以下のとおり。</p>
 
 <dl>
 <dt>序論</dt>
-	<dd>綾辻行人『十角館の殺人』（一九八七年）</dd>
+<dd>綾辻行人『十角館の殺人』（一九八七年）</dd>
 <dt>虚ろの騎士と状況の檻</dt>
-	<dd>東野圭吾『容疑者Ｘの献身』（二〇〇五年）</dd>
-	<dd>綾辻行人『Another』（二〇〇九年）</dd>
-	<dd>相沢沙呼『午前零時のサンドリヨン』（二〇〇九年）</dd>
-	<dd>似鳥鶏『さよならの次にくる』（二〇〇九年）</dd>
-	<dd>円居挽『丸太町ルヴォワール』（二〇〇九年）</dd>
+<dd>東野圭吾『容疑者Ｘの献身』（二〇〇五年）</dd>
+<dd>綾辻行人『Another』（二〇〇九年）</dd>
+<dd>相沢沙呼『午前零時のサンドリヨン』（二〇〇九年）</dd>
+<dd>似鳥鶏『さよならの次にくる』（二〇〇九年）</dd>
+<dd>円居挽『丸太町ルヴォワール』（二〇〇九年）</dd>
 <dt>ゲーム系ミステリの思想</dt>
-	<dd>07th Expansion制作『うみねこのなく頃に』（二〇〇七年～二〇一〇年）</dd>
-	<dd>土橋真二郎『殺戮ゲームの館』（二〇一〇年）</dd>
-	<dd>七河迦南『アルバトロスは羽ばたかない』（二〇一〇年）</dd>
+<dd>07th Expansion制作『うみねこのなく頃に』（二〇〇七年～二〇一〇年）</dd>
+<dd>土橋真二郎『殺戮ゲームの館』（二〇一〇年）</dd>
+<dd>七河迦南『アルバトロスは羽ばたかない』（二〇一〇年）</dd>
 <dt>推理が探偵を殺す</dt>
-	<dd>有栖川有栖「モロッコ水晶の謎」（二〇〇五年）</dd>
-	<dd>有栖川有栖『乱鴉の島』（二〇〇六年）</dd>
-	<dd>有栖川有栖『女王国の城』（二〇〇七年）</dd>
-	<dd>有栖川有栖『闇の喇叭』（二〇一一年）</dd>
-	<dd>有栖川有栖『真夜中の探偵』（二〇一一年）</dd>
-	<dd>米澤穂信『折れた竜骨』（二〇一〇年）</dd>
-	<dd>古野まほろ『命に三つの鐘が鳴る』（二〇一一年）</dd>
+<dd>有栖川有栖「モロッコ水晶の謎」（二〇〇五年）</dd>
+<dd>有栖川有栖『乱鴉の島』（二〇〇六年）</dd>
+<dd>有栖川有栖『女王国の城』（二〇〇七年）</dd>
+<dd>有栖川有栖『闇の喇叭』（二〇一一年）</dd>
+<dd>有栖川有栖『真夜中の探偵』（二〇一一年）</dd>
+<dd>米澤穂信『折れた竜骨』（二〇一〇年）</dd>
+<dd>古野まほろ『命に三つの鐘が鳴る』（二〇一一年）</dd>
 <dt>探偵が推理を殺す</dt>
-	<dd>法月綸太郎『キングを探せ』（二〇一一年）</dd>
+<dd>法月綸太郎『キングを探せ』（二〇一一年）</dd>
 <dt>目覚めのための子守歌</dt>
-	<dd>米澤穂信『リカーシブル』（二〇一三年）</dd>
+<dd>米澤穂信『リカーシブル』（二〇一三年）</dd>
 <dt>怪物の愛</dt>
-	<dd>長沢樹『夏服パースペクティヴ』（二〇一二年）</dd>
+<dd>長沢樹『夏服パースペクティヴ』（二〇一二年）</dd>
 <dt>暴力と生の狭間で</dt>
-	<dd>白井智之『東京結合人間』（二〇一五年）</dd>
+<dd>白井智之『東京結合人間』（二〇一五年）</dd>
 <dt>本格とカジュアルとの距離</dt>
-	<dd>三上延、初野晴、井上真偽、東川篤哉、織守きょうや、</dd>
-	<dd>北山猛邦、麻耶雄嵩、米澤穂信、瀬川コウ、</dd>
-	<dd>森川智喜、皆藤黒助、久住四季</dd>
+<dd>三上延、初野晴、井上真偽、東川篤哉、織守きょうや、</dd>
+<dd>北山猛邦、麻耶雄嵩、米澤穂信、瀬川コウ、</dd>
+<dd>森川智喜、皆藤黒助、久住四季</dd>
 <dt>結論</dt>
-	<dd>今村昌弘『屍人荘の殺人』（二〇一七年）</dd>
+<dd>今村昌弘『屍人荘の殺人』（二〇一七年）</dd>
 </dl>
 
-<h2><a name="id3_4"></a>参考リンク</h2>
+<h2><a name="id2_4"></a>参考リンク <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　過去の『CRITICA』刊行時の試供版へのリンクです。一部を読むことができます。</p>
 
 <ul>
-	<li><a href="/pages/2010/100731_choice/">虚ろの騎士と状況の檻――ゼロ年代本格ミステリからセカイ系への応答〈試供版〉</a></li>
-	<li><a href="/pages/2011/110806_game/">ゲーム系ミステリの思想〈試供版〉</a></li>
-	<li><a href="/pages/2012/120729_killed/">推理が探偵を殺す〈試供版〉</a></li>
-	<li><a href="/pages/2013/130728_bigdata/">探偵が推理を殺す〈試供版〉</a></li>
-	<li><a href="/pages/2014/140810_lullaby/">目覚めのための子守歌――“伊藤計劃以後”として読む米澤穂信〈試供版〉</a></li>
-	<li><a href="/pages/2015/150808_monsterlove/">怪物の愛〈試供版〉</a></li>
-	<li><a href="/pages/2017/170805_violence/">暴力と生の狭間で〈試供版〉</a></li>
-	<li><a href="/pages/2016/161112_casual/">本格とカジュアルとの距離〈試供版〉</a></li>
+<li><a href="/pages/2010/100731_choice/">虚ろの騎士と状況の檻――ゼロ年代本格ミステリからセカイ系への応答〈試供版〉</a></li>
+<li><a href="/pages/2011/110806_game/">ゲーム系ミステリの思想〈試供版〉</a></li>
+<li><a href="/pages/2012/120729_killed/">推理が探偵を殺す〈試供版〉</a></li>
+<li><a href="/pages/2013/130728_bigdata/">探偵が推理を殺す〈試供版〉</a></li>
+<li><a href="/pages/2014/140810_lullaby/">目覚めのための子守歌――&ldquo;伊藤計劃以後&rdquo;として読む米澤穂信〈試供版〉</a></li>
+<li><a href="/pages/2015/150808_monsterlove/">怪物の愛〈試供版〉</a></li>
+<li><a href="/pages/2017/170805_violence/">暴力と生の狭間で〈試供版〉</a></li>
+<li><a href="/pages/2016/161112_casual/">本格とカジュアルとの距離〈試供版〉</a></li>
 </ul>
 
-</article><!-- 本文要素ここまで -->
 
-</div><!-- end of row-body -->
+</main>
 
-<!-- begin of row-nav -->
-<div class="row">
+</div><!-- end of row -->
 
-<!-- ナビゲーション要素 -->
-<nav class="col-lg">
-<a href="/index.html"><img src="/about/ref/banner.gif" alt="*the long fish*" width="88" height="31" border="0"></a>
-</nav><!-- ナビゲーション要素ここまで -->
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3 text-end">
 
-</div><!-- end of row-nav -->
+<div id="banner"><a href="/"><img src="/img/banner/banner.gif" alt="*the long fish*" width="88" height="31"></a></div>
+<div id="copy">&copy; 2019 ODA MAKIO All rights reserved.</div>
 
-</div><!-- end of container -->
+<hr/>
+</footer>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
 
 </body>
 </html>

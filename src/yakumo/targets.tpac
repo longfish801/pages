@@ -170,11 +170,6 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
-#> doc:230417_contemporary
-#-mpath 2023
-#-design text
-#>
-
 #> doc:120729_killed
 #-mpath 2012
 #-design original
@@ -215,6 +210,21 @@ Aexamination
 #-design original
 #-font serif
 #-eachCss /pages/material/critic.css
+#>
+
+#> doc:191229_reasoning
+#-mpath 2019
+#-design original
+#-tocAll noNeed
+#-font serif
+#-titleImage img/title.png
+#-catchImage img/copy.png
+#-catchAlt “終焉”そして“衰退期”。かつて、そう烙印を捺された本格ミステリはその後どうなったか。
+#>
+
+#> doc:230417_contemporary
+#-mpath 2023
+#-design text
 #>
 
 #!

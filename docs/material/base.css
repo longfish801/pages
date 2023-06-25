@@ -77,7 +77,6 @@ span.attention {
 	line-height: 1.7rem;
 }
 strong {
-	font-size: 1.1rem;
 	font-weight: bold;
 	line-height: 1.7rem;
 }
@@ -96,7 +95,7 @@ span.unseen.unseen-show {
 	color: rgba(0, 0, 0.2, 1.0);
 }
 div.amathum {
-	margin: 10px;
+	margin-left: 1rem;
 	float: right;
 	clear:right;
 }

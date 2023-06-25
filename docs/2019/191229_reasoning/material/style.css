@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+body {
+	background-color: #EEEEEE;
+	background-image: url('../img/bg.png');
+	color: #003333;
+}
+header#header {
+	background-color: rgba(255,255,255,0.4);
+}
+header#header img {
+	padding: 300px 0rem 200px 0rem;
+	background-color: rgba(255,255,255,0.4);
+}
+header#catchcopy {
+	background-color: rgba(255,255,255,0.6);
+}
+header#catchcopy img {
+	padding: 100px 0rem 200px 0rem;
+}
+main#main {
+	background-color: rgba(255,255,255,0.8);
+}
+nav#sidenav {
+	background-color: rgba(255,255,255,0.8);
+}
+h1 {
+	background-color: #003333;
+	color: #EEEEEE;
+	padding: 5rem 1rem 5rem;
+}
+h2 {
+	border-top: solid 3px #003333;
+	border-bottom: solid 3px #003333;
+}
+dl {
+	padding: 1rem;
+	background: #EEEEFF;
+}
+dd {
+	padding-left: 2rem;
+}
+figure > blockquote.blockquote {
+	background-color: #f0f0f0;
+}
+figure > figcaption.blockquote-footer {
+	background-color: #f0f0f0;
+}
