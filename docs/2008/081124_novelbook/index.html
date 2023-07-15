@@ -1,35 +1,76 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<!doctype html>
 <html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<link rel="shortcut icon" href="/about/ref/favicon.ico">
-<link href="/_style/text.css" rel="stylesheet" type="text/css">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<script type="text/javascript" src="/_cgi/prototype.js"></script>
-<script type="text/javascript" src="/_cgi/infobar/script.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+<link rel="stylesheet" href="/pages/material/text.css">
+
+<style type="text/css">
+<!--
+body {
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+
+-->
+</style>
 <title>LaTeXで小説同人誌を作る</title>
 </head>
-<body>
-<div id="header"><a href="/index.html"><img src="/_style/img/title.png" id="top" alt="*the long fish*" width="217" height="43"></a></div>
-<div id="side"></div>
-<div id="body">
+<body class="container">
 
+
+<!-- サイトヘッダ -->
+<header id="siteHeader" class="row justify-content-center align-items-center"></header>
+
+
+<!-- ヘッダー -->
+<header id="header" class="row py-5">
+
+<div class="col-lg">
 <h1>LaTeXで小説同人誌を作る</h1>
-<div id="date">公開日：2008.11.24</div>
 
-<ul>
-<!--htmlex_CONTENTS H2="" H3="" NOCONTAINER-->
-	<li><a href="#id0001">特徴</a></li>
-	<li><a href="#id0002">キャプチャ</a></li>
-	<li><a href="#id0003">使い方</a></li>
-	<li><a href="#id0004">謝辞</a></li>
-<!--htmlex_CONTENTS_END-->
+</div>
+
+<div class="col-lg-4 text-end">
+<ul id="extra" class="list-unstyled fs-6">
+<li>公開日 2008.11.24</li>
 </ul>
+</div>
 
+
+</header>
+
+
+
+
+
+<div id="center" class="row justify-content-center">
+
+
+<!-- 目次 -->
+<nav id="sidenav" class="col-lg-4 py-3">
+<ul id="toc" class="nav flex-column">
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">特徴</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">キャプチャ</a></li>
+<li class="nav-item toc-h2"><a href="#id2_3" class="nav-link">使い方</a></li>
+<li class="nav-item toc-h2"><a href="#id2_4" class="nav-link">謝辞</a></li>
+</ul>
+</nav>
+
+
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
 <p>　11/9の文学フリマで個人誌<a href="/pages/2008/081027_iron/">『鉄錆風味歪夢 自選集』</a>を頒布しました。そのときの原稿を元にした LaTeXサンプルを公開します。</p>
 
-<h2><a name="id0001">特徴</a></h2>
+<h2><a name="id2_1"></a>特徴 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　以下の特徴があります。</p>
 
@@ -38,74 +79,94 @@
 <li>巻頭歌、タイトルのため、頁中央に文字や画像を表示します。</li>
 <li>目次、章タイトルを tbook既存のデザインとは変えています。</li>
 <li>小口に画像を入れ、頁番号を縦書きの漢数詞にしています。</li>
-<li>奥付も縦書きです。これは以下を参考にしました。<br>
-<blockquote>
-個人出版コミュニティ LaTeXによる書籍製作（１５）
-<a href="http://bookproduction.blog69.fc2.com/blog-entry-68.html">http://bookproduction.blog69.fc2.com/blog-entry-68.html</a>
-</blockquote>
-</li>
-<li>ダッシュ（――）は罫線を利用しています（<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>のアイデア）。なぜか倍角(\scalebox)ではうまくいかない……。</li>
+<li>奥付も縦書きです。これは以下を参考にしました。
+<div class="column">
+<p>個人出版コミュニティ LaTeXによる書籍製作（１５）<br/>
+<a href="http://bookproduction.blog69.fc2.com/blog-entry-68.html">http://bookproduction.blog69.fc2.com/blog-entry-68.html</a></p>
+</div></li>
+<li>ダッシュ（――）は罫線を利用しています（<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>のアイデア）。なぜか倍角(\scalebox)ではうまくいかない&hellip;&hellip;。</li>
 <li>「！」「？」の後に来る空白を少し縮めています。既存のままだと少し大きすぎるように感じるので。</li>
 </ul>
 
-<h2><a name="id0002">キャプチャ</a></h2>
+<h2><a name="id2_2"></a>キャプチャ <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
 <p>　出力される PDFの画面キャプチャを以下に示します。</p>
 
-<div class="img"><img src="cap/cap01.jpg" alt="キャプチャ01" width="100%"></div>
-<div class="img"><img src="cap/cap02.jpg" alt="キャプチャ02" width="100%"></div>
-<div class="img"><img src="cap/cap03.jpg" alt="キャプチャ03" width="100%"></div>
-<div class="img"><img src="cap/cap04.jpg" alt="キャプチャ04" width="100%"></div>
-<div class="img"><img src="cap/cap05.jpg" alt="キャプチャ05" width="100%"></div>
+<figure class="text-center">
+<a href="cap/cap01.jpg"><img src="cap/cap01.jpg" class="img-fluid" alt="キャプチャ01"></a>
 
-<h2><a name="id0003">使い方</a></h2>
+</figure>
 
-<p>　使い方は以下の通りです。<br>
-　前提として、(1)Windows XP上で (2)LaTeXをインストール済（platex, dvipdfmxコマンドが使える状態）とします。<br>
+<figure class="text-center">
+<a href="cap/cap02.jpg"><img src="cap/cap02.jpg" class="img-fluid" alt="キャプチャ02"></a>
+
+</figure>
+
+<figure class="text-center">
+<a href="cap/cap03.jpg"><img src="cap/cap03.jpg" class="img-fluid" alt="キャプチャ03"></a>
+
+</figure>
+
+<figure class="text-center">
+<a href="cap/cap04.jpg"><img src="cap/cap04.jpg" class="img-fluid" alt="キャプチャ04"></a>
+
+</figure>
+
+<figure class="text-center">
+<a href="cap/cap05.jpg"><img src="cap/cap05.jpg" class="img-fluid" alt="キャプチャ05"></a>
+
+</figure>
+
+<h2><a name="id2_3"></a>使い方 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<p>　使い方は以下の通りです。<br/>
+　前提として、(1)Windows XP上で (2)LaTeXをインストール済（platex, dvipdfmxコマンドが使える状態）とします。<br/>
 　なお、タイトルや小口の画像は、サンプルのため低解像度のものを使用しています。実際には印刷所の指定する解像度に合わせる必要があります。</p>
 
 <ol>
 <li><a href="novelbook-latex-sample.zip">novelbook-latex-sample.zip</a>をダウンロードし、適当なフォルダに解凍します。</li>
-
 <li>解凍したフォルダから novelbook.clsを ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーします。</li>
-
-<li>以下のサイトから wallpaper.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。<br>
-
-<blockquote>
-CTAN: directory: /tex-archive/macros/latex/contrib/wallpaper<br>
-<a href="http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/">http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/</a>
-</blockquote>
-
+<li>以下のサイトから wallpaper.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。
+<div class="column">
+<p>CTAN: directory: /tex-archive/macros/latex/contrib/wallpaper<br/>
+<a href="http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/">http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/</a></p>
+</div>
 wallpaper.styは壁紙画像のスタイルファイルです。サンプルでは小口に電線の画像を入れるために使っています。ただし、tbookではうまく動作しないため、novelbook.clsで renewcommandしています。</li>
-
-<li>以下のサイトから tatesuji.sty、furikana.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。<br>
-
-<blockquote>
-Fujita Shinsaku TeX/LaTeX Page<br>
-<a href="http://homepage3.nifty.com/xymtex/fujitas2/texlatex/">http://homepage3.nifty.com/xymtex/fujitas2/texlatex/</a>
-</blockquote>
-
+<li>以下のサイトから tatesuji.sty、furikana.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。
+<div class="column">
+<p>Fujita Shinsaku TeX/LaTeX Page<br/>
+<a href="http://homepage3.nifty.com/xymtex/fujitas2/texlatex/">http://homepage3.nifty.com/xymtex/fujitas2/texlatex/</a></p>
+</div>
 tatesuji.styは漢数詞のためのスタイルファイルです。サンプルでは頁番号に使っています。furikana.styはルビを振るためのスタイルファイルです。</li>
-
-<li>sample.batをダブルクリックして実行して下さい。<a href="sample.pdf">sample.pdf</a>が出力されます。<br>
-バッチファイルの内容は以下の通りです。platexを目次作成のため二回実行し、dvipdfmxで PDFファイルを作成しています。<br>
-<blockquote>
-platex sample<br>
-platex sample<br>
-dvipdfmx -p a5 sample.dvi<br>
-</blockquote>
-</li>
+<li>sample.batをダブルクリックして実行して下さい。<a href="sample.pdf">sample.pdf</a>が出力されます。<br/>
+バッチファイルの内容は以下の通りです。platexを目次作成のため二回実行し、dvipdfmxで PDFファイルを作成しています。
+<pre class="code px-3"><code>platex sample
+platex sample
+dvipdfmx -p a5 sample.dvi</code></pre></li>
 </ol>
 
-<h2><a name="id0004">謝辞</a></h2>
+<h2><a name="id2_4"></a>謝辞 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
-<p>　そもそも私を LaTeXの茨道に導いてくれた<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>に感謝。
+<p>　そもそも私を LaTeXの茨道に導いてくれた<a href="http://members3.jcom.home.ne.jp/yu_ichikawa/mys/">市川憂人さん</a>に感謝。</p>
 
-</div>
-<div id="footer">
-<span id="navi"><a href="/index.html"><img src="/about/ref/banner.gif" alt="*the long fish*" width="88" height="31"></a></span><br>
-<span id="copy">&copy; 2008 Sugimoto@MNU-No10 All rights reserved.</span>
-<hr>
-</div>
+
+
+
+</main>
+
+</div><!-- end of row -->
+
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3 text-end">
+
+<div id="banner"><a href="/"><img src="/img/avatar.png" alt="*the long fish*" width="150" height="150"></a></div>
+<div id="copy">&copy; 2008 Sugimoto@MNU-No10 All rights reserved.</div>
+
+<hr/>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
+
 </body>
 </html>

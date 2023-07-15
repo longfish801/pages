@@ -6,6 +6,12 @@
 #-design novel
 #>
 
+#> doc:000115_fairplay
+#-mpath 2000
+#-design text
+#-tocAll noNeed
+#>
+
 #> doc:000611_soulbody
 #-mpath 2000
 #-design novel
@@ -46,10 +52,91 @@ A-5
 #-tocAll noNeed
 #>
 
+#> doc:020401_myscon3
+#-mpath 2002
+#-design text
+#>
+
+#> doc:030316_myscon4
+#-mpath 2003
+#-design text
+#>
+
+#> doc:030318_fukui
+#-mpath 2003
+#-design text
+#>
+
+#> doc:030321_cultural
+#-mpath 2003
+#-design text
+#>
+
+#> doc:031102_suzumiya
+#-mpath 2003
+#-design text
+#>
+
+#> doc:040315_light
+#-mpath 2004
+#-design text
+#>
+
+#> doc:040315_myscon5
+#-mpath 2004
+#-design text
+#>
+
+#> doc:040315_screw
+#-mpath 2004
+#-design text
+#>
+
+#> doc:050413_firefly
+#-mpath 2005
+#-design text
+#>
+
+#> doc:050413_myscon6
+#-mpath 2005
+#-design text
+#>
+
+#> doc:050508_fareplay3
+#-mpath 2005
+#-design text
+#>
+
+#> doc:050710_wtc
+#-mpath 2005
+#-design text
+#-tocAll noNeed
+#>
+
+#> doc:051106_mayarepo
+#-mpath 2005
+#-design text
+#>
+
+#> doc:051224_godtruth
+#-mpath 2005
+#-design text
+#>
+
+#> doc:051225_suspectx
+#-mpath 2005
+#-design text
+#>
+
 #> doc:060205_lowtech
 #-mpath 2006
 #-design novel
 #-tocAll noNeed
+#>
+
+#> doc:060424_myscon7
+#-mpath 2006
+#-design text
 #>
 
 #> doc:060424_door
@@ -72,10 +159,40 @@ A-5
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:070424_myscon8
+#-mpath 2007
+#-design text
+#>
+
+#> doc:070429_wgm8repo
+#-mpath 2007
+#-design text
+#>
+
 #> doc:070429_snowwhite
 #-mpath 2007
 #-design novel
 #-tocAll noNeed
+#>
+
+#> doc:080427_myscon9
+#-mpath 2008
+#-design text
+#>
+
+#> doc:080706_mysrec2008
+#-mpath 2008
+#-design text
+#>
+
+#> doc:080802_mysterious10
+#-mpath 2008
+#-design text
+#>
+
+#> doc:080927_itandjapan
+#-mpath 2008
+#-design text
 #>
 
 #> doc:081027_iron
@@ -85,6 +202,16 @@ A-5
 #-titleImage img/title.png
 #-catchImage img/cover.png
 #-catchAlt 表紙
+#>
+
+#> doc:081103_noririnrepo
+#-mpath 2008
+#-design text
+#>
+
+#> doc:081124_novelbook
+#-mpath 2008
+#-design text
 #>
 
 #> doc:090329_wholost
@@ -135,11 +262,73 @@ A06
 Aexamination
 #>
 
+#> doc:090621_myscon10
+#-mpath 2009
+#-design text
+#>
+
+#> doc:090705_thirdviolence
+#-mpath 2009
+#-design text
+#>
+
+#> doc:090720_mysdoku1
+#-mpath 2009
+#-design text
+#>
+
 #> doc:090808_strategy
 #-mpath 2009
 #-design original
 #-font serif
 #-eachCss /pages/material/critic.css
+#>
+
+#> doc:090809_nosociety
+#-mpath 2009
+#-design text
+#>
+
+#> doc:090815_seacat
+#-mpath 2009
+#-design text
+#-tocAll noNeed
+#>
+
+#> doc:090928_mysdoku2
+#-mpath 2009
+#-design text
+#>
+
+#> doc:091112_princerepo
+#-mpath 2009
+#-design text
+#>
+
+#> doc:100317_zeromys
+#-mpath 2010
+#-design text
+#-tocAll noNeed
+#>
+
+#> doc:100404_another
+#-mpath 2010
+#-design text
+#>
+
+#> doc:100425_mysdoku3
+#-mpath 2010
+#-design text
+#>
+
+#> doc:100627_worldorboku
+#-mpath 2010
+#-design text
+#>
+
+#> doc:100719_nausicaajustice
+#-mpath 2010
+#-design text
 #>
 
 #> doc:100731_choice
@@ -149,11 +338,66 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:100904_sonaten
+#-mpath 2010
+#-design text
+#>
+
+#> doc:100920_spaceyui
+#-mpath 2010
+#-design text
+#>
+
+#> doc:101024_incitemill
+#-mpath 2010
+#-design text
+#>
+
+#> doc:101114_mysdoku4
+#-mpath 2010
+#-design text
+#>
+
+#> doc:101219_subculwars1
+#-mpath 2010
+#-design text
+#>
+
+#> doc:110109_sakurada
+#-mpath 2011
+#-design text
+#>
+
+#> doc:110305_revoir
+#-mpath 2011
+#-design text
+#>
+
 #> doc:110310_fareplay4
 #-mpath 2011
 #-design original
 #-font serif
 #-titleImage img/title.png
+#>
+
+#> doc:110320_subculwars2
+#-mpath 2011
+#-design text
+#>
+
+#> doc:110429_inthebox
+#-mpath 2011
+#-design text
+#>
+
+#> doc:110501_nohopestory
+#-mpath 2011
+#-design text
+#>
+
+#> doc:110529_albatross
+#-mpath 2011
+#-design text
 #>
 
 #> doc:110806_fantasique
@@ -170,11 +414,86 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:110810_mysdoku6
+#-mpath 2011
+#-design text
+#>
+
+#> doc:111016_karasuma
+#-mpath 2011
+#-design text
+#>
+
+#> doc:111113_repo311world
+#-mpath 2011
+#-design text
+#>
+
+#> doc:111127_repo311ghost
+#-mpath 2011
+#-design text
+#>
+
+#> doc:120408_nervousgirls
+#-mpath 2012
+#-design text
+#>
+
+#> doc:120423_sakurada2
+#-mpath 2012
+#-design text
+#>
+
 #> doc:120729_killed
 #-mpath 2012
 #-design original
 #-font serif
 #-eachCss /pages/material/critic.css
+#>
+
+#> doc:120805_keel
+#-mpath 2012
+#-design text
+#>
+
+#> doc:120805_tragedyW
+#-mpath 2012
+#-design text
+#>
+
+#> doc:120826_byeshinhonkaku
+#-mpath 2012
+#-design text
+#>
+
+#> doc:121223_mysdoku7
+#-mpath 2012
+#-design text
+#>
+
+#> doc:130225_fictionalright
+#-mpath 2013
+#-design text
+#>
+
+#> doc:130407_mysdoku8
+#-mpath 2013
+#-design text
+#>
+
+#> doc:130615_king
+#-mpath 2013
+#-design text
+#>
+
+#> doc:130721_hankinren
+#-mpath 2013
+#-design text
+#>
+
+#> doc:130721_myscon11
+#-mpath 2013
+#-design text
 #>
 
 #> doc:130728_bigdata
@@ -184,11 +503,71 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:131130_mysdoku10
+#-mpath 2013
+#-design text
+#>
+
+#> doc:140412_mysdoku12
+#-mpath 2014
+#-design text
+#>
+
+#> doc:140420_kawaramati
+#-mpath 2014
+#-design text
+#>
+
+#> doc:140621_recursible
+#-mpath 2014
+#-design text
+#>
+
+#> doc:140809_mysdoku13
+#-mpath 2014
+#-design text
+#>
+
 #> doc:140810_lullaby
 #-mpath 2014
 #-design original
 #-font serif
 #-eachCss /pages/material/critic.css
+#>
+
+#> doc:141220_myscon12
+#-mpath 2014
+#-design text
+#>
+
+#> doc:141222_whynotear
+#-mpath 2014
+#-design text
+#>
+
+#> doc:141230_mysdoku15
+#-mpath 2014
+#-design text
+#>
+
+#> doc:150413_persuasiongame
+#-mpath 2015
+#-design text
+#>
+
+#> doc:150614_perspective
+#-mpath 2015
+#-design text
+#>
+
+#> doc:150720_darklove
+#-mpath 2015
+#-design text
+#>
+
+#> doc:150726_mysdoku16
+#-mpath 2015
+#-design text
 #>
 
 #> doc:150808_monsterlove
@@ -198,6 +577,11 @@ Aexamination
 #-eachCss /pages/material/critic.css
 #>
 
+#> doc:151121_mysdoku17
+#-mpath 2015
+#-design text
+#>
+
 #> doc:160814_hypergame
 #-mpath 2016
 #-design original
@@ -205,11 +589,26 @@ Aexamination
 #-titleImage image/title.png
 #>
 
+#> doc:160116_mysdoku18
+#-mpath 2016
+#-design text
+#>
+
 #> doc:161112_casual
 #-mpath 2016
 #-design original
 #-font serif
 #-eachCss /pages/material/critic.css
+#>
+
+#> doc:170109_yourname
+#-mpath 2017
+#-design text
+#>
+
+#> doc:170610_honestman
+#-mpath 2017
+#-design text
 #>
 
 #> doc:170805_violence
@@ -227,6 +626,11 @@ Aexamination
 #-titleImage img/title.png
 #-catchImage img/copy.png
 #-catchAlt “終焉”そして“衰退期”。かつて、そう烙印を捺された本格ミステリはその後どうなったか。
+#>
+
+#> doc:211231_specialreal
+#-mpath 2021
+#-design text
 #>
 
 #> doc:230417_contemporary

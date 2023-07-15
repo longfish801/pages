@@ -1,0 +1,1868 @@
+
+【＃タイトル】「うみねこのなく頃に」謎と赤き真実の整理
+
+【－注意：注意】
+　以下の文章は「うみねこのなく頃に」についてのメモです。
+　問題編(Ep.1～Ep.4)の内容に触れています。
+　未プレイの方は決して読まないで下さい。
+　なお、Ep.5以降は未プレイの状態で書いています。
+【注意－】
+
+・【リンク：★このページの内容の Excel版はこちら★：seacat.xls】
+
+■殺人についての整理
+
+※「ベアトリーチェ」は「ベアト」に短縮した。
+※各晩の被害者は、Ep.1～3はTips「魔女の棋譜」を、Ep.4はエンドロールの記述に従った。
+※第三の晩は「残されし者は誉れ高き我が名を讃えよ」のため殺人は起きない。
+
+□Ep.1
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td align="center"><font>
+			晩
+		</font></td>
+		<td align="center" valign="top"><font>
+			被害者
+		</font></td>
+		<td align="center" valign="top"><font>
+			発見場所
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（個別）
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（共通）
+		</font></td>
+		<td align="center" valign="top"><font>
+			赤き真実
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="6"><font>
+			第一の晩
+		</font></td>
+		<td valign="top"><font>
+			蔵臼
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			園芸倉庫
+		</font></td>
+		<td valign="top"><font>
+			頭部半壊
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			密室。ガレージの鍵をどのようにして入手したのか。なぜわざわざ戻したのか。<br>食堂に殺害現場らしき痕跡。夏妃の部屋のドアノブに血。
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			留弗夫
+		</font></td>
+		<td valign="top"><font>
+			顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			霧江
+		</font></td>
+		<td valign="top"><font>
+			顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			楼座
+		</font></td>
+		<td valign="top"><font>
+			顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			紗音
+		</font></td>
+		<td valign="top"><font>
+			頭部半壊
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			郷田
+		</font></td>
+		<td valign="top"><font>
+			顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			第二の晩
+		</font></td>
+		<td valign="top"><font>
+			絵羽
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			客室
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			額を杭殺
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			絵羽はベッドの上、秀吉は浴室。
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			二人とも他殺。殺人時、犯人は被害者と同室していた。<br>【＿否定されていない仮説＿】<br>死体発見時、室内に隠れていた。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			秀吉
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第四の晩
+		</font></td>
+		<td valign="top"><font>
+			金蔵
+		</font></td>
+		<td valign="top"><font>
+			ボイラー室
+		</font></td>
+		<td valign="top"><font>
+			額を杭殺<br>焼死体
+		</font></td>
+		<td valign="top"><font>
+			六本指。
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第五の晩
+		</font></td>
+		<td valign="top"><font>
+			嘉音
+		</font></td>
+		<td valign="top"><font>
+			ボイラー室
+		</font></td>
+		<td valign="top"><font>
+			胸を杭殺
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			すべての死者、生存者にアリバイがある。かつ、自殺でも事故死でもない。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第六の晩
+		</font></td>
+		<td valign="top"><font>
+			源次
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			客間
+		</font></td>
+		<td valign="top"><font>
+			腹を杭殺＋顔面損壊
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			真里亞が背を向けて歌っていた。
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			真里亞は犯人ではない。替え玉殺人はない。源次、熊沢、南條は殺人者ではない。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第七の晩
+		</font></td>
+		<td valign="top"><font>
+			南條
+		</font></td>
+		<td valign="top"><font>
+			膝を杭殺＋顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第八の晩
+		</font></td>
+		<td valign="top"><font>
+			熊沢
+		</font></td>
+		<td valign="top"><font>
+			ふくらはぎを杭殺＋顔面損壊
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			第九の晩
+		</font></td>
+		<td valign="top"><font>
+			ベアト
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			復活！
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			夏妃
+		</font></td>
+		<td valign="top"><font>
+			魔女の肖像画前
+		</font></td>
+		<td valign="top"><font>
+			額を銃殺
+		</font></td>
+		<td valign="top"><font>
+			夏妃を単独行動させた手紙の内容はなにか。
+		</font></td>
+		<td valign="top"><font>
+			他殺。替え玉トリックではない。生存者もアリバイがある。夏妃以外の銃で撃たれた。トラップではない。
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="4"><font>
+			第十の晩
+		</font></td>
+		<td valign="top"><font>
+			譲治
+		</font></td>
+		<td rowspan="4" colspan="2" valign="top"><font>
+			行方不明
+		</font></td>
+		<td rowspan="4" valign="top"><font>
+			<br>
+		</font></td>
+		<td rowspan="4" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			朱志香
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			真里亞
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			戦人
+		</font></td>
+	</tr>
+</table>
+【変換済－】
+
+□Ep.2
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td align="center"><font>
+			晩
+		</font></td>
+		<td align="center" valign="top"><font>
+			被害者
+		</font></td>
+		<td align="center" valign="top"><font>
+			発見場所
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（個別）
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（共通）
+		</font></td>
+		<td align="center" valign="top"><font>
+			赤き真実
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="6"><font>
+			第一の晩
+		</font></td>
+		<td valign="top"><font>
+			蔵臼
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			礼拝堂
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			腹部破壊<br>内臓を引きずりだし、代わりに菓子を詰め込まれていた
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			密室。礼拝堂の鍵は特別で、マスターキーでさえ開かない。キーボックスからは紛失していた。ベアトリーチェから真里亞に渡された一本きり。<br>礼拝堂と書かれたメモが食堂にあった。<br>Ep.1では一本しかなかったはずの金塊が三本に。
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			礼拝堂の鍵は一本のみ、マスターキーでも解錠できない。<br>ベアトリーチェは真里亞に礼拝堂の鍵を預けてから、翌日の楼座による開封の瞬間まで、誰の手にも渡っていない。扉がオートロックだったわけではない。殺害時、犯人は礼拝堂内にいた。<br>六人は発見時、既に死亡していた。相打ち殺人ではない。引きこもり密室ではない。<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			夏妃
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			絵羽
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			秀吉
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			留弗夫
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			霧江
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			第二の晩
+		</font></td>
+		<td valign="top"><font>
+			朱志香
+		</font></td>
+		<td valign="top"><font>
+			自室
+		</font></td>
+		<td valign="top"><font>
+			背中を杭殺
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			部屋の鍵はサイドテーブルにあった。<br>嘉音から借りたマスターキーも朱志香のポケットにあった<br>アリバイが無かったのは、ベアトリーチェ、嘉音、熊沢、郷田。ただしベアトリーチェ、嘉音はマスターキーを持っていなかった
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			マスターキーは使用人たちがそれぞれ持つ一本ずつ、計五本のみ。嘉音は朱志香の部屋で殺された。誰も隠れていない。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			嘉音
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			行方不明
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第四の晩
+		</font></td>
+		<td valign="top"><font>
+			紗音
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			夏妃の部屋
+		</font></td>
+		<td valign="top"><font>
+			額を杭殺
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			密室。夏妃の部屋の鍵は譲治が持っていた。マスターキーはすべて楼座が管理していた。扉にあるいくつもの手の平のような跡。
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			マスターキー全ては楼座が管理していた。夏妃の部屋を開錠するため戦人に貸したとき以外、一度も楼座の手を離れていない。夏妃の鍵は譲治のポケットにあった。<br>楼座、真里亞、戦人が籠城していた客間もマスターキー以外では開錠不能。本来の客間の鍵は使用人室に封印されていた。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第五の晩
+		</font></td>
+		<td valign="top"><font>
+			郷田
+		</font></td>
+		<td valign="top"><font>
+			胸を杭殺
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第六の晩
+		</font></td>
+		<td valign="top"><font>
+			譲治
+		</font></td>
+		<td valign="top"><font>
+			腹を杭殺
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第七の晩
+		</font></td>
+		<td valign="top"><font>
+			南條
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			中庭
+		</font></td>
+		<td valign="top"><font>
+			喉を刃物で切断＋膝に杭
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			物語上は紗音らの殺害が後。ゾンビ嘉音が使用人室で殺害、楼座達が確認したときには死体が消失していた。<br>熊沢と嘉音のマスターキーは、楼座がみつけた魔女からの手紙に入っていた。
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			使用人室の鍵はキーボックスに収められていた。誰も隠れていない。<br>異なる人物を嘉音と誤認することはない。本人以外が嘉音を名乗ることはできない。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第八の晩
+		</font></td>
+		<td valign="top"><font>
+			熊沢
+		</font></td>
+		<td valign="top"><font>
+			喉を刃物で切断＋足首に杭
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第九の晩
+		</font></td>
+		<td valign="top"><font>
+			ベアト
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			復活！
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="5"><font>
+			第十の晩
+		</font></td>
+		<td valign="top"><font>
+			金蔵
+		</font></td>
+		<td rowspan="5" colspan="2" valign="top"><font>
+			行方不明
+		</font></td>
+		<td rowspan="5" valign="top"><font>
+			<br>
+		</font></td>
+		<td rowspan="5" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			楼座
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			真里亞
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			源次
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			戦人
+		</font></td>
+	</tr>
+</table>
+【変換済－】
+
+□Ep.3
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td align="center"><font>
+			晩
+		</font></td>
+		<td align="center" valign="top"><font>
+			被害者
+		</font></td>
+		<td align="center" valign="top"><font>
+			発見場所
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（個別）
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（共通）
+		</font></td>
+		<td align="center" valign="top"><font>
+			赤き真実
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="6"><font>
+			第一の晩
+		</font></td>
+		<td valign="top"><font>
+			金蔵
+		</font></td>
+		<td valign="top"><font>
+			ボイラー室
+		</font></td>
+		<td valign="top"><font>
+			焼死体
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			連鎖密室。
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			マスターキー五本はすべて使用人の懐から発見された。各部屋の鍵は傍らの封筒の中にあった。金蔵以外、殺人時に犯人は同室していた。自殺ではない。替え玉ではない。引きこもり密室、トラップではない。<br><br>【＿否定されていない仮説＿】<br>第一発見者が死体のポケットに鍵を戻した。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			源次
+		</font></td>
+		<td valign="top"><font>
+			貴賓室
+		</font></td>
+		<td valign="top"><font>
+			喉を銃殺(槍？)
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			紗音
+		</font></td>
+		<td valign="top"><font>
+			客間
+		</font></td>
+		<td valign="top"><font>
+			胸を銃殺(槍？)
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			嘉音
+		</font></td>
+		<td valign="top"><font>
+			礼拝堂
+		</font></td>
+		<td valign="top"><font>
+			腹を銃殺(槍？)
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			郷田
+		</font></td>
+		<td valign="top"><font>
+			控え室
+		</font></td>
+		<td valign="top"><font>
+			喉を銃殺(槍？)
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			熊沢
+		</font></td>
+		<td valign="top"><font>
+			客室
+		</font></td>
+		<td valign="top"><font>
+			胸を銃殺(槍？)
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			第二の晩
+		</font></td>
+		<td valign="top"><font>
+			楼座
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			薔薇庭園
+		</font></td>
+		<td valign="top"><font>
+			柵で延髄を貫く
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			南條は第三者によるアリバイなし。秀吉が煙草を喫っていたことから、霧江(戦人)は絵羽が部屋を空けていたと推理。
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			替え玉ではない。死因は南條の見立て通り。他殺。秀吉は事件の前後、ずっと部屋にいた。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			真里亞
+		</font></td>
+		<td valign="top"><font>
+			素手で絞殺
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第四の晩
+		</font></td>
+		<td valign="top"><font>
+			留弗夫
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			ホール
+		</font></td>
+		<td valign="top"><font>
+			額を杭殺
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			２丁の銃、１つのマスターキーがなくなっていた。霧江のポケットに、秀吉の吸い殻。
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第五の晩
+		</font></td>
+		<td valign="top"><font>
+			秀吉
+		</font></td>
+		<td valign="top"><font>
+			胸を杭殺
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第六の晩
+		</font></td>
+		<td valign="top"><font>
+			霧江
+		</font></td>
+		<td valign="top"><font>
+			腹を杭殺
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第七の晩
+		</font></td>
+		<td valign="top"><font>
+			蔵臼
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			東屋
+		</font></td>
+		<td valign="top"><font>
+			紐で絞殺＋太股に杭
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			蔵臼、夏妃はなぜゲストハウスから外にでたのか。
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第八の晩
+		</font></td>
+		<td valign="top"><font>
+			夏妃
+		</font></td>
+		<td valign="top"><font>
+			紐で絞殺＋ふくらはぎに杭
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="4"><font>
+			第九の晩
+		</font></td>
+		<td valign="top"><font>
+			ベアト
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			復活！
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			譲治
+		</font></td>
+		<td valign="top"><font>
+			客間
+		</font></td>
+		<td valign="top"><font>
+			胸を銃殺(槍？)
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			譲治はゲストハウスの階段を降りていない。窓、扉は内側から施錠されていた。<br><br>【＿否定されていない仮説＿】<br>譲治は窓から脱出し、誰かが内側から施錠した。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			南條
+		</font></td>
+		<td valign="top"><font>
+			使用人室前廊下
+		</font></td>
+		<td valign="top"><font>
+			顔を銃殺(槍？)
+		</font></td>
+		<td valign="top"><font>
+			TipsのExecute時にある「あと一息で、多分、彼も生還できたのだ。しかし、最後の最後で、魔女は彼のそれを許さなかった。」とは？
+		</font></td>
+		<td valign="top"><font>
+			絵羽は戦人の監視下にあった。生存しているのは戦人、絵羽、朱志香だけであり、殺人には関わっていない。しかし、南條は他殺。トラップではない。人間が目の前で凶器をかざして殺した。<br><br>【＿否定されていない仮説＿】<br>死んだふりをしていた犯人が南條を殺害後、なんらかの理由で自分も死んだ。エヴァによる死亡宣告はその後だった。
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			戦人
+		</font></td>
+		<td valign="top"><font>
+			屋敷内
+		</font></td>
+		<td valign="top"><font>
+			射殺
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第十の晩
+		</font></td>
+		<td valign="top"><font>
+			朱志香
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			行方不明
+		</font></td>
+		<td valign="top"><font>
+			失明。<br>ほぼ似た時間帯に死んだ譲治、南條、戦人、朱志香だが、朱志香のみ第十の晩に行方不明とあるのはなぜか？
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			他
+		</font></td>
+		<td valign="top"><font>
+			絵羽
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			生還
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+</table>
+【変換済－】
+
+□Ep.4
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td align="center"><font>
+			晩
+		</font></td>
+		<td align="center" valign="top"><font>
+			被害者
+		</font></td>
+		<td align="center" valign="top"><font>
+			発見場所
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（個別）
+		</font></td>
+		<td align="center" valign="top"><font>
+			状況（共通）
+		</font></td>
+		<td align="center" valign="top"><font>
+			赤き真実
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="6"><font>
+			第一の晩
+		</font></td>
+		<td valign="top"><font>
+			夏妃
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			食堂
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			頭部半壊
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			蔵臼、霧江、紗音、嘉音、南條は地下牢らしき場所へ。郷田、熊沢は子供達のいるゲストハウスへ。
+		</font></td>
+		<td rowspan="6" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			絵羽
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			秀吉
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			留弗夫
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			楼座
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			源次
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			第二の晩
+		</font></td>
+		<td valign="top"><font>
+			譲治
+		</font></td>
+		<td valign="top"><font>
+			東屋
+		</font></td>
+		<td valign="top"><font>
+			額を銃殺
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			朱志香は戦人に電話で、顔の半分をふとばされた状態で死ぬこと、譲治の死を伝えた。しかし東屋は朱志香の自室からは見えない。
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			朱志香
+		</font></td>
+		<td valign="top"><font>
+			自室
+		</font></td>
+		<td valign="top"><font>
+			頭部半壊
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第四の晩
+		</font></td>
+		<td valign="top"><font>
+			嘉音
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			死体なし
+		</font></td>
+		<td rowspan="5" valign="top"><font>
+			霧江は戦人に電話で、食堂での魔法としか思えない現象や、落とし穴、井戸から脱出できたこと、鍵穴から黄金の糸らしきものが飛びこんできて狙うことを説明。しかし扉はシリンダー錠で、貫通する鍵穴はない。
+		</font></td>
+		<td valign="top"><font>
+			死んでいる。九人目の犠牲者。紗音、南條、蔵臼、霧江より先に死亡。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第五の晩
+		</font></td>
+		<td valign="top"><font>
+			紗音
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			屋敷裏手
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			頭部半壊＋杭が落ちていた
+		</font></td>
+		<td rowspan="3" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第六の晩
+		</font></td>
+		<td valign="top"><font>
+			南條
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第七の晩
+		</font></td>
+		<td valign="top"><font>
+			蔵臼
+		</font></td>
+		<td valign="top"><font>
+			頭部半壊＋杭がねじこまれていた
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第八の晩
+		</font></td>
+		<td valign="top"><font>
+			霧江
+		</font></td>
+		<td valign="top"><font>
+			客室
+		</font></td>
+		<td valign="top"><font>
+			頭部銃殺
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="4"><font>
+			第九の晩
+		</font></td>
+		<td valign="top"><font>
+			郷田
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			園芸倉庫
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			額を銃殺＋首吊り
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			二人は梁からロープで首を吊されていた。ぎりぎり地面に足がつく状態で、額を撃たれていたシャッターの鍵は郷田のズボンのポケットにあった。<br>
+		</font></td>
+		<td rowspan="2" valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			熊沢
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			金蔵
+		</font></td>
+		<td valign="top"><font>
+			ボイラー室
+		</font></td>
+		<td valign="top"><font>
+			焼死体
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font>
+			真里亞
+		</font></td>
+		<td valign="top"><font>
+			食堂
+		</font></td>
+		<td valign="top"><font>
+			毒殺？
+		</font></td>
+		<td valign="top"><font>
+			楼座に身を寄せさせるなど、他の死体と違って配慮がされている。
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			第十の晩
+		</font></td>
+		<td valign="top"><font>
+			戦人
+		</font></td>
+		<td colspan="2" valign="top"><font>
+			死亡
+		</font></td>
+		<td valign="top"><font>
+			<br>
+		</font></td>
+		<td valign="top"><font>
+			この島には戦人以外に誰もいない。しかし、ベアトリーチェは戦人を殺す。
+		</font></td>
+	</tr>
+</table>
+【変換済－】
+
+□六人殺しの被害者と行方不明者
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td bgcolor="#C0C0C0" rowspan="2" align="center"><font>
+			No.
+		</font></td>
+		<td bgcolor="#C0C0C0" rowspan="2" align="center"><font>
+			名前
+		</font></td>
+		<td bgcolor="#C0C0C0" colspan="4" align="center"><font>
+			六人殺しの被害者
+		</font></td>
+		<td bgcolor="#C0C0C0" colspan="4" align="center"><font>
+			行方不明となった人物
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.1
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.2
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.3
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.4
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.1
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.2
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.3
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			Ep.4
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			1
+		</font></td>
+		<td><font>
+			金蔵
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			金蔵
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			金蔵
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			2
+		</font></td>
+		<td><font>
+			蔵臼
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			蔵臼
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			蔵臼
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			3
+		</font></td>
+		<td><font>
+			夏妃
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			夏妃
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			夏妃
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			4
+		</font></td>
+		<td><font>
+			絵羽
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			絵羽
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			絵羽
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			5
+		</font></td>
+		<td><font>
+			秀吉
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			秀吉
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			秀吉
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			6
+		</font></td>
+		<td><font>
+			留弗夫
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#FF0000">
+			留弗夫
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#FF0000">
+			留弗夫
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#FF0000">
+			留弗夫
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			7
+		</font></td>
+		<td><font>
+			霧江
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			霧江
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			霧江
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			8
+		</font></td>
+		<td><font>
+			楼座
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			楼座
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			楼座
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			楼座
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			9
+		</font></td>
+		<td><font>
+			朱志香
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			朱志香
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			朱志香
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			10
+		</font></td>
+		<td><font>
+			譲治
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			譲治
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			11
+		</font></td>
+		<td><font>
+			戦人
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			戦人
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			戦人
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			12
+		</font></td>
+		<td><font>
+			真里亞
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			真里亞
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			真里亞
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			13
+		</font></td>
+		<td><font>
+			源次
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			源次
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			源次
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			源次
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			14
+		</font></td>
+		<td><font>
+			紗音
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			紗音
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			紗音
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			15
+		</font></td>
+		<td><font>
+			嘉音
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			嘉音
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			嘉音
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font color="#0000FF">
+			嘉音
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			16
+		</font></td>
+		<td><font>
+			郷田
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			郷田
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font color="#0000FF">
+			郷田
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			17
+		</font></td>
+		<td><font>
+			熊沢
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			熊沢
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			18
+		</font></td>
+		<td><font>
+			南條
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#CCFFFF"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+		<td bgcolor="#FFFF99"><font>
+			<br>
+		</font></td>
+	</tr>
+</table>
+【変換済－】
+
+※六人殺しの被害者になったor行方不明となったのが二回：青字、三回：赤字
+
+■殺人以外の謎
+
+【－変換済：html】
+<table class="table-bordered">
+	<tr>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			分類
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			謎
+		</font></td>
+		<td bgcolor="#C0C0C0" align="center"><font>
+			補足/考察
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			分類S<br>曖昧な解釈ができない謎
+		</font></td>
+		<td><font>
+			肖像画の碑文の意味はなにか。Ep.3で楼座が指摘した、第十の晩だけ「黄金の郷」なのはなぜか。
+		</font></td>
+		<td><font>
+			碑文は謎々や言葉遊びのような考え方で解けるらしい。鮎というより、鮎が海にでる魚であることに意味がある。絵羽はなにかの本を調べることで確信を得た。
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="3"><font>
+			分類X<br>記述の客観性をどう判断するかで解釈が変わる謎
+		</font></td>
+		<td><font>
+			記述の客観性をどう判断すべきか。<br>Ep.2でのブラウン管の逸話により、一部はフィクションとして扱ってよいと判明した。しかし、フィクションと物語内現実を見分ける基準はなにか。
+		</font></td>
+		<td><font>
+			記述を信用する範囲として(1)事件終了後に現場検証した警察の視点、(2)赤き真実、(3)戦人視点、(4)現実として説明可能なシーンすべて、という階層がある。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			金蔵の立ち絵とセリフをどう解釈すべきか。<br>赤き真実で「この島には１８人以上の人間は存在しない」「全ゲームの開始時に金蔵はすでに死んでいる」とされながら「Ep.4の六人殺しではすべての人物が金蔵の存在を認めた」「替え玉ではない」とある。
+		</font></td>
+		<td><font>
+			(1)金蔵として表現されているものはすべてブラウン管の逸話に従いフィクションとみなす(一切信用しない)か、(2)幻覚をみている、(3)金蔵の名を継承した誰かであるといった解釈が考えられる。<br>Ep.1で金蔵がレシートによる密室から消失した謎にも関係する。本当に金蔵は隠れてやりすごしたのか、そもそも存在しないのか、夏妃の嘘や幻覚なのか。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.4における、朱志香、霧江から戦人への電話をどう解釈すべきか。ブラウン管の逸話に沿って、フィクションとして無視してよいのか。
+		</font></td>
+		<td><font>
+			例えば朱志香のほうはなにかミステリらしい真相があり、霧江のほうはまったくの嘘(霧江が犯人で、戦人に魔法を信じ込ませようとした)ということも考えられる。
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="4"><font>
+			分類Y<br>メタレベルや縁寿視点での謎
+		</font></td>
+		<td><font>
+			この物語の「現実」はなんなのか。<br>メッセージボトルにも関連する。この物語はなにが物語内虚構で、なにが物語内現実なのか。<br>メタ戦人とベアトリーチェの対決はなんなのか。ファンタジーとしての物語内現実なのか。<br>Ep.4で、筆跡はベアトリーチェのものとわかった。なぜ真里亞の名を騙ったのか。そもそもこの手記の目的はなにか。
+		</font></td>
+		<td><font>
+			Ep.3こそ過去の現実であり、Ep.1, Ep.2は猟師、警察が拾ったメッセージボトル内の物語、Ep.4の事件は縁寿の空想とも解釈できる。しかし、ラストで縁寿が死んでも、メタ戦人は生きている。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.4で、縁寿が船長の店（マルフク寝具店）の陳列棚にみつけ「六軒島へ行く、目的で、使命」と感じさせたものはなにか？
+		</font></td>
+		<td><font>
+			後続のエピソードからすると、さくたろのぬいぐるみである可能性が高い。しかし、楼座によって引き裂かれたそれがなぜ存在するのか。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.4で、縁寿は須磨寺霞とその部下を「魔法」で撃退するが、現実にはなにがあったのか。
+		</font></td>
+		<td><font>
+			天草が援護した可能性が高いが、港で待っていたはず。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			遺族に送られた手紙は、どのような目的があったのか。存在しない住所に送って送信元に送り返させるなどという手間をかけた理由は？
+		</font></td>
+		<td><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="2"><font>
+			分類A<br>物理的な条件が厳しい謎
+		</font></td>
+		<td><font>
+			Ep.1で書斎に突然現れた手紙は誰がどう実現したのか。
+		</font></td>
+		<td><font>
+			位置的に可能だったのは、源次、熊沢、南條、真里亞。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.2で、施錠されていた客間に出現した手紙はどうやったのか。
+		</font></td>
+		<td><font>
+			客間の鍵は使用人室に封印されていた。置けたのは楼座、真里亞のみ。
+		</font></td>
+	</tr>
+	<tr>
+		<td rowspan="9"><font>
+			分類B<br>物語として重要な伏線と考えられる謎
+		</font></td>
+		<td><font>
+			使用人達が噂する怪現象（黄金の蝶など）はなんなのか。
+		</font></td>
+		<td><font>
+			ブラウン管の逸話に従いフィクションとみなすこともできる。しかし Ep.1で戦人は紗音からその噂話を聞いている。戦人視点を信じるなら、少なくとも噂があったことは事実。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.1で六人殺しの前日の晩、留弗夫が自分は殺されるかもしれないと予言した理由は。
+		</font></td>
+		<td><font>
+			留弗夫はEp.3以外すべて六人殺しの被害者となっている。Ep.3とそれ以外で、六人殺しの前日になにか違いはあるか。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.2で六人殺しの前日の晩、霧江までもがベアトリーチェを魔女と認めたのはいったいなにがあったのか。
+		</font></td>
+		<td><font>
+			認めたのは超自然的存在としての魔女なのか、右代宮家の財産相続者としてのたとえなのか。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.3で譲治の死体発見時、客間の扉に描かれていた「０７１５１１２９」という数字の意味はなにか。なぜ扉に描かれていたのか。
+		</font></td>
+		<td><font>
+			Ep.4で貸金庫の暗証番号だと判明するが、数字そのものにも意味があるはず。「０７１５」が戦人の誕生日なら、後半は？
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			右代宮戦人が六年前(1980年,昭和55年)に犯した罪とはなにか。<br>戦人が右代宮明日夢の息子ではないなら、生母は誰か。
+		</font></td>
+		<td><font>
+			六年前は戦人が明日夢の死をきっかけに家をでた時期。同時に、縁寿の生まれた年でもある。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			ベアトリーチェは何者なのか。戦人が罪を思いだせなかった後のシーンで、ベアトリーチェが二人になってしまうのはどういうことなのか。<br>19年前(1967年,昭和42年)、九羽鳥庵に人間として存在したベアトリーチェは何者なのか。
+		</font></td>
+		<td><font>
+			Ep.4で、九羽鳥庵へ女物を運んでいたのが昭和43年に途絶えたとある。一年のずれがあるのはなぜか。
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			Ep.4 Tea Partyの最後「最後の謎をだすため両腕をつきだしたとき、右腕を下ろした」ことが、奥の手を残しているという意味になるのはどういうことか？
+		</font></td>
+		<td><font>
+			<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			真里亞の薔薇はなぜ消えたのか。真里亞に傘や手紙を渡したのは誰か。手紙の封筒や封蝋、押印のための指輪はどう入手したのか。
+		</font></td>
+		<td><font>
+			Ep.4で薔薇庭園で真里亞に傘を貸したのは金蔵だった。他のEpではベアトリーチェなのに、なぜ今回だけそうなったのか？
+		</font></td>
+	</tr>
+	<tr>
+		<td><font>
+			金蔵が礼拝堂を建てることで実現しようとした奇跡とはなにか。“この扉は、奇跡が起きない限り、開かれない”とは？
+		</font></td>
+		<td><font>
+			Ep.4では熊沢が礼拝堂らしき建物を写真に撮っており“この扉は千超分の一の確率でしか開かない。あなたは千超分の一の確率でしか祝福されない”とある。
+		</font></td>
+	</tr>
+</table>
+【変換済－】

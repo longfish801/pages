@@ -7,20 +7,34 @@ body {
 	color: #000000;
 }
 header#header {
-	background-image: url(/img/mat/skel.gif);
+	background-color: rgba(255,255,239,0.5);
+}
+header#header-navi {
+	background-color: rgba(255,255,239,0.5);
+}
+div#center {
+	background-color: rgba(255,255,239,0.5);
+}
+nav.pagenavi {
+	padding: 0rem;
 }
 main#main {
-	background-image: url(/img/mat/skel.gif);
 	background-color: rgba(255,255,239,0.5);
 }
 nav#sidenav {
-	background-image: url(/img/mat/skel.gif);
+	background-color: rgba(255,255,239,0.3);
 }
 dl#note {
 	background-color: rgba(239,239,255,0.8);
 }
 h2 {
 	background-image: url(/img/mat/bg_header.png);
+}
+h3 {
+	padding: 1rem 0rem;
+	margin: 1rem 0rem;
+	border-top: solid;
+	border-bottom: solid;
 }
 figure > blockquote.blockquote {
 	background-color: #ffffcc;
@@ -29,5 +43,14 @@ figure > figcaption.blockquote-footer {
 	background-color: #ffffcc;
 }
 pre.code {
-	background-color: #f0f0f0;
+	background-color: #f0f0f0;;
+}
+.append {
+	color: #000099;
+}
+div.translucent{
+	color: #cccccc;
+}
+span.underline {
+	text-decoration:underline;
 }

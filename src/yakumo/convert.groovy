@@ -62,6 +62,8 @@ script {
 	
 	doLast {
 		fprint.logs.each { println it }
-		assert fprint.warns.size() == 0
+		if (fprint.warns.size() > 0){
+			throw new Exception(['Warning:', fprint.warns].flatten().join("\n"))
+		}
 	}
 }

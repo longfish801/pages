@@ -1,0 +1,64 @@
+
+【＃タイトル】LaTeXで小説同人誌を作る
+【＃公開日】2008.11.24
+【＃著作権】2008 Sugimoto@MNU-No10
+
+　11/9の文学フリマで個人誌【リンク：『鉄錆風味歪夢 自選集』：/pages/2008/081027_iron/】を頒布しました。そのときの原稿を元にした LaTeXサンプルを公開します。
+
+■特徴
+
+　以下の特徴があります。
+
+・A5版の縦書き、二段組みです。
+・巻頭歌、タイトルのため、頁中央に文字や画像を表示します。
+・目次、章タイトルを tbook既存のデザインとは変えています。
+・小口に画像を入れ、頁番号を縦書きの漢数詞にしています。
+・奥付も縦書きです。これは以下を参考にしました。
+  【－コラム】
+  個人出版コミュニティ LaTeXによる書籍製作（１５）
+  http://bookproduction.blog69.fc2.com/blog-entry-68.html
+  【コラム－】
+・ダッシュ（――）は罫線を利用しています（【リンク：市川憂人さん：http://members3.jcom.home.ne.jp/yu_ichikawa/mys/】のアイデア）。なぜか倍角(\scalebox)ではうまくいかない……。
+・「！」「？」の後に来る空白を少し縮めています。既存のままだと少し大きすぎるように感じるので。
+
+■キャプチャ
+
+　出力される PDFの画面キャプチャを以下に示します。
+
+【＝画像：キャプチャ01：cap/cap01.jpg】
+【＝画像：キャプチャ02：cap/cap02.jpg】
+【＝画像：キャプチャ03：cap/cap03.jpg】
+【＝画像：キャプチャ04：cap/cap04.jpg】
+【＝画像：キャプチャ05：cap/cap05.jpg】
+
+■使い方
+
+　使い方は以下の通りです。
+　前提として、(1)Windows XP上で (2)LaTeXをインストール済（platex, dvipdfmxコマンドが使える状態）とします。
+　なお、タイトルや小口の画像は、サンプルのため低解像度のものを使用しています。実際には印刷所の指定する解像度に合わせる必要があります。
+
+＃【リンク：novelbook-latex-sample.zip：novelbook-latex-sample.zip】をダウンロードし、適当なフォルダに解凍します。
+＃解凍したフォルダから novelbook.clsを ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーします。
+＃以下のサイトから wallpaper.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。
+  【－コラム】
+  CTAN: directory: /tex-archive/macros/latex/contrib/wallpaper
+  http://tug.ctan.org/tex-archive/macros/latex/contrib/wallpaper/
+  【コラム－】
+  wallpaper.styは壁紙画像のスタイルファイルです。サンプルでは小口に電線の画像を入れるために使っています。ただし、tbookではうまく動作しないため、novelbook.clsで renewcommandしています。
+＃以下のサイトから tatesuji.sty、furikana.styをダウンロードし ${LaTeXインストールフォルダ}\share\texmf\ptex\platex にコピーしてください。
+  【－コラム】
+  Fujita Shinsaku TeX/LaTeX Page
+  http://homepage3.nifty.com/xymtex/fujitas2/texlatex/
+  【コラム－】
+  tatesuji.styは漢数詞のためのスタイルファイルです。サンプルでは頁番号に使っています。furikana.styはルビを振るためのスタイルファイルです。
+＃sample.batをダブルクリックして実行して下さい。【リンク：sample.pdf：sample.pdf】が出力されます。
+  バッチファイルの内容は以下の通りです。platexを目次作成のため二回実行し、dvipdfmxで PDFファイルを作成しています。
+  【－コード】
+  platex sample
+  platex sample
+  dvipdfmx -p a5 sample.dvi
+  【コード－】
+
+■謝辞
+
+　そもそも私を LaTeXの茨道に導いてくれた【リンク：市川憂人さん：http://members3.jcom.home.ne.jp/yu_ichikawa/mys/】に感謝。

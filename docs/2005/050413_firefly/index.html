@@ -1,51 +1,96 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<!doctype html>
 <html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<link rel="shortcut icon" href="/about/ref/favicon.ico">
-<link href="/_style/text.css" rel="stylesheet" type="text/css">
-<link href="/_cgi/amathum/style.css" rel="stylesheet" type="text/css">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<script type="text/javascript" src="/_cgi/prototype.js"></script>
-<script type="text/javascript" src="/_cgi/infobar/script.js"></script>
-<script type="text/javascript" src="/_style/script.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+<link rel="stylesheet" href="/pages/material/text.css">
+
+<style type="text/css">
+<!--
+body {
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+
+-->
+</style>
 <title>蛍の旋律に我々は如何にして幻惑されたか</title>
 </head>
-<body>
-<div id="header"><a href="/index.html"><img src="/_style/img/title.png" id="top" alt="*the long fish*" width="217" height="43"></a></div>
-<div id="side"></div>
-<div id="body">
+<body class="container">
 
+
+<!-- サイトヘッダ -->
+<header id="siteHeader" class="row justify-content-center align-items-center"></header>
+
+
+<!-- ヘッダー -->
+<header id="header" class="row py-5">
+
+<div class="col-lg">
 <h1>蛍の旋律に我々は如何にして幻惑されたか</h1>
-<div id="date">公開日：2005.04.13</div>
 
-<div class="fyi">
-　以下、麻耶雄嵩『螢』の内容（真相、犯人、トリック）に言及しています。未読の方は以下の文章を決して読まないでください。<br>
-　重要な真相に触れている箇所は背景と文字の色を同じにすることで隠しています。その箇所を読むには文章をマウスで選択するか、<input value="解除" type="button" onClick="abreact();" style="display: inline;">ボタンを押して下さい。
 </div>
 
-<div class="amathum" id="Books:EAN:9784344410350:Medium"><a target="_blank"  href="https://www.amazon.co.jp/%E8%9E%A2-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E9%BA%BB%E8%80%B6-%E9%9B%84%E5%B5%A9/dp/4344410351?SubscriptionId=15V2PN3P15ET69D45D02&tag=longfish801-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=4344410351"><img border="0" width="106" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51ycEqXJZ6L._SL160_.jpg" alt="麻耶雄嵩 / 螢 (幻冬舎文庫) / 幻冬舎" /></a></div>
+<div class="col-lg-4 text-end">
+<ul id="extra" class="list-unstyled fs-6">
+<li>公開日 2005.04.13</li>
+</ul>
+</div>
 
-<p>
-　四月二日、MYSCON6にて読書会が行われた。課題本は麻耶雄嵩『螢』(幻冬舎)。<br>
-　以下、杉本が作成したカウンターレジュメと、その考察を記述する。
-</p>
 
-<h2>カウンターレジュメ</h2>
+</header>
 
-<p>
-　読書会に参加した方とは異なり、『螢』を一度読んだきりで記憶が薄れている方も多いと思う。そこで、内容を思い返せるよう、実際に配布したレジュメに記述を足した。<br>
-　ページ番号は初版に基づいている。
-</p>
 
-<table>
+
+
+
+<div id="center" class="row justify-content-center">
+
+
+<!-- 目次 -->
+<nav id="sidenav" class="col-lg-4 py-3">
+<ul id="toc" class="nav flex-column">
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">カウンターレジュメ</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">考察</a></li>
+</ul>
+</nav>
+
+
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
+<aside class="alert alert-danger" role="alert">
+<header class="alert-heading text-center"><i class="bi bi-exclamation-triangle-fill"></i> 注意</header>
+<p>　以下、麻耶雄嵩『螢』の内容（真相、犯人、トリック）に言及しています。未読の方は以下の文章を決して読まないでください。<br/>
+　重要な真相に触れている箇所は背景と文字の色を同じにすることで隠しています。その箇所を読むには文章をマウスで選択するか<button type="button" class="revert-unseen btn btn-primary">ネタバレ解除</button>ボタンを押して下さい。</p>
+</aside>
+
+<div class="amathum" id="Books:EAN:9784344410350:Medium">
+<a href="https://www.amazon.co.jp/%E8%9E%A2-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E9%BA%BB%E8%80%B6-%E9%9B%84%E5%B5%A9/dp/4344410351?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80102-22&linkId=12a6fae035ea55805bd95011fe4f32cf&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4344410351&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80102-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4344410351" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+
+<p>　四月二日、MYSCON6にて読書会が行われた。課題本は麻耶雄嵩『螢』(幻冬舎)。<br/>
+　以下、杉本が作成したカウンターレジュメと、その考察を記述する。</p>
+
+<h2><a name="id2_1"></a>カウンターレジュメ <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<p>　読書会に参加した方とは異なり、『螢』を一度読んだきりで記憶が薄れている方も多いと思う。そこで、内容を思い返せるよう、実際に配布したレジュメに記述を足した。<br/>
+　ページ番号は初版に基づいている。</p>
+
+<table class="table-bordered">
 <tr><th>日付</th><th>時刻</th><th>p</th><th>出来事</th><th>ポイント</th></tr>
 <tr><td nowrap rowspan="13">7月15日</td><td rowspan="6">PM02:00</td><td>8</td><td>(自分の前世が騎士だったなら。降り続ける雨。対馬つぐみの思い出)</td><td>&nbsp;</td></tr>
 <tr><td>11</td><td>平戸と諫早、ファイアフライ館へ向かう車中の会話</td><td>&nbsp;</td></tr>
 <tr><td>18</td><td>大村の車が後ろからついてくるか確認</td><td>&nbsp;</td></tr>
 <tr><td>23</td><td>大村の車の後部座席から島原が下りてくる</td><td>&nbsp;</td></tr>
-<tr><td>26</td><td>長崎に声がかけられる</td><td class="hidden">地の文に名前がないことに注意</td></tr>
+<tr><td>26</td><td>長崎に声がかけられる</td><td><span class="unseen unseen-hide">地の文に名前がないことに注意</span></td></tr>
 <tr><td>27</td><td>千鶴が声を挟む</td><td>&nbsp;</td></tr>
 <tr><td rowspan="3">PM03:10</td><td>41</td><td>佐世保を含む全員がラウンジから二階に移動</td><td>肝試しのため荷物はラウンジに置かれた</td></tr>
 <tr><td>45</td><td>佐世保が部屋割りを説明する</td><td>ファイアフライ館＜部分図＞と一致する</td></tr>
@@ -53,7 +98,7 @@
 <tr><td rowspan="4">PM08:20</td><td>71</td><td>夕食後のラウンジで、佐世保が夜奏曲第一番を披露</td><td>&nbsp;</td></tr>
 <tr><td>76</td><td>肝試し</td><td>&nbsp;</td></tr>
 <tr><td>89</td><td>女の声に恐怖する大村に佐世保が演出を否定</td><td>生きている佐世保が確認された最後</td></tr>
-<tr><td>95</td><td>女の声を聞いたのは小松響子の部屋と大村が言及</td><td class="hidden">小松響子の部屋の位置が明示されていないことに注意</td></tr>
+<tr><td>95</td><td>女の声を聞いたのは小松響子の部屋と大村が言及</td><td><span class="unseen unseen-hide">小松響子の部屋の位置が明示されていないことに注意</span></td></tr>
 <tr><td nowrap rowspan="22">7月16日</td><td rowspan="4">AM10:10</td><td>100</td><td>(対馬つぐみがジョージに殺害されるまでの回想)</td><td>&nbsp;</td></tr>
 <tr><td>104</td><td>暗黙の語り手が「島原と部屋を交換したことを思い出した」</td><td>&nbsp;</td></tr>
 <tr><td>111</td><td>電話が消えていることを島原が言及、千鶴が確認</td><td>&nbsp;</td></tr>
@@ -62,19 +107,19 @@
 <tr><td>122</td><td>ラウンジでボーダフォンを千鶴が拾う</td><td>&nbsp;</td></tr>
 <tr><td>124</td><td>戻ってきた平戸と島原により蛍橋の水没が明らかに</td><td>&nbsp;</td></tr>
 <tr><td rowspan="5">AM11:20</td><td>128</td><td>朝の6時、ラウンジに置きっぱなしだった鞄をとりに降りたが、鞄にあるはずのボーダフォンがなかったと平戸が証言</td><td>平戸のボーダフォンはラウンジに昨夜から放置されていた</td></tr>
-<tr><td>132</td><td>佐世保の死体確認に参加する者を募った平戸に暗黙の語り手が「仕方ないので小さく手を挙げた」</td><td class="hidden">以降、平戸＋島原のワトソン役を務める人物が諫早であるとは明記されていない</td></tr>
+<tr><td>132</td><td>佐世保の死体確認に参加する者を募った平戸に暗黙の語り手が「仕方ないので小さく手を挙げた」</td><td><span class="unseen unseen-hide">以降、平戸＋島原のワトソン役を務める人物が諫早であるとは明記されていない</span></td></tr>
 <tr><td>135</td><td>口紅、短剣の指紋、死体が移動されていたことを発見</td><td>&nbsp;</td></tr>
 <tr><td>145</td><td>MCのイニシャルに「松浦？」、島原が「何をわけの解らないことを～」</td><td>&nbsp;</td></tr>
 <tr><td>147</td><td>短剣の指紋に適合するものがいないことを確認</td><td>&nbsp;</td></tr>
 <tr><td rowspan="5">PM02:50</td><td>152</td><td>(対馬つぐみに関する回想)</td><td>&nbsp;</td></tr>
 <tr><td>158</td><td>平戸＋島原と蛍の間に忍び込む</td><td>&nbsp;</td></tr>
 <tr><td>162</td><td>五体の蝋人形を発見</td><td>p164「この顔、どこかで～」という平戸に島原が「写真じゃないですか～」と否定</td></tr>
-<tr><td>166</td><td>「思わず隅の時計を見る。ちょうど二時三十分を差していた」</td><td class="hidden">章タイトルにある時刻との矛盾に注意</td></tr>
-<tr><td>167</td><td>千鶴と暗黙の語り手が厨房で会話</td><td class="hidden">p174終わりのほうの繊細な表現に注目</td></tr>
+<tr><td>166</td><td>「思わず隅の時計を見る。ちょうど二時三十分を差していた」</td><td><span class="unseen unseen-hide">章タイトルにある時刻との矛盾に注意</span></td></tr>
+<tr><td>167</td><td>千鶴と暗黙の語り手が厨房で会話</td><td><span class="unseen unseen-hide">p174終わりのほうの繊細な表現に注目</span></td></tr>
 <tr><td rowspan="3">PM08:40</td><td>176</td><td>二階の廊下で女の後ろ姿を見たという大村がラウンジに飛び込んでくる</td><td>&nbsp;</td></tr>
 <tr><td>179</td><td>「松原と島原以外はラウンジにいたしな」と平戸が言及</td><td>&nbsp;</td></tr>
-<tr><td>182</td><td>「茄子クンは居てはいけない位置だったんだから～」と平戸が言及</td><td class="hidden">ファイアフライ館＜部分図＞との矛盾に注意。島原が諫早と部屋を交換したのなら、松浦と同じ東側の部屋になる。つまり、暗黙の語り手＝諫早ではない。</td></tr>
-<tr><td rowspan="2">PM10:15</td><td>185</td><td>千鶴の部屋に諫早が呼び出される。ジョージを捕まえるためにアキリーズに入ったことを千鶴が告白。</td><td class="hidden">視覚的表現がないことに注意</td></tr>
+<tr><td>182</td><td>「茄子クンは居てはいけない位置だったんだから～」と平戸が言及</td><td><span class="unseen unseen-hide">ファイアフライ館＜部分図＞との矛盾に注意。島原が諫早と部屋を交換したのなら、松浦と同じ東側の部屋になる。つまり、暗黙の語り手＝諫早ではない。</span></td></tr>
+<tr><td rowspan="2">PM10:15</td><td>185</td><td>千鶴の部屋に諫早が呼び出される。ジョージを捕まえるためにアキリーズに入ったことを千鶴が告白。</td><td><span class="unseen unseen-hide">視覚的表現がないことに注意</span></td></tr>
 <tr><td>197</td><td>「……先走っちゃダメだよ。千鶴。先走っちゃ」</td><td>&nbsp;</td></tr>
 <tr><td nowrap rowspan="29">7月17日</td><td rowspan="7">AM11:20</td><td>199</td><td>ラウンジに暗黙の語り手が降りると平戸＋島原がいた</td><td>&nbsp;</td></tr>
 <tr><td>201</td><td>厨房にいた千鶴がラウンジに現れる</td><td>&nbsp;</td></tr>
@@ -83,12 +128,12 @@
 <tr><td>211</td><td>平戸＋島原とともに小松響子人形の首が盗まれたことを確認</td><td>&nbsp;</td></tr>
 <tr><td>213</td><td>島原がAM10:00に蛍の間に入ったこと、その後で自分も入ったことを千鶴が告白。暗黙の語り手が「先走っちゃダメだろ」</td><td>&nbsp;</td></tr>
 <tr><td>215</td><td>「小松響子の部屋はたしか茄子クンだったな～」と平戸が言及</td><td>&nbsp;</td></tr>
-<tr><td rowspan="4">PM02:20</td><td>216</td><td>平戸＋島原とともに「蛍の間を出た足で～小松響子の部屋へ～ぐるっと一回り」して移動、風呂場に残された文字と一致するか口紅の色を確認</td><td class="hidden">ファイアフライ館＜部分図＞ではCの部屋へ行ったように錯覚するが実際はDの部屋</td></tr>
+<tr><td rowspan="4">PM02:20</td><td>216</td><td>平戸＋島原とともに「蛍の間を出た足で～小松響子の部屋へ～ぐるっと一回り」して移動、風呂場に残された文字と一致するか口紅の色を確認</td><td><span class="unseen unseen-hide">ファイアフライ館＜部分図＞ではCの部屋へ行ったように錯覚するが実際はDの部屋</span></td></tr>
 <tr><td>219</td><td>平戸の部屋に移動、夜奏曲第二番と、第一番第四楽章のリフレインを聴く</td><td>&nbsp;</td></tr>
 <tr><td>229</td><td>玄関の扉の音を聞き、ガレージに行くと佐世保のワゴンが消えている</td><td>&nbsp;</td></tr>
 <tr><td>232</td><td>川に突っ込んた佐世保のワゴン、白いハイヒールを発見、しかし口外無用とされる</td><td>&nbsp;</td></tr>
 <tr><td rowspan="3">PM04:10</td><td>236</td><td>千鶴の部屋に諫早が再び呼び出される</td><td>&nbsp;</td></tr>
-<tr><td>236</td><td class="hidden">「昨日のこと長崎さんに話しました？」と千鶴が諫早に確認</td><td>&nbsp;</td></tr>
+<tr><td>236</td><td><span class="unseen unseen-hide">「昨日のこと長崎さんに話しました？」と千鶴が諫早に確認</span></td><td>&nbsp;</td></tr>
 <tr><td>240</td><td>秘密の通路を発見したことを千鶴が諫早に告白「今朝見つけたんです～島原クンが出てから～時刻が一時間遅れていることに気がついた～平戸さんたちが中にいるときに見たら、正しい時刻に～」</td><td>&nbsp;</td></tr>
 <tr><td>PM05:00</td><td>245</td><td>平戸に雑誌『テトラーク』を見せられ、加賀螢司の妹と島原の相似に気付く</td><td>&nbsp;</td></tr>
 <tr><td rowspan="3">PM09:10</td><td>259</td><td>大村が襲われラウンジに全員集合</td><td>&nbsp;</td></tr>
@@ -102,61 +147,62 @@
 <tr><td>294</td><td>小松響子の頭部を盗んだのは自分と島原が告白</td><td>&nbsp;</td></tr>
 <tr><td rowspan="2">PM11:00</td><td>300</td><td>抜け穴が浴室にあること、時計の動作を確認</td><td>&nbsp;</td></tr>
 <tr><td>303</td><td>蛍の間で島原がジョージの共犯者について推理するのを暗黙の語り手が立ち聞き</td><td>&nbsp;</td></tr>
-<tr><td rowspan="3">PM11:50</td><td>316</td><td class="hidden">トイレに倒れる千鶴を平戸が発見。服を脱がせようとする島原を暗黙の語り手がとめる。</td><td>&nbsp;</td></tr>
-<tr><td>320</td><td class="hidden">島原が千鶴に「強引に背後から手を入れ躰を抱き支えた。瞬間、島原の表情が強張る」</td><td class="hidden">特に言及がないが、恐らく千鶴が女性であることを島原が気付いた瞬間</td></tr>
-<tr><td>322</td><td class="hidden">風呂で諫早の死体を発見</td><td>&nbsp;</td></tr>
-<tr><td nowrap rowspan="2">7月18日</td><td>AM02:35</td><td>324</td><td class="hidden">暗黙の語り手が千鶴の部屋に侵入し、平戸＋島原に騙される</td><td>&nbsp;</td></tr>
+<tr><td rowspan="3">PM11:50</td><td>316</td><td><span class="unseen unseen-hide">トイレに倒れる千鶴を平戸が発見。服を脱がせようとする島原を暗黙の語り手がとめる。</span></td><td>&nbsp;</td></tr>
+<tr><td>320</td><td><span class="unseen unseen-hide">島原が千鶴に「強引に背後から手を入れ躰を抱き支えた。瞬間、島原の表情が強張る」</span></td><td><span class="unseen unseen-hide">特に言及がないが、恐らく千鶴が女性であることを島原が気付いた瞬間</span></td></tr>
+<tr><td>322</td><td><span class="unseen unseen-hide">風呂で諫早の死体を発見</span></td><td>&nbsp;</td></tr>
+<tr><td nowrap rowspan="2">7月18日</td><td>AM02:35</td><td>324</td><td><span class="unseen unseen-hide">暗黙の語り手が千鶴の部屋に侵入し、平戸＋島原に騙される</span></td><td>&nbsp;</td></tr>
 <tr><td>AM02:40</td><td>328</td><td>すべての謎が解き明かされる</td><td>&nbsp;</td></tr>
 </table>
 
-<h2>考察</h2>
+<h2><a name="id2_2"></a>考察 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
 
-<p>
-　読者は予め真相を推理できるか。再読時はその点に注意して読んだ。<br>
-　まず、二つの<span class="hidden">叙述トリック</span>が使われている。ひとつは、暗黙の語り手が<span class="hidden">諫早ではなく長崎であること</span>。もうひとつは、千鶴が女性であることを<span class="hidden">長崎以外は知らなかったこと</span>。
-　前者については明示されていた。p45で佐世保が説明した部屋割りは冒頭のファイアフライ館＜部分図＞と一致する。その後、p104で暗黙の語り手は島原と部屋を交換している。それを踏まえると、p182の記述から<span class="hidden">暗黙の語り手が諫早ではないこと</span>が明らかになる。<br>
-　<span class="hidden">叙述トリック</span>が使用されていても、そのトリックによる見せかけの前提のままでは矛盾となる事実が明示されているならば、フェアである。個人的にはそう思っている。<br>
-　後者についてはp328以降にある島原の推理通りのため、ここでは繰り返さない。
-</p>
+<p>　読者は予め真相を推理できるか。再読時はその点に注意して読んだ。<br/>
+　まず、二つの<span class="unseen unseen-hide">叙述トリック</span>が使われている。ひとつは、暗黙の語り手が<span class="unseen unseen-hide">諫早ではなく長崎であること</span>。もうひとつは、千鶴が女性であることを<span class="unseen unseen-hide">長崎以外は知らなかったこと</span>。<br/>
+　前者については明示されていた。p45で佐世保が説明した部屋割りは冒頭のファイアフライ館＜部分図＞と一致する。その後、p104で暗黙の語り手は島原と部屋を交換している。それを踏まえると、p182の記述から<span class="unseen unseen-hide">暗黙の語り手が諫早ではないこと</span>が明らかになる。<br/>
+　<span class="unseen unseen-hide">叙述トリック</span>が使用されていても、そのトリックによる見せかけの前提のままでは矛盾となる事実が明示されているならば、フェアである。個人的にはそう思っている。<br/>
+　後者についてはp328以降にある島原の推理通りのため、ここでは繰り返さない。</p>
 
-<p>
-　このように、二つの<span class="hidden">叙述トリック</span>については予め明示されていた。では、ジョージの共犯者についてはどうか。<br>
-　p166にある時刻の矛盾、p300で確認された抜け穴と時計の動作から、p303以降での島原の推理通り、<span class="hidden">抜け穴を使った人物</span>が共犯者となる。<br>
-　それは平戸と島原、暗黙の語り手以外である。そしてボーダフォンに関する推理から大村が除外され、千鶴は共犯者として不自然なことから除外された。残りは一人である。ここで<span class="hidden">第一の叙述トリックが鍵となり、長崎ではなく諫早</span>が共犯者と判明する。
-</p>
+<p>　このように、二つの<span class="unseen unseen-hide">叙述トリック</span>については予め明示されていた。では、ジョージの共犯者についてはどうか。<br/>
+　p166にある時刻の矛盾、p300で確認された抜け穴と時計の動作から、p303以降での島原の推理通り、<span class="unseen unseen-hide">抜け穴を使った人物</span>が共犯者となる。<br/>
+　それは平戸と島原、暗黙の語り手以外である。そしてボーダフォンに関する推理から大村が除外され、千鶴は共犯者として不自然なことから除外された。残りは一人である。ここで<span class="unseen unseen-hide">第一の叙述トリックが鍵となり、長崎ではなく諫早</span>が共犯者と判明する。</p>
 
-<p>
-　しかし大村と千鶴を除外する論理は厳密ではない。<br>
-　例えばボーダフォン以外の機種がラウンジにあったにも関わらず、あえてボーダフォンが使用されたならば、異なる機種でも圏外となることを確認したかったという推理の蓋然性は高い。しかし、ここでは平戸のボーダフォンが借用されたことしかわかっていない。確実に圏外であるか確認するため、機種とは関係なしに、たまたまラウンジにあった平戸のボーダフォンを借用したとも考えたくなる。<br>
-　千鶴については更に曖昧になる。階段の手摺を壊したこと、ヤシの鉢植えを倒したこと、肝試しで最後まで残ったことを挙げているが、推測の域をでない。
-</p>
+<p>　しかし大村と千鶴を除外する論理は厳密ではない。<br/>
+　例えばボーダフォン以外の機種がラウンジにあったにも関わらず、あえてボーダフォンが使用されたならば、異なる機種でも圏外となることを確認したかったという推理の蓋然性は高い。しかし、ここでは平戸のボーダフォンが借用されたことしかわかっていない。確実に圏外であるか確認するため、機種とは関係なしに、たまたまラウンジにあった平戸のボーダフォンを借用したとも考えたくなる。<br/>
+　千鶴については更に曖昧になる。階段の手摺を壊したこと、ヤシの鉢植えを倒したこと、肝試しで最後まで残ったことを挙げているが、推測の域をでない。</p>
 
-<p>
-　<span class="hidden">叙述トリック</span>がない従来の本格推理小説ならば、ジョージの共犯者を推理する消去法が最も重要な場面となったと思う。それこそ鍾乳洞で皆を前にして名探偵よろしく島原が推理を開陳する、という筋にでもなったかもしれない。<br>
-　しかし実際には、<span class="hidden">叙述トリック</span>に関しては厳密でありながら、共犯者の推理については曖昧さが残る。そもそも佐世保を殺害した犯人については、<span class="hidden">ＦＵＭＩＥなのか長崎なのか</span>推理では到達できない。<br>
-　古典的な本格推理小説では<span class="hidden">叙述トリック</span>などなく、殺人犯を推理することこそがなによりも重視され、作中では殺人を犯していないジョージの共犯者を巡る推理は、真犯人を推理するための材料のひとつとなっただろう。<br>
-　しかし『螢』ではそれが逆転している。
-</p>
+<p>　<span class="unseen unseen-hide">叙述トリック</span>がない従来の本格推理小説ならば、ジョージの共犯者を推理する消去法が最も重要な場面となったと思う。それこそ鍾乳洞で皆を前にして名探偵よろしく島原が推理を開陳する、という筋にでもなったかもしれない。<br/>
+　しかし実際には、<span class="unseen unseen-hide">叙述トリック</span>に関しては厳密でありながら、共犯者の推理については曖昧さが残る。そもそも佐世保を殺害した犯人については、<span class="unseen unseen-hide">ＦＵＭＩＥなのか長崎なのか</span>推理では到達できない。<br/>
+　古典的な本格推理小説では<span class="unseen unseen-hide">叙述トリック</span>などなく、殺人犯を推理することこそがなによりも重視され、作中では殺人を犯していないジョージの共犯者を巡る推理は、真犯人を推理するための材料のひとつとなっただろう。<br/>
+　しかし『螢』ではそれが逆転している。</p>
 
-<p>
-　これをどのように解釈すべきだろうか。<br>
-　いわゆる「新本格」当初、九十年代の<span class="hidden">叙述トリック</span>は、読者に驚きを与えるためのものという印象が強かった。それが『螢』によって、古典的な本格推理小説のように、再読することで伏線や作者の技巧を味わう技巧に昇華したとも言える。<br>
-　あるいは、<span class="hidden">叙述トリック</span>に注意が集中することで、中心となるべき犯人推理のための論理がおろそかになり、ミステリマニアしか楽しむことができない失敗作になったとも言える。
-</p>
+<p>　これをどのように解釈すべきだろうか。<br/>
+　いわゆる「新本格」当初、九十年代の<span class="unseen unseen-hide">叙述トリック</span>は、読者に驚きを与えるためのものという印象が強かった。それが『螢』によって、古典的な本格推理小説のように、再読することで伏線や作者の技巧を味わう技巧に昇華したとも言える。<br/>
+　あるいは、<span class="unseen unseen-hide">叙述トリック</span>に注意が集中することで、中心となるべき犯人推理のための論理がおろそかになり、ミステリマニアしか楽しむことができない失敗作になったとも言える。</p>
 
-<p>
-　こうも言えるかもしれない。<br>
-　本格推理小説の多くは犯人という絶対悪を名探偵という絶対善が裁く。しかし『螢』では善と悪の構図が複雑に入り組んでいる。主観と客観さえ相対的に入れ替わる。<br>
-　一般的に文学は<span class="hidden">長崎</span>のような人物をどのように描くだろう。恐らく、このような人物でもよいところがあるという偽善を描くか、あるいは外観の歪みをそのままアンチヒーローとして描くことになると思う。<br>
-　<span class="hidden">長崎</span>という人物の歪みを、読者に歪みと認識させず真の意味で伝えるために、本格推理小説の端正な構図を歪めた。『螢』は、他の文学ジャンルでも、従来の本格推理小説でも、決して描くことのできない人物を描いた。<br>
-　麻耶雄嵩は歪んだ鏡を提示し、その歪みの中でしか見えないものを指し示すことで、本格推理小説をユークリッド幾何学から解放した、などというのは言い過ぎだろうか。
-</p>
+<p>　こうも言えるかもしれない。<br/>
+　本格推理小説の多くは犯人という絶対悪を名探偵という絶対善が裁く。しかし『螢』では善と悪の構図が複雑に入り組んでいる。主観と客観さえ相対的に入れ替わる。<br/>
+　一般的に文学は<span class="unseen unseen-hide">長崎</span>のような人物をどのように描くだろう。恐らく、このような人物でもよいところがあるという偽善を描くか、あるいは外観の歪みをそのままアンチヒーローとして描くことになると思う。<br/>
+　<span class="unseen unseen-hide">長崎</span>という人物の歪みを、読者に歪みと認識させず真の意味で伝えるために、本格推理小説の端正な構図を歪めた。『螢』は、他の文学ジャンルでも、従来の本格推理小説でも、決して描くことのできない人物を描いた。<br/>
+　麻耶雄嵩は歪んだ鏡を提示し、その歪みの中でしか見えないものを指し示すことで、本格推理小説をユークリッド幾何学から解放した、などというのは言い過ぎだろうか。</p>
 
-</div>
-<div id="footer">
-<span id="navi"><a href="/index.html"><img src="/about/ref/banner.gif" alt="*the long fish*" width="88" height="31"></a></span><br>
-<span id="copy">&copy; 2005 Sugimoto@MNU-No10 All rights reserved.</span>
-<hr>
-</div>
+
+
+
+</main>
+
+</div><!-- end of row -->
+
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3 text-end">
+
+<div id="banner"><a href="/"><img src="/img/avatar.png" alt="*the long fish*" width="150" height="150"></a></div>
+<div id="copy">&copy; 2023 Sugimoto@MNU-No10 All rights reserved.</div>
+
+<hr/>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
+
 </body>
 </html>
