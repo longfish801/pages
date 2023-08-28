@@ -10,7 +10,7 @@
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784044292010:Medium">
-<a href="https://www.amazon.co.jp/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1-%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E6%96%87%E5%BA%AB-%E8%B0%B7%E5%B7%9D-%E6%B5%81/dp/4044292019?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80102-22&linkId=8d9d67b7ab0cfe6ca518c6f1cc645789&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4044292019&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80102-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4044292019" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1-%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E6%96%87%E5%BA%AB-%E8%B0%B7%E5%B7%9D-%E6%B5%81/dp/4044292019?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=8d9d67b7ab0cfe6ca518c6f1cc645789&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4044292019&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4044292019" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 【変換済－】
 
@@ -24,7 +24,7 @@
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784488070274:Medium">
-<a href="https://www.amazon.co.jp/%E5%B9%BB%E6%83%B3%E6%96%87%E5%AD%A6%E8%AB%96%E5%BA%8F%E8%AA%AC-%E5%89%B5%E5%85%83%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-%E3%83%84%E3%83%B4%E3%82%A7%E3%82%BF%E3%83%B3-%E3%83%88%E3%83%89%E3%83%AD%E3%83%95/dp/4488070272?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80102-22&linkId=e9f1e0f957cc8323e3144c6c5d25bf92&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4488070272&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80102-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4488070272" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E5%B9%BB%E6%83%B3%E6%96%87%E5%AD%A6%E8%AB%96%E5%BA%8F%E8%AA%AC-%E5%89%B5%E5%85%83%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-%E3%83%84%E3%83%B4%E3%82%A7%E3%82%BF%E3%83%B3-%E3%83%88%E3%83%89%E3%83%AD%E3%83%95/dp/4488070272?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=e9f1e0f957cc8323e3144c6c5d25bf92&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4488070272&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4488070272" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 【変換済－】
 

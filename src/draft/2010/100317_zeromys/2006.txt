@@ -7,7 +7,7 @@
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784062705790:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E7%B6%BE%E8%BE%BB-%E8%A1%8C%E4%BA%BA/dp/4062705796?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062705796"><img border="0" width="121" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51AVQD8D9ML._SL160_.jpg" alt="綾辻行人 / びっくり館の殺人 (ミステリーランド) / 講談社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E7%B6%BE%E8%BE%BB-%E8%A1%8C%E4%BA%BA/dp/4062705796?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062705796"><img border="0" width="121" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51AVQD8D9ML._SL160_.jpg" alt="綾辻行人 / びっくり館の殺人 (ミステリーランド) / 講談社"></a>
 </div>
 【変換済－】
 
@@ -21,7 +21,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0603hon3.htm#060322
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163542:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%86%E3%82%8C%E3%81%97%E3%81%AE%E8%8D%98%E7%89%87%E6%81%8B%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A-%E3%81%B2%E3%81%A8%E3%81%A4%E3%80%81%E6%A1%9C%E3%81%AE%E4%B8%8B-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E5%B2%A9%E4%B9%85-%E5%8B%9D%E6%98%AD/dp/4829163542?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163542"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41Z5KGH7N5L._SL160_.jpg" alt="岩久勝昭 / うれしの荘片恋ものがたり ひとつ、桜の下 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%81%86%E3%82%8C%E3%81%97%E3%81%AE%E8%8D%98%E7%89%87%E6%81%8B%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A-%E3%81%B2%E3%81%A8%E3%81%A4%E3%80%81%E6%A1%9C%E3%81%AE%E4%B8%8B-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E5%B2%A9%E4%B9%85-%E5%8B%9D%E6%98%AD/dp/4829163542?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163542"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41Z5KGH7N5L._SL160_.jpg" alt="岩久勝昭 / うれしの荘片恋ものがたり ひとつ、桜の下 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -35,7 +35,7 @@ http://hibiki.vis.ne.jp/bookbox/log/200606.html#eid379
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784840235525:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A4%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E2%80%99%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E3%81%86%E3%81%88%E3%81%8A-%E4%B9%85%E5%85%89/dp/484023552X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=484023552X"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/518RSCRJM4L._SL160_.jpg" alt="うえお久光 / ジャストボイルド・オ’クロック (電撃文庫) / メディアワークス"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A4%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E2%80%99%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E3%81%86%E3%81%88%E3%81%8A-%E4%B9%85%E5%85%89/dp/484023552X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=484023552X"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/518RSCRJM4L._SL160_.jpg" alt="うえお久光 / ジャストボイルド・オ’クロック (電撃文庫) / メディアワークス"></a>
 </div>
 【変換済－】
 
@@ -49,7 +49,7 @@ http://www.asahi-net.or.jp/~WF9R-TNGC/justboiled.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784797336146:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%9A%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797336145?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797336145"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51QLQ4dT9aL._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ インスペクター・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%9A%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797336145?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797336145"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51QLQ4dT9aL._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ インスペクター・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
 </div>
 【変換済－】
 
@@ -63,7 +63,7 @@ http://maijar.jp/?q=node/339
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784797337143:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797337141?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797337141"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51-oWOUWc8L._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ サイレント・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797337141?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797337141"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51-oWOUWc8L._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ サイレント・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
 </div>
 【変換済－】
 
@@ -72,7 +72,7 @@ http://maijar.jp/?q=node/339
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784797338997:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797338997?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797338997"><img border="0" width="115" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51O5oLkLzRL._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ プレイヤー・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E7%A5%9E%E6%9B%B2%E5%A5%8F%E7%95%8C%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AB-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-GA%E6%96%87%E5%BA%AB-%E5%A4%A7%E8%BF%AB-%E7%B4%94%E4%B8%80/dp/4797338997?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797338997"><img border="0" width="115" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51O5oLkLzRL._SL160_.jpg" alt="大迫純一 / 神曲奏界ポリフォニカ プレイヤー・ブラック (GA文庫) / ソフトバンククリエイティブ"></a>
 </div>
 【変換済－】
 
@@ -81,7 +81,7 @@ http://maijar.jp/?q=node/339
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163740:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%97%E3%81%9A%E3%82%8B%E3%81%95%E3%82%93%E3%81%A8%E7%84%A1%E8%A8%80%E3%81%AE%E5%A7%AB%E5%90%9B%E3%81%9F%E3%81%A1%E2%80%95-Silent-Princess-Unprincipled-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB/dp/4829163747?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163747"><img border="0" width="110" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/61B4ENPQHCL._SL160_.jpg" alt="上遠野浩平 / しずるさんと無言の姫君たち―The Silent Princess In The Unprincipled Tales (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%81%97%E3%81%9A%E3%82%8B%E3%81%95%E3%82%93%E3%81%A8%E7%84%A1%E8%A8%80%E3%81%AE%E5%A7%AB%E5%90%9B%E3%81%9F%E3%81%A1%E2%80%95-Silent-Princess-Unprincipled-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB/dp/4829163747?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163747"><img border="0" width="110" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/61B4ENPQHCL._SL160_.jpg" alt="上遠野浩平 / しずるさんと無言の姫君たち―The Silent Princess In The Unprincipled Tales (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -90,7 +90,7 @@ http://maijar.jp/?q=node/339
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784812425053:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5-%E7%AB%B9%E6%9B%B8%E6%88%BF%E3%82%BC%E3%83%BC%E3%82%BF%E6%96%87%E5%BA%AB-%E3%81%8D%E3%81%AC%E3%81%9F-%E3%81%95%E3%81%A8%E3%81%97/dp/4812425050?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4812425050"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41MKZMH5H3L._SL160_.jpg" alt="きぬたさとし / ドラグネット・ミラージュ (竹書房ゼータ文庫) / 竹書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5-%E7%AB%B9%E6%9B%B8%E6%88%BF%E3%82%BC%E3%83%BC%E3%82%BF%E6%96%87%E5%BA%AB-%E3%81%8D%E3%81%AC%E3%81%9F-%E3%81%95%E3%81%A8%E3%81%97/dp/4812425050?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4812425050"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41MKZMH5H3L._SL160_.jpg" alt="きぬたさとし / ドラグネット・ミラージュ (竹書房ゼータ文庫) / 竹書房"></a>
 </div>
 【変換済－】
 
@@ -104,7 +104,7 @@ http://gamenokasabuta.blog86.fc2.com/blog-entry-113.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784840233910:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAD-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%B9%85%E4%BD%8F-%E5%9B%9B%E5%AD%A3/dp/4840233918?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840233918"><img border="0" width="108" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51C0xpVvtkL._SL160_.jpg" alt="久住四季 / トリックスターズD (電撃文庫) / メディアワークス"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAD-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%B9%85%E4%BD%8F-%E5%9B%9B%E5%AD%A3/dp/4840233918?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840233918"><img border="0" width="108" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51C0xpVvtkL._SL160_.jpg" alt="久住四季 / トリックスターズD (電撃文庫) / メディアワークス"></a>
 </div>
 【変換済－】
 
@@ -113,7 +113,7 @@ http://gamenokasabuta.blog86.fc2.com/blog-entry-113.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784840235259:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAM-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%B9%85%E4%BD%8F-%E5%9B%9B%E5%AD%A3/dp/4840235252?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840235252"><img border="0" width="109" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/5172z3VJgUL._SL160_.jpg" alt="久住四季 / トリックスターズM (電撃文庫) / メディアワークス"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAM-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%B9%85%E4%BD%8F-%E5%9B%9B%E5%AD%A3/dp/4840235252?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840235252"><img border="0" width="109" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/5172z3VJgUL._SL160_.jpg" alt="久住四季 / トリックスターズM (電撃文庫) / メディアワークス"></a>
 </div>
 【変換済－】
 
@@ -122,7 +122,7 @@ http://gamenokasabuta.blog86.fc2.com/blog-entry-113.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784840233880:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%96%AD%E7%AB%A0%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%A0%E3%80%881%E3%80%89%E7%81%B0%E3%81%8B%E3%81%B6%E3%82%8A-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E7%94%B2%E7%94%B0-%E5%AD%A6%E4%BA%BA/dp/4840233888?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840233888"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/512FFHsxYjL._SL160_.jpg" alt="甲田学人 / 断章のグリム〈1〉灰かぶり (電撃文庫) / アスキー・メディアワークス"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E6%96%AD%E7%AB%A0%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%A0%E3%80%881%E3%80%89%E7%81%B0%E3%81%8B%E3%81%B6%E3%82%8A-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E7%94%B2%E7%94%B0-%E5%AD%A6%E4%BA%BA/dp/4840233888?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840233888"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/512FFHsxYjL._SL160_.jpg" alt="甲田学人 / 断章のグリム〈1〉灰かぶり (電撃文庫) / アスキー・メディアワークス"></a>
 </div>
 【変換済－】
 
@@ -136,7 +136,7 @@ http://towanosora.blog38.fc2.com/blog-entry-807.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784840234832:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%96%AD%E7%AB%A0%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%A0-%E3%83%98%E3%83%B3%E3%82%BC%E3%83%AB%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%86%E3%83%AB-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E7%94%B2%E7%94%B0-%E5%AD%A6%E4%BA%BA/dp/4840234833?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840234833"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51OC3XIhV3L._SL160_.jpg" alt="甲田学人 / 断章のグリム(2) ヘンゼルとグレーテル (電撃文庫) / アスキー・メディアワークス"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E6%96%AD%E7%AB%A0%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%A0-%E3%83%98%E3%83%B3%E3%82%BC%E3%83%AB%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%86%E3%83%AB-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E7%94%B2%E7%94%B0-%E5%AD%A6%E4%BA%BA/dp/4840234833?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840234833"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51OC3XIhV3L._SL160_.jpg" alt="甲田学人 / 断章のグリム(2) ヘンゼルとグレーテル (電撃文庫) / アスキー・メディアワークス"></a>
 </div>
 【変換済－】
 
@@ -145,7 +145,7 @@ http://towanosora.blog38.fc2.com/blog-entry-807.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163429:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/SHINO-%E2%80%95%E3%82%B7%E3%83%8E%E2%80%95-%E9%BB%92%E3%81%8D%E9%AD%82%E3%81%AE%E5%B0%91%E5%A5%B3-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88/dp/4829163429?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163429"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41MV3XHATBL._SL160_.jpg" alt="上月雨音 / SHINO ―シノ― 黒き魂の少女 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/SHINO-%E2%80%95%E3%82%B7%E3%83%8E%E2%80%95-%E9%BB%92%E3%81%8D%E9%AD%82%E3%81%AE%E5%B0%91%E5%A5%B3-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88/dp/4829163429?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163429"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41MV3XHATBL._SL160_.jpg" alt="上月雨音 / SHINO ―シノ― 黒き魂の少女 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -159,7 +159,7 @@ http://kiicho.txt-nifty.com/tundoku/2009/07/shi-no---9faa.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163535:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/SHINO-%E2%80%95%E3%82%B7%E3%83%8E%E2%80%95-%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AE%E5%AD%90%E5%AE%88%E5%94%84-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88/dp/4829163534?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163534"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41RYPASK36L._SL160_.jpg" alt="上月雨音 / SHINO ―シノ― アリスの子守唄 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/SHINO-%E2%80%95%E3%82%B7%E3%83%8E%E2%80%95-%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AE%E5%AD%90%E5%AE%88%E5%94%84-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88/dp/4829163534?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163534"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41RYPASK36L._SL160_.jpg" alt="上月雨音 / SHINO ―シノ― アリスの子守唄 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -168,7 +168,7 @@ http://kiicho.txt-nifty.com/tundoku/2009/07/shi-no---9faa.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163665:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/SHI%E2%80%90NO%E2%80%95%E5%A4%A9%E4%BD%BF%E3%81%A8%E6%82%AA%E9%AD%94-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88-%E9%9B%A8%E9%9F%B3/dp/4829163666?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163666"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51DBWYNVGHL._SL160_.jpg" alt="上月雨音 / SHI‐NO―天使と悪魔 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/SHI%E2%80%90NO%E2%80%95%E5%A4%A9%E4%BD%BF%E3%81%A8%E6%82%AA%E9%AD%94-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9C%88-%E9%9B%A8%E9%9F%B3/dp/4829163666?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163666"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51DBWYNVGHL._SL160_.jpg" alt="上月雨音 / SHI‐NO―天使と悪魔 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -177,7 +177,7 @@ http://kiicho.txt-nifty.com/tundoku/2009/07/shi-no---9faa.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163757:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/GOSICK%E3%80%886%E3%80%89%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E4%BB%AE%E9%9D%A2%E8%88%9E%E8%B8%8F%E4%BC%9A%E3%81%AE%E5%A4%9C-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%A1%9C%E5%BA%AD-%E4%B8%80%E6%A8%B9/dp/4829163755?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163755"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/513A0KPXPNL._SL160_.jpg" alt="桜庭一樹 / GOSICK〈6〉ゴシック・仮面舞踏会の夜 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/GOSICK%E3%80%886%E3%80%89%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E4%BB%AE%E9%9D%A2%E8%88%9E%E8%B8%8F%E4%BC%9A%E3%81%AE%E5%A4%9C-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%A1%9C%E5%BA%AD-%E4%B8%80%E6%A8%B9/dp/4829163755?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163755"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/513A0KPXPNL._SL160_.jpg" alt="桜庭一樹 / GOSICK〈6〉ゴシック・仮面舞踏会の夜 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -186,7 +186,7 @@ http://kiicho.txt-nifty.com/tundoku/2009/07/shi-no---9faa.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784199051586:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%A8%E3%81%8F%E3%80%82-%E5%BE%B3%E9%96%93%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E6%96%87%E5%BA%AB-%E6%B8%85%E6%B6%BC%E9%99%A2-%E6%B5%81%E6%B0%B4/dp/4199051589?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4199051589"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/31FH4ZYFN9L._SL160_.jpg" alt="清涼院流水 / とく。 (徳間デュアル文庫) / 徳間書店"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%81%A8%E3%81%8F%E3%80%82-%E5%BE%B3%E9%96%93%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E6%96%87%E5%BA%AB-%E6%B8%85%E6%B6%BC%E9%99%A2-%E6%B5%81%E6%B0%B4/dp/4199051589?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4199051589"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/31FH4ZYFN9L._SL160_.jpg" alt="清涼院流水 / とく。 (徳間デュアル文庫) / 徳間書店"></a>
 </div>
 【変換済－】
 
@@ -195,7 +195,7 @@ http://kiicho.txt-nifty.com/tundoku/2009/07/shi-no---9faa.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784334076313:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%8B%82%E3%81%84%E5%92%B2%E3%81%8F%E8%96%94%E8%96%87%E3%82%92%E5%90%9B%E3%81%AB-%E7%89%A7%E5%A0%B4%E6%99%BA%E4%B9%85%E3%81%AE%E9%9B%91%E5%BD%B9-%E3%82%AB%E3%83%83%E3%83%91%E3%83%BB%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E7%AB%B9%E6%9C%AC-%E5%81%A5%E6%B2%BB/dp/4334076319?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4334076319"><img border="0" width="99" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51RE799QM9L._SL160_.jpg" alt="竹本健治 / 狂い咲く薔薇を君に  牧場智久の雑役 (カッパ・ノベルス) / 光文社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E7%8B%82%E3%81%84%E5%92%B2%E3%81%8F%E8%96%94%E8%96%87%E3%82%92%E5%90%9B%E3%81%AB-%E7%89%A7%E5%A0%B4%E6%99%BA%E4%B9%85%E3%81%AE%E9%9B%91%E5%BD%B9-%E3%82%AB%E3%83%83%E3%83%91%E3%83%BB%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E7%AB%B9%E6%9C%AC-%E5%81%A5%E6%B2%BB/dp/4334076319?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4334076319"><img border="0" width="99" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51RE799QM9L._SL160_.jpg" alt="竹本健治 / 狂い咲く薔薇を君に  牧場智久の雑役 (カッパ・ノベルス) / 光文社"></a>
 </div>
 【変換済－】
 
@@ -209,7 +209,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0606hon.htm#060608
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163559:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E7%94%B0%E4%BB%A3-%E8%A3%95%E5%BD%A6/dp/4829163550?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163550"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41NXNQZZZBL._SL160_.jpg" alt="田代裕彦 / セカイのスキマ (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E7%94%B0%E4%BB%A3-%E8%A3%95%E5%BD%A6/dp/4829163550?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163550"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41NXNQZZZBL._SL160_.jpg" alt="田代裕彦 / セカイのスキマ (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -223,7 +223,7 @@ http://yaplog.jp/cbythithi/archive/181
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784829163702:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E%E3%80%882%E3%80%89-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E7%94%B0%E4%BB%A3-%E8%A3%95%E5%BD%A6/dp/4829163704?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163704"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51CP9D70VQL._SL160_.jpg" alt="田代裕彦 / セカイのスキマ〈2〉 (富士見ミステリー文庫) / 富士見書房"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E%E3%80%882%E3%80%89-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E7%94%B0%E4%BB%A3-%E8%A3%95%E5%BD%A6/dp/4829163704?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829163704"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51CP9D70VQL._SL160_.jpg" alt="田代裕彦 / セカイのスキマ〈2〉 (富士見ミステリー文庫) / 富士見書房"></a>
 </div>
 【変換済－】
 
@@ -232,7 +232,7 @@ http://yaplog.jp/cbythithi/archive/181
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784044292089:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%A4%E6%85%A8-%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E6%96%87%E5%BA%AB-%E8%B0%B7%E5%B7%9D-%E6%B5%81/dp/4044292086?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4044292086"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/511oRm%2BjA-L._SL160_.jpg" alt="谷川流 / 涼宮ハルヒの憤慨 (角川スニーカー文庫) / 角川書店"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%A4%E6%85%A8-%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E6%96%87%E5%BA%AB-%E8%B0%B7%E5%B7%9D-%E6%B5%81/dp/4044292086?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4044292086"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/511oRm%2BjA-L._SL160_.jpg" alt="谷川流 / 涼宮ハルヒの憤慨 (角川スニーカー文庫) / 角川書店"></a>
 </div>
 【変換済－】
 
@@ -241,7 +241,7 @@ http://yaplog.jp/cbythithi/archive/181
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784061824782:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E8%BE%BB%E6%9D%91-%E6%B7%B1%E6%9C%88/dp/4061824783?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061824783"><img border="0" width="98" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/512PFS7KX6L._SL160_.jpg" alt="辻村深月 / ぼくのメジャースプーン (講談社ノベルス) / 講談社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E8%BE%BB%E6%9D%91-%E6%B7%B1%E6%9C%88/dp/4061824783?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061824783"><img border="0" width="98" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/512PFS7KX6L._SL160_.jpg" alt="辻村深月 / ぼくのメジャースプーン (講談社ノベルス) / 講談社"></a>
 </div>
 【変換済－】
 
@@ -255,7 +255,7 @@ http://www2u.biglobe.ne.jp/~BIJIN-8/fsyohyo/m_spoon.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784062559065:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/EDGE5-%E3%83%AD%E3%82%B9%E3%83%88%E3%83%BB%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-%E8%AC%9B%E8%AB%87%E7%A4%BEX%E6%96%87%E5%BA%AB-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88-%E3%81%A8%E3%81%BF%E3%81%AA%E3%81%8C/dp/4062559064?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062559064"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51QSTAKCD2L._SL160_.jpg" alt="とみなが貴和 / EDGE5 ロスト・チルドレン (講談社X文庫 ホワイトハート) / 講談社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/EDGE5-%E3%83%AD%E3%82%B9%E3%83%88%E3%83%BB%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-%E8%AC%9B%E8%AB%87%E7%A4%BEX%E6%96%87%E5%BA%AB-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88-%E3%81%A8%E3%81%BF%E3%81%AA%E3%81%8C/dp/4062559064?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062559064"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51QSTAKCD2L._SL160_.jpg" alt="とみなが貴和 / EDGE5 ロスト・チルドレン (講談社X文庫 ホワイトハート) / 講談社"></a>
 </div>
 【変換済－】
 
@@ -269,7 +269,7 @@ http://aboutagirl.seesaa.net/article/26866371.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784086007382:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%9B%A4%E4%B8%8A%E3%81%AE%E5%9B%9B%E9%87%8D%E5%A5%8F-%E3%80%9C%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%9C-%E3%83%AA%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC-%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E6%96%87%E5%BA%AB-%E5%8F%8B%E6%A1%90/dp/408600738X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=408600738X"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/318RJ0AG84L._SL160_.jpg" alt="友桐夏 / 盤上の四重奏 〜ガールズレビュー〜 リリカル・ミステリー (コバルト文庫) / 集英社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E7%9B%A4%E4%B8%8A%E3%81%AE%E5%9B%9B%E9%87%8D%E5%A5%8F-%E3%80%9C%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%9C-%E3%83%AA%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC-%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E6%96%87%E5%BA%AB-%E5%8F%8B%E6%A1%90/dp/408600738X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=408600738X"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/318RJ0AG84L._SL160_.jpg" alt="友桐夏 / 盤上の四重奏 〜ガールズレビュー〜 リリカル・ミステリー (コバルト文庫) / 集英社"></a>
 </div>
 【変換済－】
 
@@ -278,7 +278,7 @@ http://aboutagirl.seesaa.net/article/26866371.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784757728066:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9C%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%8C%E3%82%8A%E3%81%AE%E9%81%93%E5%8C%96-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757728069?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757728069"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51J5B477QWL._SL160_.jpg" alt="野村美月 / “文学少女”と死にたがりの道化 (ファミ通文庫) / エンターブレイン"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9C%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%8C%E3%82%8A%E3%81%AE%E9%81%93%E5%8C%96-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757728069?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757728069"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51J5B477QWL._SL160_.jpg" alt="野村美月 / “文学少女”と死にたがりの道化 (ファミ通文庫) / エンターブレイン"></a>
 </div>
 【変換済－】
 
@@ -292,7 +292,7 @@ http://www.asahi-net.or.jp/~wf9r-tngc/bungakusyoujo.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784757729155:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9D%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E9%A3%A2%E3%81%88%E6%B8%87%E3%81%8F%E5%B9%BD%E9%9C%8A-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757729154?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757729154"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51Slj9%2B%2BNtL._SL160_.jpg" alt="野村美月 / ”文学少女”と飢え渇く幽霊 (ファミ通文庫) / エンターブレイン"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9D%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E9%A3%A2%E3%81%88%E6%B8%87%E3%81%8F%E5%B9%BD%E9%9C%8A-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757729154?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757729154"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51Slj9%2B%2BNtL._SL160_.jpg" alt="野村美月 / ”文学少女”と飢え渇く幽霊 (ファミ通文庫) / エンターブレイン"></a>
 </div>
 【変換済－】
 
@@ -301,7 +301,7 @@ http://www.asahi-net.or.jp/~wf9r-tngc/bungakusyoujo.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784757730847:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9C%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8C%E3%81%9F%E6%84%9A%E8%80%85-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757730845?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757730845"><img border="0" width="115" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51j9Uy1aAJL._SL160_.jpg" alt="野村美月 / “文学少女”と繋がれた愚者 (ファミ通文庫) / エンターブレイン"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E2%80%9C%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8C%E3%81%9F%E6%84%9A%E8%80%85-%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB-%E9%87%8E%E6%9D%91-%E7%BE%8E%E6%9C%88/dp/4757730845?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757730845"><img border="0" width="115" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51j9Uy1aAJL._SL160_.jpg" alt="野村美月 / “文学少女”と繋がれた愚者 (ファミ通文庫) / エンターブレイン"></a>
 </div>
 【変換済－】
 
@@ -310,7 +310,7 @@ http://www.asahi-net.or.jp/~wf9r-tngc/bungakusyoujo.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784062705783:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%80%AA%E7%9B%97%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A3%E3%83%B3%E3%80%81%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E6%B3%95%E6%9C%88-%E7%B6%B8%E5%A4%AA%E9%83%8E/dp/4062705788?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062705788"><img border="0" width="122" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/61C6WCYNDNL._SL160_.jpg" alt="法月綸太郎 / 怪盗グリフィン、絶体絶命 (ミステリーランド) / 講談社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E6%80%AA%E7%9B%97%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A3%E3%83%B3%E3%80%81%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E6%B3%95%E6%9C%88-%E7%B6%B8%E5%A4%AA%E9%83%8E/dp/4062705788?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4062705788"><img border="0" width="122" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/61C6WCYNDNL._SL160_.jpg" alt="法月綸太郎 / 怪盗グリフィン、絶体絶命 (ミステリーランド) / 講談社"></a>
 </div>
 【変換済－】
 
@@ -324,7 +324,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0603hon.htm#060305
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784797334449:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%83%A1%E3%82%A4%E3%83%89%E5%88%91%E4%BA%8B-%E3%83%87%E3%82%AB-GA%E6%96%87%E5%BA%AB-%E6%97%A9%E8%A6%8B-%E8%A3%95%E5%8F%B8/dp/4797334444?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797334444"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51xQ5yG82fL._SL160_.jpg" alt="早見裕司 / メイド刑事<デカ> (GA文庫) / ソフトバンククリエイティブ"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E3%83%A1%E3%82%A4%E3%83%89%E5%88%91%E4%BA%8B-%E3%83%87%E3%82%AB-GA%E6%96%87%E5%BA%AB-%E6%97%A9%E8%A6%8B-%E8%A3%95%E5%8F%B8/dp/4797334444?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4797334444"><img border="0" width="111" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51xQ5yG82fL._SL160_.jpg" alt="早見裕司 / メイド刑事<デカ> (GA文庫) / ソフトバンククリエイティブ"></a>
 </div>
 【変換済－】
 
@@ -338,7 +338,7 @@ http://urara.tank.jp/log/eid443.html
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784048736930:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E9%9D%92%E6%98%A5%E4%BF%B3%E5%8F%A5%E8%AC%9B%E5%BA%A7-%E5%88%9D%E6%A1%9C-%E6%B0%B4%E5%8E%9F-%E4%BD%90%E4%BF%9D/dp/4048736930?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4048736930"><img border="0" width="109" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41VWCTTP67L._SL160_.jpg" alt="水原佐保 / 青春俳句講座 初桜 / 角川書店"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E9%9D%92%E6%98%A5%E4%BF%B3%E5%8F%A5%E8%AC%9B%E5%BA%A7-%E5%88%9D%E6%A1%9C-%E6%B0%B4%E5%8E%9F-%E4%BD%90%E4%BF%9D/dp/4048736930?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4048736930"><img border="0" width="109" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41VWCTTP67L._SL160_.jpg" alt="水原佐保 / 青春俳句講座 初桜 / 角川書店"></a>
 </div>
 【変換済－】
 
@@ -352,7 +352,7 @@ http://www.booklines.net/archives/4048736930.php
 
 【－変換済：html】
 <div class="amathum" id="Books:EAN:9784488451028:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%A4%8F%E6%9C%9F%E9%99%90%E5%AE%9A%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB%E3%83%91%E3%83%95%E3%82%A7%E4%BA%8B%E4%BB%B6-%E5%89%B5%E5%85%83%E6%8E%A8%E7%90%86%E6%96%87%E5%BA%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4488451020?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish801-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4488451020"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51UhixrnljL._SL160_.jpg" alt="米澤穂信 / 夏期限定トロピカルパフェ事件 (創元推理文庫) / 東京創元社"></a>
+ <a target="_blank" href="https://www.amazon.co.jp/%E5%A4%8F%E6%9C%9F%E9%99%90%E5%AE%9A%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB%E3%83%91%E3%83%95%E3%82%A7%E4%BA%8B%E4%BB%B6-%E5%89%B5%E5%85%83%E6%8E%A8%E7%90%86%E6%96%87%E5%BA%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4488451020?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4488451020"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51UhixrnljL._SL160_.jpg" alt="米澤穂信 / 夏期限定トロピカルパフェ事件 (創元推理文庫) / 東京創元社"></a>
 </div>
 【変換済－】
 
