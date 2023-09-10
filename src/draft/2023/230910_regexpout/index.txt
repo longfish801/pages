@@ -1,0 +1,125 @@
+
+【＃タイトル】プレーンテキストだってVSCodeでアウトラインを作りたい
+【＃公開日】2023.09.10
+【＃著作権】2023 Sugimoto@MNU-No10
+
+■ざっくりまとめ
+
+　Visual Studio Code略してVSCodeの拡張機能を作りました。
+
+【－コラム】
+RegExp Outline - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=longfish801.regexpOutline
+【コラム－】
+
+　プレーンテキストでも、たとえば行頭記号を目印に見出しとみなしてアウトラインを表示することができます。
+
+【＝画像：アウトラインの生成サンプル：cap.png】
+
+　拡張機能をインストールしてもVSCodeには英語のREADMEしか表示されません。
+　GitHubのほうに日本語版があります。
+　正確な機能はこちらを参照してください。
+
+【－コラム】
+regexpOutline/README.jp.md at main · longfish801/regexpOutline
+https://github.com/longfish801/regexpOutline/blob/main/README.jp.md
+【コラム－】
+
+　READMEには書いてませんが、JSONを一行に圧縮するには以下のようなWebサービスを利用すれば簡単にできます。
+
+【－コラム】
+JSON整形ツール：JSON Formatter | OneEngineer
+https://one-ap-engineer.com/tools/json-formatter/
+【コラム－】
+
+■なんで作ったの
+
+　仕事の都合でVSCodeを使うことになりました。
+　【リンク：WZ Editor：https://www.wzsoft.jp/】や【リンク：サクラエディタ：https://sakura-editor.github.io/】にはプレーンテキストであっても行頭記号で見出しとみなしてアウトラインを表示する機能があります。
+　世界中の人が使っているVSCodeさんなら、それくらい余裕でやってくれるだろう……と思ったら、どうもダメみたいでした。
+
+【－コラム】
+VSCode プレーンテキストでのアウトラインを行いたい - スタック・オーバーフロー
+https://ja.stackoverflow.com/questions/52147/vscode-%E3%83%97%E3%83%AC%E3%83%BC%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E8%A1%8C%E3%81%84%E3%81%9F%E3%81%84
+visual studio code - Outline for text file? - Stack Overflow
+https://stackoverflow.com/questions/67799602/outline-for-text-file
+【コラム－】
+
+　くわえて趣味で【リンク：tpac記法：/maven/tpac/notation.html】という独自の仕様を作っていました。
+　独自の仕様ですから、自分がやらないかぎり誰もこれをアウトライン表示してくれる拡張機能なんて作ってくれないわけです。
+
+　ネット検索してみると日本語での解説記事がけっこうみつかり（感謝！）これなら自分でも作れるかと感じました。
+
+【－コラム】
+VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜 - Qiita
+https://qiita.com/HelloRusk/items/073b58c1605de224e67e
+vscode拡張機能作成　逆引き辞典 - Qiita
+https://qiita.com/OrukRed/items/e3b7fa5532e8dc69d809#%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BC%E3%81%B8%E3%81%AE%E9%A0%85%E7%9B%AE%E8%A1%A8%E7%A4%BA
+VSCode の拡張機能を作ってみる | マイナビエンジニアブログ
+https://engineerblog.mynavi.jp/technology/make-vscode-newfunction/
+VisualStudio Code ExtensionのMarketplaceへの公開方法 - Hello Ys world ?
+https://ysss.hateblo.jp/entry/20200710/1594307803
+【コラム－】
+
+　時間は計っていなかったんですが、感覚的には仕事として（つまり一日あたり八時間労働で）やっていたら、軽く一週間近く（もちろん五営業日ってことですよ）はかかったんじゃないかなー。
+
+■こぼれ話
+
+　以下、脈絡なくこぼれ話をして終わります。
+
+□可変長の設定はできないっぽい
+
+　恐らくREADMEを読んだ人みんながツッコむのは「なんで設定がJSONなんだよ！」でしょうか。
+　これはですね……俺が悪いんじゃない（開き直り）。
+
+　ファイルの拡張子毎に見出しのルールを設定したかったんです。
+　あと見出しのレベルも必要に応じて何段階でも指定できるようにしたかったんです。
+　設定できる拡張子やレベルの数の上限を決めない、いわば可変長の設定がどうもできないっぽいんですよね。
+　公式サイトの記述をしっかり読めばどこかにやり方が書いてあるかもしれませんが……英語という高い壁がありまして。
+
+　苦肉の作でJSONによる指定にしたわけです。
+　悪しからず。
+
+□正規表現ってなに
+
+　まあ、システムエンジニアとかでなければ「正規表現ってなに？」ですよね……。
+
+　恐らく行頭記号を目印に見出しとしたい人が大半でしょう。
+　だから行頭記号あるいは正規表現で指定できます、としたほうが間口は広がりますね。
+
+　じゃあ、なんで正規表現での指定オンリーかといえば、そりゃもちろん、面倒くさかったからです。
+　気が向いたら改善するとしましょう。
+
+□見出しのレベルをスキップしたとき
+
+　VSCodeのアウトラインはツリー形式で表示されます。
+　したがって、本来ならH1の次はH2、H2の次はH3と、見出しのレベルはひとつずつ大きくならなければなりません。
+
+　ところがぎっちょん。
+　上記の画面キャプチャの「▼３－１」あたりを見てもらえばわかりますが、H1の次にH3が来てもアウトラインに表示されます。
+
+　そもそもアウトラインの目的のひとつは、表示位置の移動を楽にすることです。
+　テキストがまだ作成の途中であっても、見出しであればアウトラインに表示したいわけで。
+　レベルをスキップしても表示されるようにしています。
+
+□見出しのアイコンを選べない
+
+　これも、気にする人はいないだろうと思ってREADMEに書かなかったこと。
+　アウトラインには見出し毎にアイコンも表示されます。
+　これはソースコードのほうでは SymbolKindで指定するんですが、以下のとおりClassとかFunctionとかソースコードを想定したものばかり。
+　HTMLのH1みたいに文書を想定したものがないんですよね。
+
+【－コラム】
+vscode.SymbolKind - Haxe externs for Visual Studio Code - API documentation
+https://vshaxe.github.io/vscode-extern/vscode/SymbolKind.html
+【コラム－】
+
+　しょうがないのでファイル先頭/終端やレベル１～３のアイコンだけ種類を変えて、レベル４以上は一律同じアイコンとしました。
+
+・ファイル先頭/終端：SymbolKind.File
+・レベル１：SymbolKind.Package
+・レベル２：SymbolKind.Class
+・レベル３：SymbolKind.Method
+・レベル４以上：SymbolKind.Variable
+
+　ネット検索すると、どうもアイコンを改造する手段がなくもないようですが……英語がね……。

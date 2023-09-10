@@ -1,0 +1,220 @@
+
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+<link rel="stylesheet" href="/pages/material/text.css">
+
+<style type="text/css">
+<!--
+body {
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+	letter-spacing: 0.1rem;
+	line-height: 2.3rem;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+
+-->
+</style>
+<title>プレーンテキストだってVSCodeでアウトラインを作りたい</title>
+</head>
+<body class="container">
+
+
+<!-- サイトヘッダ -->
+<header id="siteHeader" class="row justify-content-center align-items-center"></header>
+
+
+<!-- ヘッダー -->
+<header id="header" class="row py-5">
+
+<div class="col-lg">
+<h1>プレーンテキストだってVSCodeでアウトラインを作りたい</h1>
+
+</div>
+
+<div class="col-lg-4 text-end">
+<ul id="extra" class="list-unstyled fs-6">
+<li>公開日 2023.09.10</li>
+</ul>
+</div>
+
+
+</header>
+
+
+
+
+
+<div id="center" class="row justify-content-center">
+
+
+<!-- 目次 -->
+<nav id="sidenav" class="col-lg-4 py-3">
+<ul id="toc" class="nav flex-column">
+<li class="nav-item toc-h2"><a href="#id2_1" class="nav-link">ざっくりまとめ</a></li>
+<li class="nav-item toc-h2"><a href="#id2_2" class="nav-link">なんで作ったの</a></li>
+<li class="nav-item toc-h2"><a href="#id2_3" class="nav-link">こぼれ話</a></li>
+<li class="nav-item toc-h3"><a href="#id3_4" class="nav-link">可変長の設定はできないっぽい</a></li>
+<li class="nav-item toc-h3"><a href="#id3_5" class="nav-link">正規表現ってなに</a></li>
+<li class="nav-item toc-h3"><a href="#id3_6" class="nav-link">見出しのレベルをスキップしたとき</a></li>
+<li class="nav-item toc-h3"><a href="#id3_7" class="nav-link">見出しのアイコンを選べない</a></li>
+</ul>
+</nav>
+
+
+<main id="main" class="col-lg-8 py-3">
+<!-- 本文 -->
+<h2><a name="id2_1"></a>ざっくりまとめ <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<p>　Visual Studio Code略してVSCodeの拡張機能を作りました。</p>
+
+<div class="column">
+<p>RegExp Outline - Visual Studio Marketplace<br/>
+<a href="https://marketplace.visualstudio.com/items?itemName=longfish801.regexpOutline">https://marketplace.visualstudio.com/items?itemName=longfish801.regexpOutline</a></p>
+</div>
+
+<p>　プレーンテキストでも、たとえば行頭記号を目印に見出しとみなしてアウトラインを表示することができます。</p>
+
+<figure class="text-center">
+<a href="cap.png"><img src="cap.png" class="img-fluid" alt="アウトラインの生成サンプル"></a>
+
+</figure>
+
+<p>　拡張機能をインストールしてもVSCodeには英語のREADMEしか表示されません。<br/>
+　GitHubのほうに日本語版があります。<br/>
+　正確な機能はこちらを参照してください。</p>
+
+<div class="column">
+<p>regexpOutline/README.jp.md at main &middot; longfish801/regexpOutline<br/>
+<a href="https://github.com/longfish801/regexpOutline/blob/main/README.jp.md">https://github.com/longfish801/regexpOutline/blob/main/README.jp.md</a></p>
+</div>
+
+<p>　READMEには書いてませんが、JSONを一行に圧縮するには以下のようなWebサービスを利用すれば簡単にできます。</p>
+
+<div class="column">
+<p>JSON整形ツール：JSON Formatter | OneEngineer<br/>
+<a href="https://one-ap-engineer.com/tools/json-formatter/">https://one-ap-engineer.com/tools/json-formatter/</a></p>
+</div>
+
+<h2><a name="id2_2"></a>なんで作ったの <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<p>　仕事の都合でVSCodeを使うことになりました。<br/>
+　<a href="https://www.wzsoft.jp/">WZ Editor</a>や<a href="https://sakura-editor.github.io/">サクラエディタ</a>にはプレーンテキストであっても行頭記号で見出しとみなしてアウトラインを表示する機能があります。<br/>
+　世界中の人が使っているVSCodeさんなら、それくらい余裕でやってくれるだろう&hellip;&hellip;と思ったら、どうもダメみたいでした。</p>
+
+<div class="column">
+<p>VSCode プレーンテキストでのアウトラインを行いたい - スタック・オーバーフロー<br/>
+<a href="https://ja.stackoverflow.com/questions/52147/vscode-%E3%83%97%E3%83%AC%E3%83%BC%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E8%A1%8C%E3%81%84%E3%81%9F%E3%81%84">https://ja.stackoverflow.com/questions/52147/vscode-%E3%83%97%E3%83%AC%E3%83%BC%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E8%A1%8C%E3%81%84%E3%81%9F%E3%81%84</a><br/>
+visual studio code - Outline for text file? - Stack Overflow<br/>
+<a href="https://stackoverflow.com/questions/67799602/outline-for-text-file">https://stackoverflow.com/questions/67799602/outline-for-text-file</a></p>
+</div>
+
+<p>　くわえて趣味で<a href="/maven/tpac/notation.html">tpac記法</a>という独自の仕様を作っていました。<br/>
+　独自の仕様ですから、自分がやらないかぎり誰もこれをアウトライン表示してくれる拡張機能なんて作ってくれないわけです。</p>
+
+<p>　ネット検索してみると日本語での解説記事がけっこうみつかり（感謝！）これなら自分でも作れるかと感じました。</p>
+
+<div class="column">
+<p>VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜 - Qiita<br/>
+<a href="https://qiita.com/HelloRusk/items/073b58c1605de224e67e">https://qiita.com/HelloRusk/items/073b58c1605de224e67e</a><br/>
+vscode拡張機能作成　逆引き辞典 - Qiita<br/>
+<a href="https://qiita.com/OrukRed/items/e3b7fa5532e8dc69d809#%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BC%E3%81%B8%E3%81%AE%E9%A0%85%E7%9B%AE%E8%A1%A8%E7%A4%BA">https://qiita.com/OrukRed/items/e3b7fa5532e8dc69d809#%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BC%E3%81%B8%E3%81%AE%E9%A0%85%E7%9B%AE%E8%A1%A8%E7%A4%BA</a><br/>
+VSCode の拡張機能を作ってみる | マイナビエンジニアブログ<br/>
+<a href="https://engineerblog.mynavi.jp/technology/make-vscode-newfunction/">https://engineerblog.mynavi.jp/technology/make-vscode-newfunction/</a><br/>
+VisualStudio Code ExtensionのMarketplaceへの公開方法 - Hello Ys world ?<br/>
+<a href="https://ysss.hateblo.jp/entry/20200710/1594307803">https://ysss.hateblo.jp/entry/20200710/1594307803</a></p>
+</div>
+
+<p>　時間は計っていなかったんですが、感覚的には仕事として（つまり一日あたり八時間労働で）やっていたら、軽く一週間近く（もちろん五営業日ってことですよ）はかかったんじゃないかなー。</p>
+
+<h2><a name="id2_3"></a>こぼれ話 <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h2>
+
+<p>　以下、脈絡なくこぼれ話をして終わります。</p>
+
+<h3><a name="id3_4"></a>可変長の設定はできないっぽい <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h3>
+
+<p>　恐らくREADMEを読んだ人みんながツッコむのは「なんで設定がJSONなんだよ！」でしょうか。<br/>
+　これはですね&hellip;&hellip;俺が悪いんじゃない（開き直り）。</p>
+
+<p>　ファイルの拡張子毎に見出しのルールを設定したかったんです。<br/>
+　あと見出しのレベルも必要に応じて何段階でも指定できるようにしたかったんです。<br/>
+　設定できる拡張子やレベルの数の上限を決めない、いわば可変長の設定がどうもできないっぽいんですよね。<br/>
+　公式サイトの記述をしっかり読めばどこかにやり方が書いてあるかもしれませんが&hellip;&hellip;英語という高い壁がありまして。</p>
+
+<p>　苦肉の作でJSONによる指定にしたわけです。<br/>
+　悪しからず。</p>
+
+<h3><a name="id3_5"></a>正規表現ってなに <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h3>
+
+<p>　まあ、システムエンジニアとかでなければ「正規表現ってなに？」ですよね&hellip;&hellip;。</p>
+
+<p>　恐らく行頭記号を目印に見出しとしたい人が大半でしょう。<br/>
+　だから行頭記号あるいは正規表現で指定できます、としたほうが間口は広がりますね。</p>
+
+<p>　じゃあ、なんで正規表現での指定オンリーかといえば、そりゃもちろん、面倒くさかったからです。<br/>
+　気が向いたら改善するとしましょう。</p>
+
+<h3><a name="id3_6"></a>見出しのレベルをスキップしたとき <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h3>
+
+<p>　VSCodeのアウトラインはツリー形式で表示されます。<br/>
+　したがって、本来ならH1の次はH2、H2の次はH3と、見出しのレベルはひとつずつ大きくならなければなりません。</p>
+
+<p>　ところがぎっちょん。<br/>
+　上記の画面キャプチャの「▼３－１」あたりを見てもらえばわかりますが、H1の次にH3が来てもアウトラインに表示されます。</p>
+
+<p>　そもそもアウトラインの目的のひとつは、表示位置の移動を楽にすることです。<br/>
+　テキストがまだ作成の途中であっても、見出しであればアウトラインに表示したいわけで。<br/>
+　レベルをスキップしても表示されるようにしています。</p>
+
+<h3><a name="id3_7"></a>見出しのアイコンを選べない <div class="float-end fs-6"><a href="#header"><i class="bi bi-chevron-double-up"></i></a></div></h3>
+
+<p>　これも、気にする人はいないだろうと思ってREADMEに書かなかったこと。<br/>
+　アウトラインには見出し毎にアイコンも表示されます。<br/>
+　これはソースコードのほうでは SymbolKindで指定するんですが、以下のとおりClassとかFunctionとかソースコードを想定したものばかり。<br/>
+　HTMLのH1みたいに文書を想定したものがないんですよね。</p>
+
+<div class="column">
+<p>vscode.SymbolKind - Haxe externs for Visual Studio Code - API documentation<br/>
+<a href="https://vshaxe.github.io/vscode-extern/vscode/SymbolKind.html">https://vshaxe.github.io/vscode-extern/vscode/SymbolKind.html</a></p>
+</div>
+
+<p>　しょうがないのでファイル先頭/終端やレベル１～３のアイコンだけ種類を変えて、レベル４以上は一律同じアイコンとしました。</p>
+
+<ul>
+<li>ファイル先頭/終端：SymbolKind.File</li>
+<li>レベル１：SymbolKind.Package</li>
+<li>レベル２：SymbolKind.Class</li>
+<li>レベル３：SymbolKind.Method</li>
+<li>レベル４以上：SymbolKind.Variable</li>
+</ul>
+
+<p>　ネット検索すると、どうもアイコンを改造する手段がなくもないようですが&hellip;&hellip;英語がね&hellip;&hellip;。</p>
+
+
+
+
+</main>
+
+</div><!-- end of row -->
+
+<!-- フッター -->
+<footer id="footer" class="row justify-content-center py-3 text-end">
+
+<div id="banner"><a href="/"><img src="/img/avatar.png" alt="*the long fish*" width="150" height="150"></a></div>
+<div id="copy">&copy; 2023 Sugimoto@MNU-No10 All rights reserved.</div>
+
+<hr/>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/script/main.js" type="module"></script>
+
+</body>
+</html>
