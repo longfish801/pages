@@ -16,9 +16,7 @@
 【引用－】
 
 【－変換済：html】
-<div class="amathum">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=longfish80102-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B082ZLFY65&linkId=cb527aa56dde7a66170c8951ac84bb44"></iframe>
-</div>
+<div class="amathum" id="Books:ASIN:B082ZLFY65:Large"><a href="https://amzn.to/3w1QLbf" target="_blank"><img src="img/cover.png" alt="小田牧央 探偵が推理を殺す 多元化する社会と本格ミステリ" width="300"></a></div>
 【変換済－】
 
 　“終焉”そして“衰退期”。

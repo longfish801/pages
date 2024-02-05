@@ -5,21 +5,19 @@
 
 ■ご紹介
 
+【－変換済：html】
+<div class="amathum" id="Books:ASIN:B01ILAYVUK:Medium"><a href="https://amzn.to/3w4e3NI" target="_blank"><img src="img/cover1.png" alt="小田牧央 鉄錆風味歪夢〈猟奇編〉" width="150"></a></div>
+【変換済－】
+【－変換済：html】
+<div class="amathum" id="Books:ASIN:B01ILAYVXC:Medium"><a href="https://amzn.to/42pzdSE" target="_blank"><img src="img/cover2.png" alt="小田牧央 鉄錆風味歪夢〈寂滅編〉" width="150"></a></div>
+【変換済－】
+
 　以前サイトで公開していた掌編集『鉄錆風味歪夢』からの自選集です。2008年11月に、第七回文学フリマにて初頒布しました。
 　夢野久作〈猟奇歌〉をモチーフとしています。原稿用紙で数枚程度の、ごく短い話を収めています。
 　恐怖色の強い作品を集めた〈猟奇編〉と、幻想味のある作品を選んだ〈寂滅編〉の二冊があります。また〈寂滅編〉には短編小説「熱病」を併録します。
 
 　2016年７月に、電子書籍版をAmazon Kindleストアから刊行開始しました。
 　よろしければ以下の書影リンクからご購入ください。
-
-【－変換済：html】
-<figure class="text-center">
-<!-- 猟奇編 -->
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=longfish80102-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01ILAYVUK&linkId=ad93d7fcdae573e7299aa3f339132d44"></iframe>
-<!-- 寂滅編 -->
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=longfish80102-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01ILAYVXC&linkId=e650db75604fabdafed04d60a3928bbc"></iframe>
-</figure>
-【変換済－】
 
 ■試供品
 　サイト公開当時のものから、以下に三作品を試供品として公開します。書籍版、電子書籍版では推敲を加えるなどしています。
