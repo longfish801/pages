@@ -10,12 +10,12 @@
 			if (doc.font == null) doc.font = 'serif'
 			break
 		case 'text':
-			commonCss = '/pages/material/text.css'
+			commonCss = '/css/text.css'
 			eachCss = null
 			if (doc.font == null) doc.font = 'gothic'
 			break
 		case 'original':
-			commonCss = '/pages/material/base.css'
+			commonCss = '/css/base.css'
 			if (doc.font == null) doc.font = 'gothic'
 			break
 		default:
@@ -44,10 +44,6 @@
 <!--
 body {
 	font-family: ${fontFamily};
-	letter-spacing: 0.1rem;
-	line-height: 2.3rem;
-	text-align: justify;
-	word-wrap: break-word;
 }
 <% if (resultKey == 'index' && doc.titleImage != null){ %>
 h1 {

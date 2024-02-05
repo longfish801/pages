@@ -1,5 +1,5 @@
 @charset 'utf-8';
-@import 'base.css';
+@import '/css/base.css';
 
 body {
 	color: #FCFCFC;
