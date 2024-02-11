@@ -8,6 +8,7 @@
 【－変換済：html】
 <div class="amathum" id="Books:ASIN:B01ILAYVUK:Medium"><a href="https://amzn.to/3w4e3NI" target="_blank"><img src="img/cover1.png" alt="小田牧央 鉄錆風味歪夢〈猟奇編〉" width="150"></a></div>
 【変換済－】
+
 【－変換済：html】
 <div class="amathum" id="Books:ASIN:B01ILAYVXC:Medium"><a href="https://amzn.to/42pzdSE" target="_blank"><img src="img/cover2.png" alt="小田牧央 鉄錆風味歪夢〈寂滅編〉" width="150"></a></div>
 【変換済－】

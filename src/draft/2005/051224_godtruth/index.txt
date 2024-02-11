@@ -9,9 +9,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784062705769:Medium">
-<a href="https://www.amazon.co.jp/%E7%A5%9E%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E9%BA%BB%E8%80%B6-%E9%9B%84%E5%B5%A9/dp/4062705761?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=a964151667363205051341ea034cdc27&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062705761&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4062705761" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784062705769" data-keyword="神様ゲーム ミステリーランド 麻耶 雄嵩"></div>
 【変換済－】
 
 ■まずは作品紹介

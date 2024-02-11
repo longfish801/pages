@@ -10,9 +10,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784062838627:Medium">
-<a href="https://www.amazon.co.jp/%E6%B2%B3%E5%8E%9F%E7%94%BA%E3%83%AB%E3%83%B4%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%AB-%E8%AC%9B%E8%AB%87%E7%A4%BEBOX-%E5%86%86%E5%B1%85-%E6%8C%BD/dp/4062838621?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=77b9795395b0bcb11e4f18e6a5bfa94f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062838621&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4062838621" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784062838627" data-keyword="河原町ルヴォワール 講談社BOX 円居 挽"></div>
 【変換済－】
 
 　蔵竜の間、臥虎の間で、それぞれどのようなやりとりがされていたか表に整理した。この文章の後にそれを載せる。もし小説の内容について記憶が薄れているようであれば、そちらを先に参照していただきたい。
@@ -199,7 +197,6 @@
 		<td>落龍疫で死んだ落花の母は、サントアリオに献体された。それが龍門堰に運ばせた死体だったことを明かす撫子［落花］。<br>「龍樹流、落花戻し……自分を生き返したんは初めてやな」(p.210)<br>大和はそもそも慈恩に仇打ちするため青蓮院に入った。慈恩から落花の抹殺指令を受けた大和が、それを誤魔化し、これを機会に宿願を果たすべく落花に相談した。<br>慈恩［黄昏卿］が落花をサントアリオ送りにするよう命じるが、誰も動かない。大和が青蓮院を裏切っていたことを明かす。達也が雷霆の一撃を見舞う。<br>「双龍会は二つあったんだ」(p.212)<br></td>
 	</tr>
 </table>
-
 <!-- Converting Done at Apr 19, 2014 22:06 -->
 <!-- Converter was made by AGATASHI mailto:agata@iis.u-tokyo.ac.jp -->
 【変換済－】

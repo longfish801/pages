@@ -10,9 +10,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:978-4065170946:Medium">
-<a href="https://www.amazon.co.jp/medium-%E9%9C%8A%E5%AA%92%E6%8E%A2%E5%81%B5%E5%9F%8E%E5%A1%9A%E7%BF%A1%E7%BF%A0-%E7%9B%B8%E6%B2%A2-%E6%B2%99%E5%91%BC/dp/406517094X?&linkCode=li2&tag=&linkId=480c272e646e82912033482855a22d23&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=406517094X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=&language=ja_JP&l=li2&o=9&a=406517094X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="978-4065170946" data-keyword="medium 霊媒探偵城塚翡翠 相沢 沙呼"></div>
 【変換済－】
 
 　相沢沙呼は『午前零時のサンドリヨン』で第一九回鮎川哲也賞を受賞し二〇〇九年にデビュー。ミステリに限らずライトノベルや漫画原作、青春小説と多方面に才能を発揮してきた。『小説の神様』（二〇一六年）は実写映画化、手名町紗帆の作画によるコミカライズがされ、『マツリカ・マトリョシカ』（二〇一七年）は第一八回本格ミステリ大賞小説部門の候補に選ばれた。
@@ -130,4 +128,3 @@ https://mystery-reviews.com/content/book_select?id=13236
 【＊註記：詐欺師トリックの事例】
 私が詐欺師トリックの事例として真っ先に思い浮かんだのは【｜隠蔽】米澤穂信【隠蔽｜】の【｜隠蔽】『秋期限定栗きんとん事件』【隠蔽｜】（二〇〇九年）だった。極端な話、【｜隠蔽】江戸川乱歩【隠蔽｜】の【｜隠蔽】「二銭銅貨」【隠蔽｜】（一九二三年）からしてそうだろう。
 【註記＊】
-

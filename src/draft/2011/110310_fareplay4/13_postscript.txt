@@ -6,9 +6,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784523264675:Medium">
-<a href="https://www.amazon.co.jp/%E6%8E%A2%E5%81%B5%E5%B0%8F%E8%AA%AC%E3%81%AE%E8%AB%96%E7%90%86%E5%AD%A6-%E5%B0%8F%E6%A3%AE-%E5%81%A5%E5%A4%AA%E6%9C%97/dp/4523264678?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=4ba26585da686d81ccc352f8b4dd14b5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4523264678&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4523264678" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784523264675" data-keyword="探偵小説の論理学 小森 健太朗"></div>
 【変換済－】
 
 　さて、ここまでおつきあいいただいた読者は、ようやく後期クイーン問題入門の扉を叩いたことになる。
@@ -20,4 +18,3 @@
 
 　現実とは、私たちが当然のものとして思い込んでいる現実概念よりも、遙かに広い。人間を描くことは、私たちが当然のものとして思い込んでいる等身大の人間を描くことだけではない。本格ミステリはすました顔で我こそ現実中の現実でございと威張るようでいて、いつのまにか蓋然性と単純性の目盛りをあってはならぬ方向へずらし、虚構と現実の境界線を軽やかに越える鮮やかな魔法をみせてきた。
 　現実という概念は変わり続ける。物語内真実の共有という契約に縛された本格ミステリは、絶えず自身の姿を改め続けなければならない宿業を背負っている。冒頭に述べた言葉をここに繰り返そう。虚構と現実の境界線という命題はあまりに古く、そして常に新しい。願わくば拙稿が、受け継がれてきた遺産を更に先へと進めるための、小さな踏み石となることを望む。
-

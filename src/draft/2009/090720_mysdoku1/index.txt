@@ -11,15 +11,11 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784488451059:Medium">
-<a href="https://www.amazon.co.jp/%E7%A7%8B%E6%9C%9F%E9%99%90%E5%AE%9A%E6%A0%97%E3%81%8D%E3%82%93%E3%81%A8%E3%82%93%E4%BA%8B%E4%BB%B6%E3%80%88%E4%B8%8A%E3%80%89-%E5%89%B5%E5%85%83%E6%8E%A8%E7%90%86%E6%96%87%E5%BA%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4488451055?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=95628b04cc8e4f1869c9cc73f0d116a7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4488451055&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4488451055" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784488451059" data-keyword="秋期限定栗きんとん事件〈上〉 創元推理文庫 米澤 穂信"></div>
 【変換済－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784488451066:Medium">
-<a href="https://www.amazon.co.jp/%E7%A7%8B%E6%9C%9F%E9%99%90%E5%AE%9A%E6%A0%97%E3%81%8D%E3%82%93%E3%81%A8%E3%82%93%E4%BA%8B%E4%BB%B6-%E4%B8%8B-%E5%89%B5%E5%85%83%E6%8E%A8%E7%90%86%E6%96%87%E5%BA%AB-%E3%82%88-1-6/dp/4488451063?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=12fe3a78337a7373af53bf4674677ae8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4488451063&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4488451063" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784488451066" data-keyword="秋期限定栗きんとん事件 下 創元推理文庫 よ 1 6"></div>
 【変換済－】
 
 ・【リンク：スタッフじゃないけど杉本が勝手に作ったカウンターレジュメ（要虫眼鏡）：resume.png】
@@ -52,15 +48,11 @@
 　小鳩くんはＭなのか否か。小鳩くんはプライドが高いから、そういう属性があっても自覚ができない。ファミレスで推理に失敗した（下巻p.70）のも、仲丸さんとの関係悪化に動揺してたのかも。堂島健吾に『お前は結局、小市民じゃないんだよ』(下巻p.139）とシリアスに迫られても「ケータイのバッテリーは大事にしようよ」とスルーするところなんか実にいい。
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784757522305:Medium">
-<a href="https://www.amazon.co.jp/%E6%98%A5%E6%9C%9F%E9%99%90%E5%AE%9A%E3%81%84%E3%81%A1%E3%81%94%E3%82%BF%E3%83%AB%E3%83%88%E4%BA%8B%E4%BB%B6-%E5%89%8D-G%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4757522304?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=1faa9c87e9837324e37afbe27264ff79&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757522304&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4757522304" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784757522305" data-keyword="春期限定いちごタルト事件 前 Gファンタジーコミックス 米澤 穂信"></div>
 【変換済－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784757524873:Medium">
-<a href="https://www.amazon.co.jp/%E6%98%A5%E6%9C%9F%E9%99%90%E5%AE%9A%E3%81%84%E3%81%A1%E3%81%94%E3%82%BF%E3%83%AB%E3%83%88%E4%BA%8B%E4%BB%B6-%E5%BE%8C-G%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4757524870?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=8a68d7302bbb7a158a8ca190abf699cd&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757524870&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4757524870" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784757524873" data-keyword="春期限定いちごタルト事件 後 Gファンタジーコミックス 米澤 穂信"></div>
 【変換済－】
 
 　休憩時間、マンガ版についての話題になる。オリジナルエピソードで明かされる驚愕の事実、【重要：小佐内さんは○○○○○○○だった！】スイーツを買うお金はそれで稼いでいた！ しかも「こんなんじゃ物足りない」とか言ってる！

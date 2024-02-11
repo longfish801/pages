@@ -10,9 +10,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784062766456:Medium">
-<a href="https://www.amazon.co.jp/%E9%A6%96%E7%84%A1%E3%81%AE%E5%A6%82%E3%81%8D%E7%A5%9F%E3%82%8B%E3%82%82%E3%81%AE-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%B8%89%E6%B4%A5%E7%94%B0-%E4%BF%A1%E4%B8%89/dp/4062766450?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=671b906ea16224b4ea9c7c7d49f9416a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062766450&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4062766450" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784062766456" data-keyword="首無の如き祟るもの 講談社文庫 三津田 信三"></div>
 【変換済－】
 
 　2015.10.11(日)、MYSDOKU17に参加してきました。課題本は三津田信三『首無の如き祟るもの』。今回はいつもより時間帯が遅く、18時に開始して20時半に終了。会場はＪＲ蒲田駅近く、大田区消費者生活センターの第１集会室。

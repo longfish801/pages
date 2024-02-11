@@ -6,27 +6,21 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784592850113:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%A4%E3%82%BE%E3%83%AB%E3%83%87%E3%81%AE%E5%BA%AD-%E7%99%BD%E6%B3%89%E7%A4%BEMy%E6%96%87%E5%BA%AB-%E4%BC%8A%E7%A5%9E-%E8%B2%B4%E4%B8%96/dp/4592850114?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4592850114"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/3135kDb%2BAtL._SL160_.jpg" alt="伊神貴世 / イゾルデの庭 (白泉社My文庫) / 白泉社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784592850113" data-keyword="イゾルデの庭 白泉社My文庫 伊神 貴世"></div>
 【変換済－】
 
 ■伊神 貴世『イゾルデの庭』(白泉社My文庫)
 “ワーグナーの楽劇「トリスタンとイゾルデ」をテーマに、西洋館のステンドグラスに込められた想いを推理してゆくという展開で、いささか〈建築探偵桜井京介の事件簿〉めいた色彩がある。”（鷹03）
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784840220279:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%82%AA%E9%AD%94%E3%81%AE%E3%83%9F%E3%82%AB%E3%82%BF%E2%80%95%E9%AD%94%E6%B3%95%E3%82%AB%E3%83%A1%E3%83%A9-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E3%81%86%E3%81%88%E3%81%8A-%E4%B9%85%E5%85%89/dp/4840220271?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4840220271"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51vpZLBMnoL._SL160_.jpg" alt="うえお久光 / 悪魔のミカタ―魔法カメラ (電撃文庫) / メディアワークス"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784840220279" data-keyword="悪魔のミカタ―魔法カメラ 電撃文庫 うえお 久光"></div>
 【変換済－】
 
 ■うえお 久光『悪魔のミカタ 魔法カメラ』(電撃文庫)
 高校生、堂島コウのもとへ自称“悪魔”の少女が押しかける。誰かが魔法のカメラを使ったので代償として魂をもらいに来たのだという。悪魔のミカタとしてコウは所有者探しを始めた。第8回電撃ゲーム小説大賞銀賞
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161609:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%83%AC%E3%83%B3%E3%83%86%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E5%A4%AA%E7%94%B0-%E5%BF%A0%E5%8F%B8/dp/4829161604?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161604"><img border="0" width="99" height="140" src="https://images-fe.ssl-images-amazon.com/images/I/21ZNV893ZJL._SL160_.jpg" alt="太田忠司 / レンテンローズ (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161609" data-keyword="レンテンローズ 富士見ミステリー文庫 太田 忠司"></div>
 【変換済－】
 
 ■太田 忠司『レンテンローズ』(富士見ミステリー文庫)
@@ -38,9 +32,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0503hon3.htm#050325
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784048733908:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/GOTH%E2%80%95%E3%83%AA%E3%82%B9%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%BA%8B%E4%BB%B6-%E4%B9%99%E4%B8%80/dp/4048733907?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4048733907"><img border="0" width="108" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41HJZ7QWYRL._SL160_.jpg" alt="乙一 / GOTH―リストカット事件 / 角川書店"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784048733908" data-keyword="GOTH―リストカット事件 乙一"></div>
 【変換済－】
 
 ■乙 一『GOTH リストカット事件』(角川書店)
@@ -52,9 +44,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0210hon3.htm#021022
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784344402140:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%9A%97%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7%E5%BE%85%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E4%B9%99%E4%B8%80/dp/4344402146?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4344402146"><img border="0" width="104" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/516H4XQVRHL._SL160_.jpg" alt="乙一 / 暗いところで待ち合わせ (幻冬舎文庫) / 幻冬舎"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784344402140" data-keyword="暗いところで待ち合わせ 幻冬舎文庫 乙一"></div>
 【変換済－】
 
 ■乙 一『暗いところで待ち合わせ』(幻冬舎文庫)
@@ -66,9 +56,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0210hon.htm#021001
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161463:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%89%99%E7%8E%8B%E5%9F%8E%E3%81%AE%E6%AE%BA%E5%8A%87%E2%80%95%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E6%8E%A2%E5%81%B5%E5%9B%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%80%881%E3%80%89-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E9%9C%9E-%E6%B5%81%E4%B8%80/dp/4829161469?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161469"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51ZF38D5KBL._SL160_.jpg" alt="霞流一 / 牙王城の殺劇―フォート探偵団ファイル〈1〉 (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161463" data-keyword="牙王城の殺劇―フォート探偵団ファイル〈1〉 富士見ミステリー文庫 霞 流一"></div>
 【変換済－】
 
 ■霞 流一『牙王城の殺劇 フォート探偵団ファイル1』(富士見ミステリー文庫)
@@ -80,18 +68,14 @@ http://www5a.biglobe.ne.jp/~sakatam/book/r035.html#fort1
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784061822825:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%B5%B7%E8%B3%8A%E5%B3%B6%E4%BA%8B%E4%BB%B6-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E4%B8%8A%E9%81%A0%E9%87%8E-%E6%B5%A9%E5%B9%B3/dp/4061822829?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061822829"><img border="0" width="98" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51K3H9GBWML._SL160_.jpg" alt="上遠野浩平 / 海賊島事件 (講談社ノベルス) / 講談社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784061822825" data-keyword="海賊島事件 講談社ノベルス 上遠野 浩平"></div>
 【変換済－】
 
 ■上遠野 浩平『海賊島事件』(講談社ノベルス)
 〈戦地調停士シリーズ〉第3作。世捨て人の集まるサロン・落日宮で夜壬琥姫の死体が密室状態でみつかった。犯人と目される魔導芸術家は治外法権の海賊島へと逃げこみ、海賊組織と帝国軍は一瞬即発状態に。
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784592850106:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88%E8%8D%98%E4%BA%8B%E4%BB%B6-%E7%99%BD%E6%B3%89%E7%A4%BEMy%E6%96%87%E5%BA%AB-%E5%8C%97%E5%B1%B1-%E7%8C%9B%E9%82%A6/dp/4592850106?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4592850106"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/31Q8j1uVjXL._SL160_.jpg" alt="北山猛邦 / アルファベット荘事件 (白泉社My文庫) / 白泉社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784592850106" data-keyword="アルファベット荘事件 白泉社My文庫 北山 猛邦"></div>
 【変換済－】
 
 ■北山 猛邦『アルファベット荘事件』(白泉社My文庫)
@@ -103,9 +87,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0501hon2.htm#050118
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784061822443:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%9B%9B%E6%9C%88%E3%81%AF%E9%9C%A7%E3%81%AE00%E5%AF%86%E5%AE%A4-%E7%A7%81%E7%AB%8B%E9%9C%A7%E8%88%8E%E5%AD%A6%E5%9C%92%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E7%99%BD%E6%9B%B8-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E9%9C%A7%E8%88%8E-%E5%B7%A7/dp/4061822446?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061822446"><img border="0" width="97" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51E2ZJP1CQL._SL160_.jpg" alt="霧舎巧 / 四月は霧の00密室 私立霧舎学園ミステリ白書 (講談社ノベルス) / 講談社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784061822443" data-keyword="四月は霧の00密室 私立霧舎学園ミステリ白書 講談社ノベルス 霧舎 巧"></div>
 【変換済－】
 
 ■霧舎 巧『四月は霧の00密室　私立霧舎学園ミステリ白書』(講談社ノベルス)
@@ -117,9 +99,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0301hon.htm#030101
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784199051210:Medium">
-<a href="https://www.amazon.co.jp/%E5%86%85%E5%AE%87%E5%AE%99%E3%81%B8%E3%81%AE%E6%97%85-%E5%BE%B3%E9%96%93%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E6%96%87%E5%BA%AB-%E5%80%89%E9%98%AA-%E9%AC%BC%E4%B8%80%E9%83%8E/dp/419905121X?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=3d378bc2f9810f4cad8123a6bcc57efd&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=419905121X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=419905121X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784199051210" data-keyword="内宇宙への旅 徳間デュアル文庫 倉阪 鬼一郎"></div>
 【変換済－】
 
 ■倉阪 鬼一郎『内宇宙への旅』(徳間デュアル文庫)
@@ -131,9 +111,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0312hon3.htm#031225
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784061822726:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E7%8C%AB%E4%B8%B8%E5%85%88%E8%BC%A9%E3%81%AE%E6%8E%A8%E6%B8%AC-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E5%80%89%E7%9F%A5-%E6%B7%B3/dp/4061822721?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061822721"><img border="0" width="98" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/5119A2ZSSYL._SL160_.jpg" alt="倉知淳 / 猫丸先輩の推測 (講談社ノベルス) / 講談社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784061822726" data-keyword="猫丸先輩の推測 講談社ノベルス 倉知 淳"></div>
 【変換済－】
 
 ■倉知 淳『猫丸先輩の推測』(講談社ノベルス)
@@ -145,9 +123,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0211hon3.htm#021129
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784592850076:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%98%98%E3%81%A4%E3%81%8D%E3%83%91%E3%82%BA%E3%83%AB%E2%80%95%E7%A9%B6%E6%A5%B5%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%E8%AA%95%E7%94%9F-%E7%99%BD%E6%B3%89%E7%A4%BEMy%E6%96%87%E5%BA%AB-%E9%BB%92%E7%94%B0-%E7%A0%94%E4%BA%8C/dp/4592850076?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4592850076"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/410j6i5FUbL._SL160_.jpg" alt="黒田研二 / 嘘つきパズル―究極の名探偵誕生 (白泉社My文庫) / 白泉社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784592850076" data-keyword="嘘つきパズル―究極の名探偵誕生 白泉社My文庫 黒田 研二"></div>
 【変換済－】
 
 ■黒田 研二『嘘つきパズル　究極の名探偵★誕生』(白泉社My文庫)
@@ -159,18 +135,14 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0208hon.htm#020802
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784757506701:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB-%E6%8E%A8%E7%90%86%E3%81%AE%E7%B5%86%E3%80%882%E3%80%89%E9%8B%BC%E9%89%84%E7%95%AA%E9%95%B7%E3%81%AE%E5%AF%86%E5%AE%A4-COMIC-NOVELS-%E5%9F%8E%E5%B9%B3/dp/4757506708?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4757506708"><img border="0" width="102" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51982A7RFML._SL160_.jpg" alt="城平京 / 小説スパイラル 推理の絆〈2〉鋼鉄番長の密室 (COMIC NOVELS) / エニックス"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784757506701" data-keyword="小説スパイラル 推理の絆〈2〉鋼鉄番長の密室 COMIC NOVELS 城平"></div>
 【変換済－】
 
 ■城平 京『小説 スパイラル ～推理の絆～ <2>　鋼鉄番長の密室』(エニックスCOMIC NOVELS)
 高校生・鳴海歩は夜の公園でバレエを踊る少女と知りあう。後日再会した少女は新聞部部長、結崎ひよのに依頼する。「４０年前に密室で自殺した鋼鉄番長の死の真相を突き止めて」
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784044285012:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%81%BF%E3%81%99%E3%81%A6%E3%82%8A%E3%81%82%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AD%E3%81%A3%E3%81%A8-%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E6%96%87%E5%BA%AB-%E6%B8%85%E6%B6%BC%E9%99%A2-%E6%B5%81%E6%B0%B4/dp/4044285012?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4044285012"><img border="0" width="99" height="140" src="https://images-fe.ssl-images-amazon.com/images/I/21QJXHEMG2L._SL160_.jpg" alt="清涼院流水 / みすてりあるキャラねっと (角川スニーカー文庫) / 角川書店"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784044285012" data-keyword="みすてりあるキャラねっと 角川スニーカー文庫 清涼院 流水"></div>
 【変換済－】
 
 ■清涼院 流水『みすてりあるキャラねっと』(角川スニーカー文庫 スニーカー・ミステリ倶楽部)
@@ -182,9 +154,7 @@ http://www.ct.sakura.ne.jp/~im-tower/CJ/CJ-06.html
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784199051029:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%AE%87%E5%AE%99%E6%8D%9C%E6%9F%BB%E8%89%A6%E3%80%8C%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%B9%E3%80%8D-%E5%BE%B3%E9%96%93%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E6%96%87%E5%BA%AB-%E4%BA%8C%E9%9A%8E%E5%A0%82-%E9%BB%8E%E4%BA%BA/dp/4199051023?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4199051023"><img border="0" width="108" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/6139H1CTF3L._SL160_.jpg" alt="二階堂黎人 / 宇宙捜査艦「ギガンテス」 (徳間デュアル文庫) / 徳間書店"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784199051029" data-keyword="宇宙捜査艦「ギガンテス」 徳間デュアル文庫 二階堂 黎人"></div>
 【変換済－】
 
 ■二階堂 黎人『宇宙捜査艦《ギガンテス》』(徳間デュアル文庫)
@@ -196,9 +166,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0603hon2.htm#060311
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784061822337:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E3%82%AF%E3%83%93%E3%82%AD%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E9%9D%92%E8%89%B2%E3%82%B5%E3%83%B4%E3%82%A1%E3%83%B3%E3%81%A8%E6%88%AF%E8%A8%80%E9%81%A3%E3%81%84-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E8%A5%BF%E5%B0%BE-%E7%B6%AD%E6%96%B0/dp/4061822330?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061822330"><img border="0" width="97" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51EC63XX4XL._SL160_.jpg" alt="西尾維新 / クビキリサイクル 青色サヴァンと戯言遣い (講談社ノベルス) / 講談社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784061822337" data-keyword="クビキリサイクル 青色サヴァンと戯言遣い 講談社ノベルス 西尾 維新"></div>
 【変換済－】
 
 ■西尾 維新『クビキリサイクル　青色サヴァンと戯言遣い』(講談社ノベルス)
@@ -210,9 +178,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0208hon3.htm#020829
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161807:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E9%87%91%E3%81%AE%E7%9E%B3%E3%81%AE%E5%A5%B3%E7%A5%9E%E2%80%95%E3%83%AB%E3%83%BC%E3%82%AF-%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%A2-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E8%91%89%E5%B1%B1-%E9%80%8F/dp/4829161809?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161809"><img border="0" width="99" height="140" src="https://images-fe.ssl-images-amazon.com/images/I/21CG99VVXYL._SL160_.jpg" alt="葉山透 / 金の瞳の女神―ルーク&amp;レイリア (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161807" data-keyword="金の瞳の女神―ルーク レイリア 富士見ミステリー文庫 葉山 透"></div>
 【変換済－】
 
 ■葉山 透『金の瞳の女神　ルーク&レイリア』(富士見ミステリー文庫)
@@ -224,9 +190,7 @@ http://www.booklines.net/archives/475804015X.php
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161623:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E4%BB%AE%E6%83%B3%E4%B8%96%E7%95%8C%E3%81%AE%E5%84%AA%E3%81%97%E3%81%84%E5%A5%87%E8%B7%A1%E2%80%95Mr-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%97%A9%E8%A6%8B-%E8%A3%95%E5%8F%B8/dp/4829161620?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161620"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51WACHQBPHL._SL160_.jpg" alt="早見裕司 / 仮想世界の優しい奇跡―Mr.サイレント (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161623" data-keyword="仮想世界の優しい奇跡―Mr サイレント 富士見ミステリー文庫 早見 裕司"></div>
 【変換済－】
 
 ■早見 裕司『Mr.サイレント 仮想世界の優しい奇跡』(富士見ミステリー文庫)
@@ -238,18 +202,14 @@ http://homepage1.nifty.com/kobayasi/book/200204.htm#hayami-101
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161821:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E8%87%AA%E5%BE%8B%E4%B8%96%E7%95%8C%E3%81%AE%E6%84%9B%E3%81%97%E3%81%84%E6%9C%AA%E6%9D%A5%E2%80%95Mr-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%80%882%E3%80%89-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%97%A9%E8%A6%8B-%E8%A3%95%E5%8F%B8/dp/4829161825?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161825"><img border="0" width="99" height="140" src="https://images-fe.ssl-images-amazon.com/images/I/21F42XZWH8L._SL160_.jpg" alt="早見裕司 / 自律世界の愛しい未来―Mr.サイレント〈2〉 (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161821" data-keyword="自律世界の愛しい未来―Mr サイレント〈2〉 富士見ミステリー文庫 早見 裕司"></div>
 【変換済－】
 
 ■早見 裕司『Mr.サイレント 自律世界の愛しい未来』(富士見ミステリー文庫)
 幼なじみの作った事件相談サイトに林晋一郎は今日も振り回される。住人すべてが惨殺された「呪いの村」伝説、その村へ行った弟を探してほしいという依頼が来る。ネット系日常の謎派短編集。
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161548:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%88%A6%E3%81%86%E5%B0%91%E5%A5%B3%E3%81%A8%E6%AE%8B%E9%85%B7%E3%81%AA%E5%B0%91%E5%B9%B4%E2%80%95%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%B7%B1%E8%A6%8B-%E7%9C%9F/dp/482916154X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=482916154X"><img border="0" width="112" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51SW5Z2JE3L._SL160_.jpg" alt="深見真 / 戦う少女と残酷な少年―ブロークン・フィスト (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161548" data-keyword="戦う少女と残酷な少年―ブロークン・フィスト 富士見ミステリー文庫 深見 真"></div>
 【変換済－】
 
 ■深見 真『戦う少女と残酷な少年　ブロークン・フィスト』(富士見ミステリー文庫)
@@ -261,18 +221,14 @@ http://www.geocities.jp/kirisakineko/moetan01.htm
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784829161708:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%82%B7%E3%81%A0%E3%82%89%E3%81%91%E3%81%AE%E9%81%A0%E3%81%84%E6%98%8E%E6%97%A5%E2%80%95%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%E3%80%882%E3%80%89-%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E6%96%87%E5%BA%AB-%E6%B7%B1%E8%A6%8B-%E7%9C%9F/dp/4829161701?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4829161701"><img border="0" width="113" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/5187VV4Y4AL._SL160_.jpg" alt="深見真 / 傷だらけの遠い明日―ブロークン・フィスト〈2〉 (富士見ミステリー文庫) / 富士見書房"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784829161708" data-keyword="傷だらけの遠い明日―ブロークン・フィスト〈2〉 富士見ミステリー文庫 深見 真"></div>
 【変換済－】
 
 ■深見 真『傷だらけの遠い明日 ブロークン・フィスト 2』(富士見ミステリー文庫)
 大浦高校空手部の二年生、羽山秋楽とヘタレの武田闘二。二人が見学する古流剣術の演武会で刀らしきものによる斬殺事件が起きる。しかし肝心の凶器がみつからない。
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784061822467:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AF%E5%AF%86%E5%AE%A4%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9-%E8%88%9E%E5%9F%8E-%E7%8E%8B%E5%A4%AA%E9%83%8E/dp/4061822462?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4061822462"><img border="0" width="98" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/51FFNANRJXL._SL160_.jpg" alt="舞城王太郎 / 世界は密室でできている。 (講談社ノベルス) / 講談社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784061822467" data-keyword="世界は密室でできている。 講談社ノベルス 舞城 王太郎"></div>
 【変換済－】
 
 ■舞城 王太郎『世界は密室でできている。』(講談社ノベルス)
@@ -284,9 +240,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0205hon2.htm#020516
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784575234473:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%8D%81%E5%85%AB%E3%81%AE%E5%A4%8F-%E5%85%89%E5%8E%9F-%E7%99%BE%E5%90%88/dp/4575234478?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4575234478"><img border="0" width="106" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/41W3PP0B23L._SL160_.jpg" alt="光原百合 / 十八の夏 / 双葉社"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784575234473" data-keyword="十八の夏 光原 百合"></div>
 【変換済－】
 
 ■光原 百合『十八の夏』(双葉社)
@@ -298,9 +252,7 @@ http://www.h4.dion.ne.jp/~fukuda/kyu/0208hon3.htm#020830
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784901234252:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E5%A5%B3%E5%AD%90%E5%A4%A7%E7%94%9F%E4%BC%9A%E8%A8%88%E5%A3%AB%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF-%E5%B1%B1%E7%94%B0-%E7%9C%9F%E5%93%89/dp/4901234250?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4901234250"><img border="0" width="102" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/414XE5QPGJL._SL160_.jpg" alt="山田真哉 / 女子大生会計士の事件簿 / 英治出版"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784901234252" data-keyword="女子大生会計士の事件簿 山田 真哉"></div>
 【変換済－】
 
 ■山田 真哉『女子大生会計士の事件簿』(英治出版)
@@ -312,9 +264,7 @@ http://www.cam.hi-ho.ne.jp/shinya-yamada/
 【コラム－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784044271022:Medium">
- <a target="_blank" href="https://www.amazon.co.jp/%E6%84%9A%E8%80%85%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/404427102X?SubscriptionId=15V2PN3P15ET69D45D02&amp;tag=longfish80109-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=404427102X"><img border="0" width="114" height="160" src="https://images-fe.ssl-images-amazon.com/images/I/513sIHDk0BL._SL160_.jpg" alt="米澤穂信 / 愚者のエンドロール (角川文庫) / 角川書店(角川グループパブリッシング)"></a>
-</div>
+<div class="ndlthum" data-isbn13="9784044271022" data-keyword="愚者のエンドロール 角川文庫 米澤 穂信"></div>
 【変換済－】
 
 ■米澤 穂信『愚者のエンドロール』(角川スニーカー文庫 スニーカー・ミステリ倶楽部)

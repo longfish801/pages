@@ -9,9 +9,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784163246901:Medium">
-<a href="https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%86%E3%83%9F%E3%83%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4163246908?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=5acf4cc5ae13f24276cbcc847df429b9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4163246908&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4163246908" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784163246901" data-keyword="インシテミル 米澤 穂信"></div>
 【変換済－】
 
 ・【リンク：米澤穂信『インシテミル』早引表 [Excel]：resume.xls】
@@ -174,7 +172,6 @@
 		<td>&nbsp;</td>
 	</tr>
 </table>
-
 <!-- Converting Done at Oct 24, 2010 14:58 -->
 <!-- Converter was made by AGATASHI mailto:agata@iis.u-tokyo.ac.jp -->
 【変換済－】
@@ -244,7 +241,6 @@ p.224 関水自作の偽〈メモランダム〉 薬殺、ニコチン、エラ�
 		<td colspan="4">&nbsp;</td>
 	</tr>
 </table>
-
 <!-- Converting Done at Oct 24, 2010 14:59 -->
 <!-- Converter was made by AGATASHI mailto:agata@iis.u-tokyo.ac.jp -->
 【変換済－】

@@ -43,6 +43,7 @@
 【－変換済：html】
 <div class="amathum" id="Books:ASIN:B01KDC30M4:Medium"><a href="https://amzn.to/42oMryZ" target="_blank"><img src="image/cover1.png" alt="小田牧央 ハィパァゲィム［上］空呂木冬宇の幸福論" width="150"></a></div>
 【変換済－】
+
 【－変換済：html】
 <div class="amathum" id="Books:ASIN:B01KDCI6WS:Medium"><a href="https://amzn.to/3SVeCCJ" target="_blank"><img src="image/cover2.png" alt="小田牧央 ハィパァゲィム［下］鯨峰不二之の幸福論" width="150"></a></div>
 【変換済－】
@@ -104,4 +105,3 @@
 　その罪深さに、泣きそうになる。彼女に秘密を作っていること。彼女から未来を奪っていること。自分の不誠実さに押しつぶされそうになる。
 　名前に冬の字を持つ少年は、自分が残酷な氷の季節を好むことをまだ知らない。肺に冷たい空気を吸いこみながら、冬宇は少しだけ自分に絶望する。
 【行範囲－】
-

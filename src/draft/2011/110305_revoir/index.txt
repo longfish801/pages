@@ -9,9 +9,7 @@
 【注意－】
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784062837316:Medium">
-<a href="https://www.amazon.co.jp/%E4%B8%B8%E5%A4%AA%E7%94%BA%E3%83%AB%E3%83%B4%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%AB-%E8%AC%9B%E8%AB%87%E7%A4%BEBOX-%E5%86%86%E5%B1%85-%E6%8C%BD/dp/4062837315?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=3a836e0d2dcb08cc4209763eedf1dddf&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062837315&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=4062837315" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784062837316" data-keyword="丸太町ルヴォワール 講談社BOX 円居 挽"></div>
 【変換済－】
 
 ・【リンク：円居挽『丸太町ルヴォワール』早引表 [Excel]：resume.xls】
@@ -1150,7 +1148,6 @@
 		<td>――双龍会が終了しました。</td>
 	</tr>
 </table>
-
 <!-- Converting Done at Mar 05, 2011 20:22 -->
 <!-- Converter was made by AGATASHI mailto:agata@iis.u-tokyo.ac.jp -->
 【変換済－】
@@ -1250,7 +1247,6 @@
 		<td>京都大学医学部教授。慈恩の検屍を担当した。</td>
 	</tr>
 </table>
-
 <!-- Converting Done at Mar 05, 2011 20:21 -->
 <!-- Converter was made by AGATASHI mailto:agata@iis.u-tokyo.ac.jp -->
 【変換済－】

@@ -4,9 +4,7 @@
 【＃著作権】2011 Sugimoto@MNU-No10
 
 【－変換済：html】
-<div class="amathum" id="Books:EAN:9784523264972:Medium">
-<a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%96%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E6%88%A6%E4%BA%89-%E3%80%8C%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB%E3%80%8D%E3%81%8B%E3%82%89%E3%80%8C%E4%B8%96%E7%95%8C%E5%86%85%E6%88%A6%E3%80%8D%E3%81%B8-%E7%AC%A0%E4%BA%95%E6%BD%94/dp/452326497X?SubscriptionId=15V2PN3P15ET69D45D02&amp=&amp=&amp=&amp=&amp=&linkCode=li2&tag=longfish80109-22&linkId=5ce6dd82b3d51876c562ba92a37c1bc0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=452326497X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=longfish80109-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=longfish80102-22&language=ja_JP&l=li2&o=9&a=452326497X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+<div class="ndlthum" data-isbn13="9784523264972" data-keyword="サブカルチャー戦争 「セカイ系」から「世界内戦」へ 笠井潔"></div>
 【変換済－】
 
 　1/22(土) 限界小説研究会[編]『サブカルチャー戦争　「セカイ系」から「世界内戦」へ』（南雲堂）刊行記念イベント第二弾「【リンク：ポスト9.11のハリウッド映画と日本映画：http://ameblo.jp/genkaiken/entry-10766058083.html】」に参加してきました。場所は西武池袋本店別館９階、池袋コミュニティ・カレッジ28番教室。午後六時半開始、八時過に終了。
