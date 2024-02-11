@@ -13,3 +13,8 @@ figure > blockquote.blockquote {
 figure > figcaption.blockquote-footer {
 	background-color: #f0f0f0;
 }
+div.thumbnail {
+	margin-left: 1rem;
+	float: right;
+	clear:right;
+}
